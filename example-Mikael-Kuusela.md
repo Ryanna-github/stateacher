@@ -13,27 +13,48 @@ bio-current:
     - oceanography
     - remote sensing
     - particle physics
-  group: 
-    - Statistical Methods for the Physical Sciences (STAMPS) [http://stat.cmu.edu/stamps/]
-    - CMS Experiment at CERN [https://cms.cern/]
-    - US CLIVAR Ocean Uncertainty Quantification [https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group]
-  collaboration: 
-    - 
-      with: oceanographers
-      on: Argo floats [http://argo.ucsd.edu/]
-    - 
-      with: NASA scientists
-      on: OCO-2 mission [https://ocov2.jpl.nasa.gov/]
-    - 
-      with: particle physicists
-      on: CERN [https://home.cern/]
   homepage: http://www.stat.cmu.edu/~mkuusela/
   googlescholar: https://scholar.google.com/citations?user=x1LQVZoAAAAJ
   aminer: https://www.aminer.org/profile/mikael-kuusela/53f45d34dabfaee1c0b46564
   Github: https://github.com/mkuusela
   status: 在职
-  last-update: 2021-08-17
---
+group: 
+  - Statistical Methods for the Physical Sciences (STAMPS) [http://stat.cmu.edu/stamps/]
+  - CMS Experiment at CERN [https://cms.cern/]
+  - US CLIVAR Ocean Uncertainty Quantification [https://usclivar.org/working-groups/ocean-uncertainty-quantification-working-group]
+collaboration: 
+  - 
+    with: oceanographers
+    on: Argo floats [http://argo.ucsd.edu/]
+  - 
+    with: NASA scientists
+    on: OCO-2 mission [https://ocov2.jpl.nasa.gov/]
+  - 
+    with: particle physicists
+    on: CERN [https://home.cern/]
+
+edu-phd:
+  university: École Polytechnique Fédérale de Lausanne (EPFL)
+  school: Statistics
+  email: 
+  date-start: 
+  date-end: 2016
+  advisor: 
+edu-master:
+  university: Aalto University
+  school: Engineering Physics and Mathematics
+  date-start: 
+  date-end: 2012
+  advisor: 
+edu-bachelor:
+  university: Aalto University
+  school: Engineering Physics and Mathematics
+  major: 
+  date-start: 
+  date-end: 2010
+  last-update: 2021-08-19
+---
+
 
 # profile
 

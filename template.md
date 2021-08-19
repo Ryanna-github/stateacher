@@ -105,3 +105,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件
 # Publication[English]
 
 # Publication[中文]
+
+# Information Reference

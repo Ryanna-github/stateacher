@@ -24,7 +24,7 @@ bio-current:
     - 统计计算
     - 大规模数据分析
     - 深度学习模型
-  last-update: 2021-08-17
+  last-update: 2021-08-19
 job-faculty-1:
   university: 上海财经大学
   school: 统计与管理学院
@@ -79,7 +79,7 @@ page-other:
   twitter:
   wikipedia:
   baidu-baike:
---
+---
 
 # profile
 
