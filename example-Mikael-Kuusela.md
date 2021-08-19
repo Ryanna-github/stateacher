@@ -29,6 +29,7 @@ bio-current:
       on: CERN [https://home.cern/]
   homepage: http://www.stat.cmu.edu/~mkuusela/
   googlescholar: https://scholar.google.com/citations?user=x1LQVZoAAAAJ
+  aminer: https://www.aminer.org/profile/mikael-kuusela/53f45d34dabfaee1c0b46564
   Github: https://github.com/mkuusela
   status: 在职
   last-update: 2021-08-17

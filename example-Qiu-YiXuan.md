@@ -19,6 +19,7 @@ bio-current:
     - https://statr.me/
   github: https://github.com/yixuan/
   googlescholar: 
+  aminer: https://www.aminer.org/profile/yixuan-qiu/54592052dabfaeb0fe30ba67
   status: 在读/在职/离职/退休/亡故
   last-update: 2021-08-17
 job-faculty-1:
