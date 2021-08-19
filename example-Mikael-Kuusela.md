@@ -56,7 +56,7 @@ edu-bachelor:
 ---
 
 
-# profile
+# Profile
 
 ![Mikael Kuusela](http://www.stat.cmu.edu/~mkuusela/author/mikael-kuusela/avatar_hu617ad5356b1e89e450b20d50b259fcde_119431_270x270_fill_q90_lanczos_center.jpg)
 
@@ -87,14 +87,21 @@ For publications, see my [Google Scholar](https://scholar.google.com/citations?u
 # Education[English]
 
 
-PhD in Statistics, 2016
+- PhD in Statistics, 2016
+    
+    École Polytechnique Fédérale de Lausanne (EPFL)
+    
+- MSc in Engineering Physics and Mathematics, 2012
+    
+    Aalto University
+    
+- BSc in Engineering Physics and Mathematics, 2010
+    
+    Aalto University
 
-École Polytechnique Fédérale de Lausanne (EPFL)
+# References
 
-MSc in Engineering Physics and Mathematics, 2012
+-  homepage: http://www.stat.cmu.edu/~mkuusela/
+-  googlescholar: https://scholar.google.com/citations?user=x1LQVZoAAAAJ
+-  aminer: https://www.aminer.org/profile/mikael-kuusela/53f45d34dabfaee1c0b46564
 
-Aalto University
-
-BSc in Engineering Physics and Mathematics, 2010
-
-Aalto University
