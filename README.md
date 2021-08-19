@@ -22,21 +22,24 @@
 - 阅读前先下载模板 template.md.
 - 注意 YAML 填写规范，如禁用 tab，冒号后需加空格构成完整的键值对，避免不必要的空行等。
 - 学者信息直接填写官网等查询到的一手资料，信息收集渠道可参考但不限于以下来源：
-    - 学者个人主页
-    - Google Scholar，百度学术，必应学术
-    - [ResearchGate](https://www.researchgate.net/)
+    - 学者官方主页(核心)
+    - 学者个人主页(核心)
+    - AMiner主页(核心)
+    - Google Scholar(核心)
+    - Google等搜索学者的得到其他相关信息（辅助）
+    - 百度学术，必应学术，ResearchGate 等（辅助）
 - 字段填写规则：
-    - School 字段注意添加链接，以避免混淆，格式如 school: 学院名称 [学院网址]
+    - school 字段注意添加链接，以避免混淆，格式如 school: 学院名称 [学院网址]
     - email，homepage 等字段如有多个应逐一列出。
     - collaboration, group 字段非必填，若学者有交叉合作研究可填写。
     - advisor 字段填写格式为：导师姓名 [导师邮箱/网址]，邮箱信息优先，若无邮箱则填写导师信息网址。
     - aminer 字段必填，对应链接在 [AMiner 网站](https://www.aminer.org/) 检索学者得到，注意
-- 头像尽量使用线上高清图，格式为 `![名称](图片链接)`，可在 [AMiner 网站](https://www.aminer.org/) 获取。
-- 非特殊情况不增添模板中字段，不收集联系电话等信息。若发现其他有价值字段欢迎在微信群讨论。
-- 文件命名格式：学者姓名.md，空格以（-）代替，中文学者名每个汉字首字母大写，姓与名之间用（-）连接，如 Mikael-Kuusela.md，Qiu-YiXuan.md.
-- 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下。
+- 头像尽量使用线上高清图，格式为 `![名称](图片链接)`，可在学者官方、个人主页或 AMiner 等网站 获取。
 - 无需深入调查，只用收集个人主页外露信息即可。
 - 填写语言忠于信息来源，无需自行翻译，YAML 部分按信息来源填写，中英文均可，人物介绍等部分若为英文，填入 Biography[English]，若为中文，填入 Biography[中文]，研究方向（Interests），教育背景（Education）等同理。
+- 文件命名格式：学者姓名.md，空格以（-）代替，中文学者名每个汉字首字母大写，姓与名之间用（-）连接，如 Mikael-Kuusela.md，Qiu-YiXuan.md.
+- 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下。
+- 非特殊情况不增添模板中字段，不收集联系电话等信息。若发现其他有价值字段欢迎在Issues或微信群讨论。
 
 
 
@@ -60,6 +63,7 @@
 
 ##  推荐工具
 
+- [VsCode](https://code.visualstudio.com/) 入股不亏，好用的编辑器，可以安装 MarkDown，YAML 对应插件。
 - 提交前可使用线上 YAML formatter 自查格式/语法问题，如 https://jsonformatter.org/yaml-formatter, https://mtp.tools/formatters/yaml-formatter.
 - 使用浏览器插件直接将选中内容复制为 Markdown，如 https://github.com/notlmn/copy-as-markdown（支持 Chrome, Firefox），可提升复制带链接的文字效率。
 
