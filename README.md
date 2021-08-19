@@ -5,11 +5,14 @@
 
 1. 学习 MarkDown，YAML 用法及语法规范，初学者先阅读入门教程（[MarkDown 入门参考](https://www.runoob.com/markdown/md-tutorial.html)，[YAML 入门参考](https://www.runoob.com/w3cnote/yaml-intro.html)）
 2. 阅读 [填写说明](#填写说明) 中的规定。
-3. 阅读示例文件（example-Mikael-Kuusela.md, example-Qiu-YiXuan.md）
+3. 阅读示例文件（[example-Mikael-Kuusela.md](https://gitee.com/Ryanna-gitee/stateacher/blob/master/example-Mikael-Kuusela.md), 
+[example-Yixuan-QIU.md](https://gitee.com/Ryanna-gitee/stateacher/blob/master/example-Yixuan-QIU.md)）
 4. 按要求开始填写。
+    1. Yaml部分，参考模板和示例填写即可。注意符合yaml语法规范。如果想增加字段，建议提前在微信群和大家讨论确定。
+    2. Markdown部分，如果从网页复制较多内容，务必通过浏览器安装copy-as-markdown插件，鼠标右键选择Copy selection as Markdown，然后粘贴。这样才能保障内容格式以及相关超链接正常。
 5. 自查语法规范性，重复修改：
-    1. YAML 部分可借助 [推荐工具](#推荐工具) 进行自查。
-    2. 其他 MarkDown 部分，如头像图片显示正常，超链接文字正常跳转，正确换行。借助 [Typora](https://typora.io/) 等编辑器或 [线上工具](https://md.mzr.me/) 检查。
+    1. YAML 部分(两个```---```中间的，在文件开头若干行)可借助 [推荐工具](#推荐工具) 进行自查，看yaml文件是否能正常转换为json，如果有问题根据提示修改。
+    2. Markdown 部分，如头像图片显示正常，内容层级正常，超链接文字正常跳转，正确换行。借助 [Typora](https://typora.io/) 等编辑器或 [线上工具](https://md.mzr.me/) 检查。
 6. 确认内容无误后，根据 [填写说明](#填写说明) 中命名规范和路径上传文件，等待审核。
 7. 审核结果：
     1. 未通过：重新修改，返回第5步。
@@ -35,13 +38,13 @@
     - advisor 字段填写格式为：导师姓名 [导师邮箱/网址]，邮箱信息优先，若无邮箱则填写导师信息网址。
     - aminer 字段必填，对应链接在 [AMiner 网站](https://www.aminer.org/) 检索学者得到，注意
 - 头像尽量使用线上高清图，格式为 `![名称](图片链接)`，可在学者官方、个人主页或 AMiner 等网站 获取。
-- 无需深入调查，只用收集个人主页外露信息即可。
 - 填写语言忠于信息来源，无需自行翻译，YAML 部分按信息来源填写，中英文均可，人物介绍等部分若为英文，填入 Biography[English]，若为中文，填入 Biography[中文]，研究方向（Interests），教育背景（Education）等同理。
 - 复制文字应包含网页原本的超链接，可使用 [推荐工具](#推荐工具) 中的插件。
-- 在末尾 Information Reference 模块标明信息出处以便核查，尤其注意标注上文未提及的信息来源。
-- 文件命名格式：学者姓名.md，空格以（-）代替，中文学者名每个汉字首字母大写，姓与名之间用（-）连接，如 Mikael-Kuusela.md，Qiu-YiXuan.md.
+- 在末尾 References 模块标明填写相关材料时候引用的资料链接，以便后续核查；尤其是参考的非作者主页的相关链接。
+- 文件命名格式：学者姓名.md，空格以（-）代替，华人学者英文名和其主页一致即可，名与姓氏之间用（-）连接，如 Mikael-Kuusela.md，Yixuan-QIU.md.
 - 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下。
 - 非特殊情况不增添模板中字段，不收集联系电话等信息。若发现其他有价值字段欢迎在Issues或微信群讨论。
+
 
 
 
@@ -57,9 +60,7 @@
 - 列表成员用方括号括起来，用逗号分隔。
 - 关联数组使用冒号（:）表示，键值对形式。它们用花括号 {} 括起来。
 - 单个流的多个文档用3个连字符（---）分隔。
-- 每个文件中重复的节点最初用 & 符号表示，之后用星号（*）标记。
 - YAML总是要求使用冒号和逗号作为列表分隔符，且其后带有英文空格。
-- 节点应该用感叹号（!）或双感叹号（!!）进行标记，后面跟着可以扩展为 URI 或 URL 的字符串。
 
 
 
