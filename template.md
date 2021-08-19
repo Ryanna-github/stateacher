@@ -74,7 +74,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件
   advisor: 
 ---
 
-# profile
+# Profile
 
 ![]()
 

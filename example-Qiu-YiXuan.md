@@ -5,7 +5,7 @@ bio-current:
   sex: 男
   birth-date: 1990
   university: 上海财经大学
-  school: 统计与管理学院 [https://ssm.sufe.edu.cn]
+  school: 统计与管理学院
   major: 应用统计与数据科学系
   title: 副教授
   email: 
@@ -19,11 +19,13 @@ bio-current:
     - https://statr.me/
   github: https://github.com/yixuan/
   googlescholar: 
-  status: 在读/在职/离职/退休/亡故
+  aminer: https://www.aminer.org/profile/yixuan-qiu/54592052dabfaeb0fe30ba67
+  status: 在职
   interests: 
     - 统计计算
     - 大规模数据分析
     - 深度学习模型
+  status: 在读/在职/离职/退休/亡故
   last-update: 2021-08-19
 job-faculty-1:
   university: 上海财经大学
@@ -77,25 +79,26 @@ page-other:
   linkedin: https://www.linkedin.com/in/yixuanq
   weibo:
   twitter:
-  wikipedia:
-  baidu-baike:
+  Wikipedia:
+  Baidu-Baike:
 ---
 
 # profile
 
 ![邱怡轩](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/Qiu-Yixuan.png)
 
+
 # Biography[English]
 
-I am Yixuan Qiu, currently an associate professor in School of Statistics and Management at Shanghai University of Finance and Economics (SUFE). Before joining SUFE in 2020, I was as a postdoctoral researcher in Department of Statistics at Carnegie Mellon University, working with Dr. Kathryn Roeder and Dr. Jing Lei. I obtained my PhD degree in statistics from Purdue University in 2018, advised by Dr. Lingsong Zhang and Dr. Xiao Wang. Prior to my PhD study in Purdue, I graduated from Renmin University of China for B.A. and M.A. in statistics and actuarial science, respectively.
+I am Yixuan Qiu, currently an associate professor in [School of Statistics and Management](https://ssm.sufe.edu.cn/) at [Shanghai University of Finance and Economics (SUFE)](https://english.sufe.edu.cn/). Before joining SUFE in 2020, I was as a postdoctoral researcher in [Department of Statistics](http://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), working with Dr. [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/index.html) and Dr. [Jing Lei](http://www.stat.cmu.edu/~jinglei/). I obtained my PhD degree in statistics from [Purdue University](http://www.stat.purdue.edu/) in 2018, advised by Dr. [Lingsong Zhang](https://www.stat.purdue.edu/~lingsong/) and Dr. [Xiao Wang](https://www.stat.purdue.edu/~wangxiao/). Prior to my PhD study in Purdue, I graduated from [Renmin University of China](https://www.ruc.edu.cn/en) for B.A. and M.A. in statistics and actuarial science, respectively.
 
-My research focuses on statistical machine learning and inference. I have great interest in statistical computing, deep learning, exact inference methods, large-scale data analysis, and data visualization. You can find some of my works in the Research page.
+My research focuses on statistical machine learning and inference. I have great interest in statistical computing, deep learning, exact inference methods, large-scale data analysis, and data visualization. You can find some of my works in the [Research](https://statr.me/research/) page.
 
-I am also enthusiastic about programming and developing high-performance software packages for statistics and machine learning. The Software page lists some open source software packages that I have written and maintained over the years. Feel free to stop by my GitHub page, and even better, give me a star for projects that interest you.
+I am also enthusiastic about programming and developing high-performance software packages for statistics and machine learning. The [Software](https://statr.me/software/) page lists some open source software packages that I have written and maintained over the years. Feel free to stop by my [GitHub](https://github.com/yixuan/) page, and even better, give me a star for projects that interest you.
 
-I have been constantly (although slowly!) writing technical blog posts on statistics and programming. Just leave a comment there if you have any thoughts on some topics.
+I have been constantly (although slowly!) writing technical [blog posts](https://statr.me/blogs/) on statistics and programming. Just leave a comment there if you have any thoughts on some topics.
 
-You can always reach me through email, yixuanq [at] gmail [dot] com.
+You can always reach me through email, [yixuanq \[at\] gmail \[dot\] com](https://statr.me/about/#).
 
 # Biography[中文]
 
@@ -123,27 +126,45 @@ You can always reach me through email, yixuanq [at] gmail [dot] com.
 # Awards[中文]
 
 # Talks[English]
+## Invited Talks
 
-- Efficient Multi-Modal Sampling via Tempered Distribution Flow
-University of Missouri (online), 2021.
+- **Efficient Multi-Modal Sampling via Tempered Distribution Flow**  
+    University of Missouri (online), 2021.
+- **Prettier R Graphs and Documents with {showtext}+{prettydoc}**  
+    Cleveland R User Group ([website](https://www.meetup.com/Cleveland-UseR-Group/events/272645889/)), 2020. [Slides](https://yixuan.blog/cleveland-r-meetup/pretty.html)
+- **Gradient-based Sparse Principal Component Analysis**  
+    The 11th ICSA International Conference, 2019. [Slides](https://bitbucket.org/yixuan/downloads/downloads/2019-icsa-gradfps.pdf)
+- **Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion**  
+    The 36th Annual Quality and Productivity Research Conference, 2019. [Slides](https://bitbucket.org/yixuan/downloads/downloads/2019-qprc-almond.pdf)
+- **Exact Inference with Partially Specified Bayesian Models**  
+    2017 ICSA Applied Statistics Symposium, 2017. [Slides](https://bitbucket.org/yixuan/downloads/downloads/2017-icsa-pb.pdf)
+- **SupR: Multi-threaded R Environment**  
+    The 9th China-R Conference, 2016. [Slides](https://bitbucket.org/yixuan/downloads/downloads/2016-chinar-supr.pdf)
+- **Large-Scale SVD and Matrix Completion**  
+    The 7th China-R Conference, 2014.
 
-- Prettier R Graphs and Documents with {showtext}+{prettydoc}
-Cleveland R User Group (website), 2020.  Slides
+## Other Talks and Posters
 
-- Gradient-based Sparse Principal Component Analysis
-The 11th ICSA International Conference, 2019.  Slides
-
-- Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion
-The 36th Annual Quality and Productivity Research Conference, 2019.  Slides
-
-- Exact Inference with Partially Specified Bayesian Models
-2017 ICSA Applied Statistics Symposium, 2017.  Slides
-
-- SupR: Multi-threaded R Environment
-The 9th China-R Conference, 2016.  Slides
-
-- Large-Scale SVD and Matrix Completion
-The 7th China-R Conference, 2014.
+- **Unbiased Contrastive Divergence Algorithm for Training Energy-based Latent Variable Models**  
+    International Conference on Learning Representations ([website](https://iclr.cc/virtual_2020/poster_r1eyceSYPr.html)), 2020. [Slides](https://bitbucket.org/yixuan/downloads/downloads/2020-iclr-ucd.pdf) [Video](https://iclr.cc/virtual_2020/poster_r1eyceSYPr.html)
+- **Stochastic Approximate Gradient Descent via the Underdamped Langevin Algorithm**  
+    AAAI Conference on Artificial Intelligence, 2020. [Poster](https://bitbucket.org/yixuan/downloads/downloads/2020-aaai-sagd.pdf)
+- **Gradient-based Spase PCA with Extensions to Online Learning**  
+    Joint Statistical Meetings, 2019.
+- **Stochastic Approximate Gradient Descent via the Underdamped Langevin Algorithm**  
+    SAMSI Deep Learning Workshop, 2019. [Poster](https://bitbucket.org/yixuan/downloads/downloads/2019-samsi-sagd.pdf)
+- **Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion**  
+    Conference of the Science of Deep Learning, 2019. [Poster](https://bitbucket.org/yixuan/downloads/downloads/2019-dl-almond.pdf)
+- **Exact and Efficient Inference for Partial Bayes Problems**  
+    Fifth Bayesian, Fiducial, and Frequentist (BFF5) Conference, 2018. [Poster](https://bitbucket.org/yixuan/downloads/downloads/2018-bff5-pb.pdf)
+- **Beyond Bayes: What We Can Do with a Partial Prior**  
+    Purdue Statistics Graduate Student Seminar, 2017. [Slides](http://archive.statr.me/files/GSO-PB/partial_bayes.html)
+- **How To Make Your Code Faster**  
+    Purdue Statistics Graduate Student Seminar, 2016. [Slides](http://gso-stat.github.io/slides/yixuan/computing.html)
+- **Generalized p-Value for Two-Sample Functional Data Comparison**  
+    Joint Statistical Meetings, 2014.
+- **Dynamic Document with knitr**  
+    Purdue Statistics Graduate Student Seminar, 2014. [Slides](http://archive.statr.me/files/GSO/GSO-knitr-new.html)
 
 # Talks[中文]
 
@@ -166,22 +187,14 @@ The 7th China-R Conference, 2014.
 
 # Publication[English]
 
-Qiu, Y., Wang, J., Lei, J., and Roeder, K., Identification of cell-type-specific marker genes from co-expression patterns in tissue samples. Bioinformatics, 2021.
-
-Qiu, Y. and Wang, X., ALMOND: Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion. Journal of the American Statistical Association, 2020.
-
-Qiu, Y. and Wang, X., Stochastic Approximate Gradient Descent via the Langevin Algorithm. AAAI Conference on Artificial Intelligence (AAAI 2020), 2020.
-
-Qiu, Y., Zhang, L., and Wang, X., Unbiased Contrastive Divergence Algorithm for Training Energy-Based Latent Variable Models. International Conference on Learning Representations (ICLR 2020), 2019.
-
-Lu, J.*, Qiu, Y.*, and Deng, A., A Note on Type S/M Errors in Hypothesis Testing. *Joint first authors. British Journal of Mathematical and Statistical Psychology, 2019.
-
-Qiu, Y., Zhang, L., and Liu, C., Exact and Efficient Inference for Partial Bayes Problems. Electronic Journal of Statistics, 2018.
-
-Qiu, Y. and Wei, W., A Scalable Sequential Principal Component Analysis Algorithm (SeqPCA) with Application to User Access Control Analysis. IEEE International Conference on Big Data, 2017.
-
-Abraham, G., Qiu, Y., and Inouye, M., FlashPCA2: Principal Component Analysis of Biobank-scale Genotype Datasets. Bioinformatics, 2017.
-
-Qiu, Y., Wang, X. et al., Web Usage Cluster Analysis Based on Prediction Strength. International Conference on Instrumentation, Measurement, Circuits and Systems, 2011.
+- **Qiu, Y.**, Wang, J., Lei, J., and Roeder, K., _Identification of cell-type-specific marker genes from co-expression patterns in tissue samples_. Bioinformatics, 2021.
+- **Qiu, Y.** and Wang, X., _ALMOND: Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion_. Journal of the American Statistical Association, 2020.
+- **Qiu, Y.** and Wang, X., _Stochastic Approximate Gradient Descent via the Langevin Algorithm_. AAAI Conference on Artificial Intelligence (AAAI 2020), 2020.
+- **Qiu, Y.**, Zhang, L., and Wang, X., _Unbiased Contrastive Divergence Algorithm for Training Energy-Based Latent Variable Models_. International Conference on Learning Representations (ICLR 2020), 2019.
+- Lu, J.\*, **Qiu, Y.**\*, and Deng, A., _A Note on Type S/M Errors in Hypothesis Testing_. \*Joint first authors. British Journal of Mathematical and Statistical Psychology, 2019.
+- **Qiu, Y.**, Zhang, L., and Liu, C., _Exact and Efficient Inference for Partial Bayes Problems_. Electronic Journal of Statistics, 2018.
+- **Qiu, Y.** and Wei, W., _A Scalable Sequential Principal Component Analysis Algorithm (SeqPCA) with Application to User Access Control Analysis_. IEEE International Conference on Big Data, 2017.
+- Abraham, G., **Qiu, Y.**, and Inouye, M., _FlashPCA2: Principal Component Analysis of Biobank-scale Genotype Datasets_. Bioinformatics, 2017.
+- **Qiu, Y.**, Wang, X. et al., _Web Usage Cluster Analysis Based on Prediction Strength_. International Conference on Instrumentation, Measurement, Circuits and Systems, 2011.
 
 # Publication[中文]
