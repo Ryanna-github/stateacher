@@ -5,7 +5,7 @@ bio-current:
   sex: 男
   birth-date: 1990
   university: 上海财经大学
-  school: 统计与管理学院
+  school: 统计与管理学院 [https://ssm.sufe.edu.cn]
   major: 应用统计与数据科学系
   title: 副教授
   email: 
@@ -19,21 +19,23 @@ bio-current:
     - https://statr.me/
   github: https://github.com/yixuan/
   googlescholar: 
-  aminer: https://www.aminer.org/profile/yixuan-qiu/54592052dabfaeb0fe30ba67
   status: 在读/在职/离职/退休/亡故
+  interests: 
+    - 统计计算
+    - 大规模数据分析
+    - 深度学习模型
   last-update: 2021-08-17
 job-faculty-1:
   university: 上海财经大学
   school: 统计与管理学院
   major: 应用统计与数据科学系
   email: qiuyixuan@sufe.edu.cn
-  research-field: 统计计算，大规模数据分析，深度学习模型
   homepage: https://ssm.sufe.edu.cn/14/b1/c714a136369/page.htm
   date-start: 2020
   title: 副教授
   type: tenure-track
   last-update: 2021-08-17-12:02
-job-post-phd:
+job-post-doc:
   university: Carnegie Mellon University
   school: Statistics & Data Science [http://www.stat.cmu.edu/]
   email: yixuanq@andrew.cmu.edu
@@ -51,23 +53,18 @@ edu-phd:
   advisor: 
     - Dr. Lingsong Zhang [lingsong@purdue.edu]
     - Dr. Xiao Wang [wangxiao@purdue.edu]
-  degree: phd
 edu-master:
   university: 中国人民大学
-  school: 统计学院
+  school: 统计学院 [http://stat.ruc.edu.cn/]
   date-start: 2010
   date-end: 2012
-  advisor: 孟生旺
-  degree: master
-edu-BS/MA:
+  advisor: 孟生旺[mengshw@ruc.edu.cn]
+edu-bachelor:
   university: 中国人民大学
-  school: 统计学院
+  school: 统计学院 [http://stat.ruc.edu.cn/]
   major: 
     - 统计学
     - 精算
-  degree: 
-    - BS
-    - MA
   date-start: 2006
   date-end: 2010
 page-other:
@@ -75,11 +72,13 @@ page-other:
   research: https://statr.me/research/
   software: https://statr.me/software/
   project: 
-  blog: https://statr.me/blogs/
+  blog: https://yixuan.blog/
   arxiv: 
   linkedin: https://www.linkedin.com/in/yixuanq
   weibo:
   twitter:
+  wikipedia:
+  baidu-baike:
 --
 
 # profile
@@ -102,11 +101,11 @@ You can always reach me through email, yixuanq [at] gmail [dot] com.
 
 # Interests[English]
 
-* statistical computing
-* deep learning
-* exact inference methods
-* large-scale data analysis
-* data visualization
+- statistical computing
+- deep learning
+- exact inference methods
+- large-scale data analysis
+- data visualization
 
 # Interests[中文]
 
@@ -116,34 +115,34 @@ You can always reach me through email, yixuanq [at] gmail [dot] com.
 
 # Awards[English]
 
-* Bilsland Dissertation Fellowship, Purdue University, 2017
-* Honorable Mention of John Chambers Award, American Statistical Association, 2016
-* ICSA Midwest Chapter Meeting Poster Award, ICSA Midwest Chapter, 2015
-* Ross Fellowship, Purdue University, 2012
+- Bilsland Dissertation Fellowship, Purdue University, 2017
+- Honorable Mention of John Chambers Award, American Statistical Association, 2016
+- ICSA Midwest Chapter Meeting Poster Award, ICSA Midwest Chapter, 2015
+- Ross Fellowship, Purdue University, 2012
 
 # Awards[中文]
 
 # Talks[English]
 
-* Efficient Multi-Modal Sampling via Tempered Distribution Flow
+- Efficient Multi-Modal Sampling via Tempered Distribution Flow
 University of Missouri (online), 2021.
 
-* Prettier R Graphs and Documents with {showtext}+{prettydoc}
+- Prettier R Graphs and Documents with {showtext}+{prettydoc}
 Cleveland R User Group (website), 2020.  Slides
 
-* Gradient-based Sparse Principal Component Analysis
+- Gradient-based Sparse Principal Component Analysis
 The 11th ICSA International Conference, 2019.  Slides
 
-* Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion
+- Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion
 The 36th Annual Quality and Productivity Research Conference, 2019.  Slides
 
-* Exact Inference with Partially Specified Bayesian Models
+- Exact Inference with Partially Specified Bayesian Models
 2017 ICSA Applied Statistics Symposium, 2017.  Slides
 
-* SupR: Multi-threaded R Environment
+- SupR: Multi-threaded R Environment
 The 9th China-R Conference, 2016.  Slides
 
-* Large-Scale SVD and Matrix Completion
+- Large-Scale SVD and Matrix Completion
 The 7th China-R Conference, 2014.
 
 # Talks[中文]

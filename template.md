@@ -15,7 +15,7 @@ bio-current:
   googlescholar: 
   aminer: 
   status: # 在读/在职/离职/退休/亡故
-  last-update: # yyyy-mm-dd
+  last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:
   university: 
   school: 
@@ -30,22 +30,12 @@ edu-master:
   date-start: 
   date-end: 
   advisor:
-  degree: # MS/MA
 edu-bachelor:
   university: 
   school: 
   major: 
   date-start: 
   date-end: 
-  degree: # BA/BS
-collaboration:
-  - 
-    with: 
-    on: 
-  - 
-    with: 
-    on: 
-group: 
 page-other:
   publication: 
   research: 
@@ -56,9 +46,37 @@ page-other:
   linkedin: 
   weibo:
   twitter:
+  wikipedia:
+  baidu-baike:
+collaboration: # 合作研究
+  - 
+    with: 
+    on: 
+  - 
+    with: 
+    on: 
+group: # 所属团队
+job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
+  university: 
+  school: 
+  major: 
+  email: 
+  homepage: # 机构内学者主页
+  date-start: 
+  title: 
+  type: 
+job-post-doc: # 博士后研究员，字段填写参看示例文件
+  university: 
+  school: 
+  email: 
+  date-start: 
+  date-end: 
+  advisor: 
 ---
 
 # profile
+
+![]()
 
 # Biography[English]
 
@@ -71,3 +89,19 @@ page-other:
 # Education[English]
 
 # Education[中文]
+
+# Awards[English]
+
+# Awards[中文]
+
+# Talks[English]
+
+# Talks[中文]
+
+# Work experience[English]
+
+# Work experience[中文]
+
+# Publication[English]
+
+# Publication[中文]
