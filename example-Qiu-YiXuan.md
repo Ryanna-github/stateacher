@@ -84,7 +84,7 @@ page-other:
 
 # profile
 
-![邱怡轩](yixuan.jpeg)
+![邱怡轩](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/Qiu-Yixuan.png)
 
 # Biography[English]
 

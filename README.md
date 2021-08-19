@@ -8,14 +8,17 @@
 - 学者信息直接填写官网等查询到的一手资料，信息收集渠道可参考但不限于以下来源：
     - 学者个人主页
     - Google Scholar，百度学术，必应学术
-    - [AMiner](https://www.aminer.org/)，[ResearchGate](https://www.researchgate.net/)
+    - [ResearchGate](https://www.researchgate.net/)
 - 字段填写规则：
     - School 字段注意添加链接，以避免混淆，格式如 school: 学院名称 [学院网址]
     - email，homepage 等字段如有多个应逐一列出。
     - collaboration, group 字段非必填，若学者有交叉合作研究可填写。
     - advisor 字段填写格式为：导师姓名 [导师邮箱/网址]，邮箱信息优先，若无邮箱则填写导师信息网址。
+    - aminer 字段必填，对应链接在 [AMiner 网站](https://www.aminer.org/)检索学者得到。
+- 头像尽量使用线上高清图，格式为 ![名称](图片链接)，可在 [AMiner 网站](https://www.aminer.org/) 获取。
 - 非特殊情况不增添模板中字段，不收集联系电话等信息。若有特殊有价值字段欢迎用 comment 给出。
 - 文件命名格式：学者姓名.md，空格以（-）代替，如 Mikael-Kuusela.md，Qiu-YiXuan.md.
+- 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下。
 
 
 ## YAML 填写自查
