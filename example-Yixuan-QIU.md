@@ -172,18 +172,19 @@ You can always reach me through email, [yixuanq \[at\] gmail \[dot\] com](https:
 
 # Education[中文]
 
-2012-2018 普渡大学统计系，博士
+**2012-2018** **普渡大学统计系，博士**
 
-2010-2012 中国人民大学统计学院，硕士
+**2010-2012** **中国人民大学统计学院，硕士**
 
-2006-2010 中国人民大学统计学院，学士
+**2006-2010** **中国人民大学统计学院，学士**
 
 # Work experience[English]
 
 # Work experience[中文]
-2020至今 上海财经大学统计与管理学院，副教授
 
-2018-2020 卡内基梅隆大学统计与数据科学系，博士后研究员
+**2020****至今 上海财经大学统计与管理学院，副教授**
+
+**2018-2020** **卡内基梅隆大学统计与数据科学系，博士后研究员**
 
 # Publication[English]
 
@@ -198,3 +199,12 @@ You can always reach me through email, [yixuanq \[at\] gmail \[dot\] com](https:
 - **Qiu, Y.**, Wang, X. et al., _Web Usage Cluster Analysis Based on Prediction Strength_. International Conference on Instrumentation, Measurement, Circuits and Systems, 2011.
 
 # Publication[中文]
+
+- 孟生旺, 邱怡轩, 肖宇谷. 市场约束条件下的非寿险费率厘定[J]. 运筹与管理，2012, (03): 193-199.
+
+# References
+
+- homepage: https://ssm.sufe.edu.cn/14/b1/c714a136369/page.htm
+- homepage: https://statr.me/
+- linkedin: https://www.linkedin.com/in/yixuanq
+- 人大统计学院: http://stat.ruc.edu.cn/teacher_more.php?cid=89248&id=70
