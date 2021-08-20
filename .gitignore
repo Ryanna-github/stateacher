@@ -3,6 +3,8 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
+.Rhistory
+
 # Dump file
 *.stackdump
 
