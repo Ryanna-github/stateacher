@@ -72,6 +72,18 @@
 
 
 
+## 脚本用例
+
+- mdlist_generate.R 生成对应学校的 md 文件，学校名称（即文件夹名称）作为参数传递，如
+
+```shell
+Rscript mdlist_generate.R CMU
+```
+
+- summarise.R 总结各学校 md 文件填写情况，包括有效 YAML 行数，有效 MarkDown 行数等。（尚未完成）
+
+
+
 ## 联系方式 & 更多
 
 - 统计之都主站：https://github.com/cosname/cosx.org
