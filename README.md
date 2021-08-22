@@ -74,14 +74,19 @@
 
 ## 脚本用例
 
-- mdlist_generate.R 生成对应学校的 md 文件，学校名称（即文件夹名称）作为参数传递，如
+- tools/school_list.R 生成各个学校-学院缩写，及初始化对应文件夹，不覆盖已有同名文件夹，项目开始时调用一次即可，项目进行中无需使用。
+
+- tools/teacher_list.R 生成对应学校-学院的 md 文件，基本字段自动填写，学校-学院名称（即文件夹名称）作为参数传递，以 CMU-DS（Carnegie Mellon University(Dept, of Statistics)）为例，用法如下：
 
 ```shell
-Rscript mdlist_generate.R CMU
+Rscript mdlist_generate.R CMU-DS
 ```
+- tools/summary.Rmd 生成对应学校-学院填写情况汇总，包括有效 YAML 行数，有效 MarkDown 行数等，用法如下：
 
-- summarise.R 总结各学校 md 文件填写情况，包括有效 YAML 行数，有效 MarkDown 行数等。（尚未完成）
-
+```shell
+Rscript -e "rmarkdown::render('summary.Rmd', output_dir = '../Data/CMU-summary.html')" CMU-DS
+```
+注意该命令有两处参数需要修改
 
 
 ## 联系方式 & 更多

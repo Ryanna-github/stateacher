@@ -1,16 +1,18 @@
 ---
 bio-current:
   name-cn: 
-  name-en: 
-  email: # 如果有多个邮箱，请都填写上
+  name_en: Peng Liu
+  email: 
+    - pengl2@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: 
   birth-date: # 到年即可
-  university: 
-  school: # 格式：学院名称[学院官网链接]
+  university: Carnegie Mellon University 
+  school: Dept, of Statistics [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title: 
+  title: Special Faculty - Post Doctoral Researcher
   interests: 
-  homepage: # 如果有多个主页，请都填写上
+  homepage: 
+    - http://www.stat.cmu.edu/people/faculty/peng-liu # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
@@ -76,7 +78,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Profile
 
-![]()
+![Peng Liu](http://www.stat.cmu.edu/sites/default/files/default_images/missing.png)
 
 # Biography[English]
 

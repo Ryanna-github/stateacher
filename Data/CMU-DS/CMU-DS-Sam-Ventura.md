@@ -1,16 +1,18 @@
 ---
 bio-current:
   name-cn: 
-  name-en: 
-  email: # 如果有多个邮箱，请都填写上
+  name_en: Sam Ventura
+  email: 
+    - sventura@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: 
   birth-date: # 到年即可
-  university: 
-  school: # 格式：学院名称[学院官网链接]
+  university: Carnegie Mellon University 
+  school: Dept, of Statistics [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title: 
+  title: Affiliated Faculty
   interests: 
-  homepage: # 如果有多个主页，请都填写上
+  homepage: 
+    - http://www.stat.cmu.edu/people/faculty/sam-ventura # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
@@ -76,7 +78,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Profile
 
-![]()
+![Sam Ventura](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/sam-cup3.png)
 
 # Biography[English]
 
