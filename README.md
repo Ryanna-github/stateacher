@@ -22,14 +22,14 @@
 
 ## 填写说明
 
-- 阅读说明前先下载模板 template.md.
+- 阅读说明前先下载模板 [template.md](https://github.com/Ryanna-github/stateacher/blob/master/template.md).
 - 注意 YAML 填写规范，如禁用 tab，冒号后需加空格构成完整的键值对，避免不必要的空行等。
 - 学者信息直接填写官网等查询到的一手资料，信息收集渠道可参考但不限于以下来源：
-    - 学者官方主页(核心)
-    - 学者个人主页(核心)
-    - AMiner主页(核心)
-    - Google Scholar(核心)
-    - Google等搜索学者的得到其他相关信息（辅助）
+    - 学者官方主页（核心）
+    - 学者个人主页（核心）
+    - AMiner 主页（核心）
+    - Google Scholar（核心）
+    - Google 等搜索学者的得到其他相关信息（辅助）
     - 百度学术，必应学术，ResearchGate 等（辅助）
 - 字段填写规则：
     - school 字段注意添加链接，以避免混淆，格式如 school: 学院名称 [学院网址]
