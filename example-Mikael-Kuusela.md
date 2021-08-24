@@ -25,13 +25,13 @@ group:
 collaboration: 
   - 
     with: oceanographers
-    on: Argo floats [http://argo.ucsd.edu/]
+    project: Argo floats [http://argo.ucsd.edu/]
   - 
     with: NASA scientists
-    on: OCO-2 mission [https://ocov2.jpl.nasa.gov/]
+    project: OCO-2 mission [https://ocov2.jpl.nasa.gov/]
   - 
     with: particle physicists
-    on: CERN [https://home.cern/]
+    project: CERN [https://home.cern/]
 
 edu-phd:
   university: École Polytechnique Fédérale de Lausanne (EPFL)
