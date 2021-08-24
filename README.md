@@ -79,7 +79,7 @@
 - tools/teacher_list.R 生成对应学校-学院的 md 文件，基本字段自动填写，学校-学院名称（即文件夹名称）作为参数传递，以 CMU-DS（Carnegie Mellon University(Dept, of Statistics)）为例，用法如下：
 
 ```shell
-Rscript mdlist_generate.R CMU-DS
+Rscript teacher_list.R CMU-DS
 ```
 - tools/summary.Rmd 生成对应学校-学院填写情况汇总，包括有效 YAML 行数，有效 MarkDown 行数等，用法如下：
 
