@@ -37,7 +37,8 @@
     - collaboration, group 字段非必填，若学者有交叉合作研究可填写。
     - advisor 字段填写格式为：导师姓名 [导师邮箱/网址]，邮箱信息优先，若无邮箱则填写导师信息网址。
     - aminer 字段必填，对应链接在 [AMiner 网站](https://www.aminer.org/) 检索学者得到，注意
-- 头像尽量使用线上高清图，格式为 `![名称](图片链接)`，可在学者官方、个人主页或 AMiner 等网站 获取。
+- 头像尽量使用线上高清图，格式为 `![名称](图片链接)`，可在学者官方、个人主页或 AMiner 等网站 获取。
+- 学者的PhD经历包括导师信息可在学者官方、个人主页以及 [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php) 等地方获取。
 - 填写语言忠于信息来源，无需自行翻译，YAML 部分按信息来源填写，中英文均可，人物介绍等部分若为英文，填入 Biography[English]，若为中文，填入 Biography[中文]，研究方向（Interests），教育背景（Education）等同理。
 - 复制文字应包含网页原本的超链接，可使用 [推荐工具](#推荐工具) 中的插件。
 - 在末尾 References 模块标明填写相关材料时候引用的资料链接，以便后续核查；尤其是参考的非作者主页的相关链接。
