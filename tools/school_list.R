@@ -19,7 +19,9 @@ write.csv(df, "tops_us.csv", row.names = FALSE, na = "")
 
 # Initialize folders
 for(name in abbr){
-  dir.create(paste0(path, name))
+  if (!dir.exists(paste0(path, name))){
+    dir.create(paste0(path, name))
+  }
 }
 
 

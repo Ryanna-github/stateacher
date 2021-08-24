@@ -41,8 +41,8 @@
 - 填写语言忠于信息来源，无需自行翻译，YAML 部分按信息来源填写，中英文均可，人物介绍等部分若为英文，填入 Biography[English]，若为中文，填入 Biography[中文]，研究方向（Interests），教育背景（Education）等同理。
 - 复制文字应包含网页原本的超链接，可使用 [推荐工具](#推荐工具) 中的插件。
 - 在末尾 References 模块标明填写相关材料时候引用的资料链接，以便后续核查；尤其是参考的非作者主页的相关链接。
-- 文件命名格式：学者姓名.md，空格以（-）代替，华人学者英文名和其主页一致即可，名与姓氏之间用（-）连接，如 Mikael-Kuusela.md，Yixuan-QIU.md. 绝大部分文件以自动创建，无需修改。
-- 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下。
+- 文件命名格式：学校缩写-学者姓名.md，学者姓名部分，空格以（-）代替，华人学者英文名和其主页一致即可，名与姓氏之间用（-）连接，如 Mikael-Kuusela.md，Yixuan-QIU.md. 绝大部分文件以自动创建，无需修改。
+- 文件上传路径：学者姓名.md 上传到对应所属学校文件夹下，文件夹命名为学校缩写形式，学校缩写与全程对应见表格 [tops_us.csv](https://github.com/Ryanna-github/stateacher/blob/master/Data/tops_us.csv)
 - 非特殊情况不增添模板中字段，不收集联系电话等信息。若发现其他有价值字段欢迎在 Issues 或微信群讨论。
 
 
@@ -78,6 +78,10 @@
 
 - tools/school_list.R 生成各个学校-学院缩写，及初始化对应文件夹，不覆盖已有同名文件夹，项目开始时调用一次即可，项目进行中无需使用。
 
+```shell
+Rscript school_list.R CMU-DS
+```
+
 - tools/teacher_list.R 生成对应学校-学院的 md 文件，基本字段自动填写，学校-学院名称（即文件夹名称）作为参数传递，以 CMU-DS（Carnegie Mellon University(Dept, of Statistics)）为例，用法如下：
 
 ```shell
@@ -86,7 +90,7 @@ Rscript teacher_list.R CMU-DS
 - tools/summary.Rmd 生成对应学校-学院填写情况汇总，包括有效 YAML 行数，有效 MarkDown 行数等，用法如下：
 
 ```shell
-Rscript -e "rmarkdown::render('summary.Rmd', output_dir = '../Data/CMU-summary.html')" CMU-DS
+Rscript -e "rmarkdown::render('summary.Rmd', output_file = '../Data/CMU-DS/CMU-summary.html')" CMU-DS
 ```
 注意该命令有两处参数需要修改
 

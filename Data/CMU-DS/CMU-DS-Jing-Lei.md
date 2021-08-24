@@ -6,8 +6,8 @@ bio-current:
     - jinglei@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: 
   birth-date: # 到年即可
-  university: Carnegie Mellon University 
-  school: Dept, of Statistics [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  university: 
+  school:  [] # 格式：学院名称[学院官网链接]
   major: 
   title: Associate Professor
   interests: 
@@ -52,11 +52,11 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   baidu-baike:
 collaboration: # 合作研究，关注学者和其他哪些学科的人合作，具体研究哪些主题
   - 
-    with: 
-    on: 
+    with: # 合作者
+    project: # 研究主题
   - 
     with: 
-    on: 
+    project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
