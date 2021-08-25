@@ -5,8 +5,8 @@ args <- commandArgs(T)
 folder <- args[1]
 
 setwd("C:/Users/RY/git/stateacher")
-path = paste0('Data/',folder)
-dat_tmp = read.csv(paste0(path, '/pre_info.csv'), stringsAsFactors = FALSE)
+path = paste0('Data/', folder)
+dat_tmp = read.csv(paste0(path, '/', folder, '-info.csv'), stringsAsFactors = FALSE)
 dat = dat_tmp
 # dat = subset(dat_tmp, regular_employee==1) # ?Զ???ɸѡ????
 
@@ -17,6 +17,7 @@ namesALL = paste0(folder, '-', namesALL, '.md')
 tpl <- read_file('template.md')
 schools <- read.csv('Data/tops_us.csv', stringsAsFactors = FALSE)
 fail_counter <- 0
+colnames(dat)
 
 # Automatic filling
 for (i in 1:nrow(dat)){
