@@ -80,6 +80,7 @@ page-other:
   weibo:
   twitter:
   Wikipedia:
+marp: false
   Baidu-Baike:
 ---
 

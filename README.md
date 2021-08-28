@@ -19,6 +19,10 @@
 
 ## 数据收集流程
 
+### 文件初始化
+
+### 字段填写流程
+
 1. 学习 MarkDown，YAML 用法及语法规范，初学者先阅读入门教程（[MarkDown 入门参考](https://www.runoob.com/markdown/md-tutorial.html)，[YAML 入门参考](https://www.runoob.com/w3cnote/yaml-intro.html)）
 2. 阅读 [填写说明](#填写说明) 中的规定。
 3. 阅读示例文件（[example-Mikael-Kuusela.md](https://github.com/Ryanna-github/stateacher/blob/master/example-Mikael-Kuusela.md), 
@@ -34,9 +38,7 @@
     1. 未通过：重新修改，返回第5步。
     2. 通过：完成提交。
 
-
-
-## 填写说明
+### 字段填写说明
 
 - 阅读说明前先下载模板 [template.md](https://github.com/Ryanna-github/stateacher/blob/master/template.md).
 - 注意 YAML 填写规范，如禁用 tab，冒号后需加空格构成完整的键值对，避免不必要的空行等。

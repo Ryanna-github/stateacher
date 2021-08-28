@@ -1,14 +1,16 @@
 library(readr)
 library(stringr)
 
-args <- commandArgs(T)
-folder <- args[1]
+# args <- commandArgs(T)
+# folder <- args[1]
+
+folder <- 'CMU-DS'
 
 setwd("C:/Users/RY/git/stateacher")
 path = paste0('Data/', folder)
 dat_tmp = read.csv(paste0(path, '/', folder, '-info.csv'), stringsAsFactors = FALSE)
 dat = dat_tmp
-# dat = subset(dat_tmp, regular_employee==1) # ?Զ???ɸѡ????
+# dat = subset(dat_tmp, regular_employee==1) # 筛选
 
 namesALL = gsub(' ', '-', dat$name)
 namesALL = gsub('--', '-', namesALL)
@@ -17,12 +19,12 @@ namesALL = paste0(folder, '-', namesALL, '.md')
 tpl <- read_file('template.md')
 schools <- read.csv('Data/tops_us.csv', stringsAsFactors = FALSE)
 fail_counter <- 0
-colnames(dat)
 
 # Automatic filling
 for (i in 1:nrow(dat)){
-  back_info <- unlist(str_split(schools$'ѧУӢ????'[which(schools$'ѧУ??д' == folder)], "\\(|\\)"))
-  url <- schools$'??ҳ'[which(schools$'ѧУ??д' == folder)]
+  back_info <- unlist(str_split(schools$'学校英文名'[which(schools$'学校缩写' == folder)], "\\(|\\)"))
+  url <- schools$'主页'[which(schools$'学校缩写' == folder)]
+  print(url)
   md <- str_replace(tpl, 'name-en: ', paste0('name_en: ', dat$name[i])) %>%
     str_replace('email: ', paste0('email: \r\n    - ', dat$personemail[i], " ")) %>%
     str_replace("university: ", paste0('university: ', back_info[1])) %>%

@@ -3,13 +3,14 @@ bio-current:
   name-cn: 
   name-en: 
   email: # 如果有多个邮箱，请都填写上
-  sex: 
+  sex: # male/female
   birth-date: # 到年即可
   university: 
   school: # 格式：学院名称[学院官网链接]
   major: 
-  title: 
-  interests: 
+  title-raw: # 主页原始字符串
+  title: # Associate Professor/Assistant Professor/Professor
+  interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: # 如果有多个主页，请都填写上
   github: 
   googlescholar:  

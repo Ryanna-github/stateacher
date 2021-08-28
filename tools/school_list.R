@@ -5,9 +5,12 @@ library(stringr)
 library(stringi)
 library(tidyverse)
 
+
 setwd("C:/Users/RY/git/stateacher")
 path <- 'Data/'
 df <- read.csv('Data/tops_us.csv')
+
+
 
 abbr <- str_extract_all(as.character(df$'学校英文名'), pattern = "[A-Z|(]") # 提取大写字母
 abbr <- lapply(abbr, function(x){paste(x, collapse = "")})
@@ -21,6 +24,7 @@ write.csv(df, "tops_us.csv", row.names = FALSE, na = "")
 for(name in abbr){
   if (!dir.exists(paste0(path, name))){
     dir.create(paste0(path, name))
+    print(name)
   }
 }
 
