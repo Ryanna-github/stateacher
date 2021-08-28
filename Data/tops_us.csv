@@ -1,4 +1,4 @@
-排名,学校名称,所在城市,学校英文名,学校缩写,主页,维护负责人,备注
+rank,school,city,school_en,school_abbr,homepage,manager,note
 1,斯坦福大学-统计学系,"Stanford, CA","Stanford University (Dept, of Statistics)",SU-DS,https://statistics.stanford.edu/,,
 2,加州大学伯克利分校-统计学系,"Berkeley, CA","University of California—Berkeley (Dept, of Statistics)",UCB-DS,https://statistics.berkeley.edu/,,
 3,哈佛大学-生物统计学系,"Boston, MA","Harvard University (Dept, of Biostatistics)",HU-DB,https://www.hsph.harvard.edu/biostatistics/,,

@@ -4,13 +4,14 @@ bio-current:
   name_en: Jamie McGovern
   email: 
     - jspm@stat.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: 
+  sex: # male/female
   birth-date: # 到年即可
-  university: 
-  school:  [] # 格式：学院名称[学院官网链接]
+  university: Carnegie Mellon University 
+  school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
   major: 
-  title: Special Faculty, Program Director, Master of Statistical Practice
-  interests: 
+  title-raw: Special Faculty, Program Director, Master of Statistical Practice# 主页原始字符串
+  title: # Associate Professor/Assistant Professor/Professor
+  interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/jamie-mcgovern # 如果有多个主页，请都填写上
   github: 

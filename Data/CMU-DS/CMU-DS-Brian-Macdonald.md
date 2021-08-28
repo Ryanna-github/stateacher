@@ -4,13 +4,14 @@ bio-current:
   name_en: Brian Macdonald
   email: 
     - brianmac@andrew.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: 
+  sex: # male/female
   birth-date: # 到年即可
-  university: 
-  school:  [] # 格式：学院名称[学院官网链接]
+  university: Carnegie Mellon University 
+  school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
   major: 
-  title: Lecturer - Special Faculty
-  interests: 
+  title-raw: Lecturer - Special Faculty# 主页原始字符串
+  title: # Associate Professor/Assistant Professor/Professor
+  interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/brian-macdonald-0 # 如果有多个主页，请都填写上
   github: 

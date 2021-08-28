@@ -38,7 +38,7 @@
     1. 未通过：重新修改，返回第5步。
     2. 通过：完成提交。
 
-### 字段填写说明
+## 字段填写说明
 
 - 阅读说明前先下载模板 [template.md](https://github.com/Ryanna-github/stateacher/blob/master/template.md).
 - 注意 YAML 填写规范，如禁用 tab，冒号后需加空格构成完整的键值对，避免不必要的空行等。
