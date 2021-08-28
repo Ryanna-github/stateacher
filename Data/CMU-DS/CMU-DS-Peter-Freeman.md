@@ -5,7 +5,7 @@ bio-current:
   email: 
     - pfreeman@cmu.edu # 如果有多个邮箱，请都填写上
   sex: # male/female
-  birth-date: # 到年即可
+  birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
   major: 
@@ -110,3 +110,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
+
+# Notes
