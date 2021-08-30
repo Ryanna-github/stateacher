@@ -41,7 +41,7 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-start: 
   date-end: 2005
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
-  publication: 
+  publication: http://www.stat.cmu.edu/~aramdas/pubs-topic.html
   research: 
   software: 
   project: 
@@ -60,17 +60,22 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - stat-ml reading group [http://statml.cs.cmu.edu/people.html]
-
+  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
+  - Statistical Methods for the Physical Sciences(STMPS)[http://stat.cmu.edu/stamps/]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
-  university: 
+  university: Carnegie Mellon University
   school: 
-  major: 
+    - Department of Statistics and Data Science (75%)[http://stat.cmu.edu/]
+    - Machine Learning Department (25%)[https://www.ml.cmu.edu/]
+  major: Statistics and Machine Learning
   email: 
-  homepage: # 机构内学者主页
-  date-start: 
-  title: 
-  type: 
+    - aramdas@cmu.edu
+    - aramdas@stat.cmu.edu
+  homepage: http://www.stat.cmu.edu/people/faculty/aaditya-ramdas # 机构内学者主页
+  date-start: 2018
+  title: Assistant Professor
+  type: Tenure-track
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: 
   school: 

@@ -69,51 +69,20 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: 
 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-- **Current Students:**
-    
-    - Xiaoyi Gu
-        
-    - Wanshan Li
-        
-
-- **Current Postdocs:**
-    
-    - [JaeHyeok Shin](http://www.stat.cmu.edu/~jaehyeos/) (co-advised with Aaditya Radmas)
-        
-
-- **Past Students:**
-    
-    - [JaeHyeok Shin](http://www.stat.cmu.edu/~jaehyeos/) (co-advised with Larry Wasserman and Aaditya Radmas)
-        
-    - Yotam Hechtlinger (co-advised with Larry Wasserman)
-        
-    - [Jisu Kim](https://pages.saclay.inria.fr/jisu.kim/) (co-advised with Larry Wasserman), postdoctoral researcher at INRIA, DataShape
-        
-    - [Nicolas Kim](https://www.linkedin.com/in/kimolas), Reddit
-        
-    - [Daren Wang](https://darenwang.github.io/website/) (co-advised with Chris Genovese), postdoctoral fellow in the Department of Statistics at the University of Chicago
-        
-    - [Fabrizio Lecci](https://www.linkedin.com/in/fabriziolecci) (co-advised with Larry Wasserman), data scientist at Better.com
-        
-    - [Xiaolin Yang](https://www.linkedin.com/in/xiaolin-yang-19020425) (co-advised with Stephen Fienberg), Amazon
-        
-    - [Brian Kent](https://www.linkedin.com/in/brian-patrick-kent) (co-advised with Tim Vertsynen), Director of Data Science and Machine Learning at Credit Sesame
-        
-    - [James Sharpnack](https://jsharpna.github.io/) (co-avised with Aarti Singh), Assistant Professor in the Statistics Department at UC Davies
-        
-
-- **Past Postdocs:**
-    
-    - [Kayvan Sadeghi](http://www.homepages.ucl.ac.uk/~ucakksa/) (joint with Stephen Fienberg)
+  - CMU TopStat[http://www.stat.cmu.edu/research/group/1182]
+  - Networkshop[http://www.stat.cmu.edu/research/group/1459]
+  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
-  university: 
-  school: 
-  major: 
+  university: Carnegie Mellon University
+  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  major: Statistics
   email: 
-  homepage: # 机构内学者主页
-  date-start: 
-  title: 
-  type: 
+    - arinaldo@stat.cmu.edu 
+    - arinaldo@cmu.edu
+  homepage: http://www.stat.cmu.edu/people/faculty/arinaldo # 机构内学者主页
+  date-start: 2007
+  title: Professor, Associate Dean
+  type: tenure track
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: 
   school: 
