@@ -4,7 +4,7 @@ bio-current:
   name_en: Alex Reinhart
   email: 
     - areinhar@stat.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Statistics & Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]

@@ -4,21 +4,27 @@ bio-current:
   name_en: Ann Lee
   email: 
     - annlee@stat.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
-  major: 
+   - Department of Statistics and Data Science [http://stat.cmu.edu/]
+    - Machine Learning Department [https://www.ml.cmu.edu/]
+  major: Statistics and Machine Learning
   title-raw: Co-Director of Ph.D. Program     Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  title: Professor
+  interests:
+   - Statistical Machine Learning
+  - High-Dimensional Inference
+  - Nonlinear Dimension Reduction
+  - Likelihood-Free Inference
+  - Statistics for the Physical Sciences
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/annlee # 如果有多个主页，请都填写上
   github: 
-  googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  googlescholar: https://scholar.google.com/citations?user=pDQsaXgAAAAJ&hl=en 
+  aminer: https://www.aminer.cn/profile/ann-b-lee/53f450ebdabfaee43eca7589
+  status: 在职
+  last-update: 2021-8-30 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
   school: 
@@ -82,12 +88,21 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 ![Ann Lee](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/Ann_Lee_Headshot.jpg)
 
 # Biography[English]
+I am a professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University, with a joint appointment in the [Machine Learning Department](https://www.ml.cmu.edu/). Prior to joining CMU in 2005, I was the J.W. Gibbs Assistant Professor in the department of mathematics at Yale University, and before that I served a year as a visiting research associate at the department of applied mathematics at Brown University.
 
-# Biography[中文]
+My research interests are in developing statistical methodology for complex data and problems in the physical sciences. I am particularly interested in statistical methods that adapt to nonlinear sparse structure in high-dimensional data, and nonparametric approaches that can handle heterogeneous data from different scientific probes. My recent work includes uncertainty quantification via conditional density estimation, likelihood-free inference, validation of emulator models, and applications in astronomy and hurricane intensity guidance involving satellite imagery and massive astronomical surveys.
+
+In 2018, I started the [STAtistical Methods for Physical Sciences (STAMPS)](http://stat.cmu.edu/stamps) research group together with [Mikael Kuusela](http://www.stat.cmu.edu/~mkuusela/). STAMPS is hosting public colloquia-style [webinars](http://www.stat.cmu.edu/stamps/webinar/spring-2021/) open to all members of the scientific community, in addition to weekly research group meetings for students and faculty at CMU and UPitt. I am also key personnel in the recently founded [NSF AI Planning Institute for Data-Driven Discovery in Physics](https://www.cmu.edu/ai-physics-institute/).
+
+🚩 **Upcoming!** Our NSF AI Planning Institute at CMU is organizing the virtual workshop [“From Quarks to Cosmos with AI”](https://www.cmu.edu/ai-physics-institute/images/events/2021-7-12_quarks-to-cosmos/quarks-to-cosmos-poster.pdf). The workshop will take place during the week of July 12-16, 2021, and is organized around hackathon-type data challenges relevant to high-energy physics, astrophysics and AI/ML methodology in physics The workshop will also include daily talks by a stellar lineup of speakers. Attendance is free and open to anyone with relevant research interests. For details with a link to the registration page, go to our [conference website](https://events.mcs.cmu.edu/qtc2021/). (Organizers: Tiziana Di Matteo, Mikael Kuusela, Ann Lee, Rachel Mandelbaum, Manfred Paulini)
 
 # Interests[English]
+- Statistical Machine Learning
+- High-Dimensional Inference
+- Nonlinear Dimension Reduction
+- Likelihood-Free Inference
+- Statistics for the Physical Sciences
 
-# Interests[中文]
 
 # Education[English]
 
