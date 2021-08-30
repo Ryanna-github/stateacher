@@ -1,19 +1,19 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Brian Macdonald
+  name_en: Alden Green
   email: 
-    - brianmac@andrew.cmu.edu # 如果有多个邮箱，请都填写上
+    - ajgreen@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: # male/female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Lecturer - Special Faculty# 主页原始字符串
+  title-raw: Special Faculty Post Doctoral Researcher# 主页原始字符串
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
-    - http://www.stat.cmu.edu/people/faculty/brian-macdonald-0 # 如果有多个主页，请都填写上
+    - http://www.stat.cmu.edu/people/faculty/alden-green # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
@@ -79,7 +79,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Profile
 
-![Brian Macdonald](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/BrianMacdonaldHeadShot_0.png)
+![Alden Green](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/Alden_Green.png)
 
 # Biography[English]
 
