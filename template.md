@@ -6,7 +6,7 @@ bio-current:
   sex: # male/female
   birth-date: # yyyy 到年即可
   university: 
-  school: # 格式：学院名称[学院官网链接]
+  school: # 格式：学院名称 [学院官网链接]
   major: 
   title-raw: # 主页原始字符串
   title: # Associate Professor/Assistant Professor/Professor
