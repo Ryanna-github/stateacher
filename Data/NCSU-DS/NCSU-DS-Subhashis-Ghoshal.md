@@ -1,21 +1,31 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Subhashis Ghoshal
   email: 
     - subhashis_ghoshal@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
-  birth-date: # yyyy 到年即可
+  sex: male # male/female
   university: North Carolina State University 
-  school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
-  major: 
+  school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接] 
   title-raw: Distinguished Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Nonparametric Bayesian Analysis (Theory and methodology)
+    - High dimensional models
+    - Graphical models
+    - Differential equation models
+    - Quantile regression
+    - State-space models and causality
+    - Multiple testing
+    - Bayesian ROC methodology
+    - Bayesian image analysis
+    - Functional data analysis
+    - Brain imaging
+    - Shape restricted inference
+    - Survival models
   homepage: 
-    - https://statistics.sciences.ncsu.edu/people/sghosal/ # 如果有多个主页，请都填写上
+    -https://statistics.sciences.ncsu.edu/people/sghosal/ # 如果有多个主页，请都填写上
   github: 
-  googlescholar:  
+  googlescholar:  https://scholar.google.com/citations?user=u2tifuYAAAAJ&hl=en&oi=ao
   aminer: # 从这里查找 https://www.aminer.org/search/person
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
@@ -44,7 +54,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   research: 
   software: 
   project: 
-  blog: 
+  blog: http://subhashisghoshal.blogspot.com/p/blog-page.html
   arxiv: 
   linkedin: 
   weibo:
@@ -83,32 +93,78 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Biography[English]
 
-# Biography[中文]
+
 
 # Interests[English]
 
-# Interests[中文]
+- Nonparametric Bayesian Analysis (Theory and methodology)
+- High dimensional models
+- Graphical models
+- Differential equation models
+- Quantile regression
+- State-space models and causality
+- Multiple testing
+- Bayesian ROC methodology
+- Bayesian image analysis
+- Functional data analysis
+- Brain imaging
+- Shape restricted inference
+- Survival models
 
 # Education[English]
 
-# Education[中文]
+- Ph.D. (Statistics), 1995, Indian Statistical Institute, Calcutta, India.
+
+- M. S. (Statistics), 1990, Indian Statistical Institute,
+
+  Calcutta, India.
+
+- B. S. (Statistics), 1988, Indian Statistical Institute, Calcutta, India  
 
 # Awards[English]
 
-# Awards[中文]
+1. De Groot Prize for the best book on Statistical Science in 2019 given
+by the International Society for Bayesian Analysis for the book \Fundamentals of Nonparametric Bayesian Inference" (co-author: Aad van
+der Vaart), published by Cambridge University Press, 2017.
+2. Distinguished Professor, College of Sciences, North Carolina State University, 2018.
+3. IMS Medallion lecturer 2017.
+4. Fellow of the International Society for Bayesian Analysis (ISBA), 2016
+5. \Thank a teacher" honor for teaching, North Carolina State University, Fall 2016, Spring 2016, Spring 2015.
+6. Cavell Brownie Mentoring Award, North Carolina State University,
+2015.
+7. Fellow of the American Statistical Association, 2010.
+8. International Indian Statistical Association Young Researcher Award
+in Theoretical Statistics, 2006{2007.
+9. Fellow of the Institute of Mathematical Statistics, 2006.
+10. Sigma Xi research award and elected to be a member of Sigma Xi,
+2004.
+11. Young Scientist award by the Indian Science Congress in its 82nd
+session (1995).
+12. Professor P. C. Mahalanobis Gold Medal (by the Indian Statistical
+Institute) awarded to the most outstanding student in M. Stat. (1990).
+13. Indian Statistical Institute Alumni Association Gold Medal for performance in M. Stat. (1990).
+14. Indian Statistical Institute Alumni Association Gold Medal for performance in B. Stat. (1988).
+15. Prizes for good performance in exams 1985-1990.
 
-# Talks[English]
 
-# Talks[中文]
 
 # Work experience[English]
 
-# Work experience[中文]
+- Department of Statistics, North Carolina State University, U. S. A.:
+- July, 2021- Present | James Goodnight Distinguished Professor (Endowed)
+- July, 2018- June, 2021 | Distinguished Professor (College of Sciences).
+- August, 2008- Present | Full Professor.
+- August, 2004-July, 2008 | Associate Professor (with tenure).
+- August 2001 | July, 2004, Assistant Professor.
+  School of Statistics, University of Minnesota, U. S. A.:
+- January 2000{August, 2001 | Assistant Professor  
 
 # Publication[English]
 
-# Publication[中文]
+
 
 # Information Reference
 
-# Notes
+- homepage：[Subhashis Ghoshal | Department of Statistics (ncsu.edu)](https://statistics.sciences.ncsu.edu/people/sghosal/)
+- homepage：[NCSU Statistics Department: Subhashis Ghoshal](https://www4.stat.ncsu.edu/~ghoshal/)
+

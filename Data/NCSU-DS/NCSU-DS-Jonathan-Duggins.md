@@ -1,80 +1,45 @@
 ---
-bio-current:
-  name-cn: 
+bio-current：
   name_en: Jonathan Duggins
   email: 
     - jwduggin@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
-  birth-date: # yyyy 到年即可
+  sex: male # male/female
   university: North Carolina State University 
-  school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
+  school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Associate Teaching Professor# 主页原始字符串
+  title-raw: Associate Teaching Professor # 主页原始字符串
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Curriculum-integrated programming
+    - Statistics education
+    - Quantile regression
+    - Changepoint analysis
+    - Nonparametric inference
   homepage: 
-    - https://statistics.sciences.ncsu.edu/people/jwduggin/ # 如果有多个主页，请都填写上
-  github: 
+    - https://statistics.sciences.ncsu.edu/people/jwduggin/
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  aminer: https://www.aminer.cn/profile/jonathan-duggins/53f45590dabfaee4dc80eb2f
+  status: 在职# 选项如下：在读/在职/离职/退休/亡故
 edu-phd:  # 读博经历
-  university: 
-  school: 
-  email: 
-  date-start: 
-  date-end: 
-  advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
-edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
-  date-start: 
-  date-end: 
-  advisor:
+  university: Virginia Polytechnic Institute and State University
+  school: Statistics
+  date-end: 2010
+  degree: phd # phd
+edu-master-1: # 硕士经历，没有或找不到，可不填
+  university: Virginia Polytechnic Institute and State University`
+  school: Statistics
+  date-end: 2006
+edu-master-2: # 硕士经历，没有或找不到，可不填
+  university: Virginia Polytechnic Institute and State University
+  school: Mathematics
+  date-end: 2003
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
-  school: 
-  major: 
-  date-start: 
-  date-end: 
+  university: University of North Carolina Wilmington
+  school: Mathematics
+  date-end: 2001
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
-  publication: 
-  research: 
-  software: 
-  project: 
-  blog: 
-  arxiv: 
-  linkedin: 
-  weibo:
-  twitter:
-  wikipedia:
-  baidu-baike:
-collaboration: # 合作研究，关注学者和其他哪些学科的人合作，具体研究哪些主题
-  - 
-    with: # 合作者
-    project: # 研究主题
-  - 
-    with: 
-    project: 
-group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
-  university: 
-  school: 
-  major: 
-  email: 
-  homepage: # 机构内学者主页
-  date-start: 
-  title: 
-  type: 
-job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
-  university: 
-  school: 
-  email: 
-  date-start: 
-  date-end: 
-  advisor: 
+  research: https://www.researchgate.net/profile/Jonathan-Duggins-2
+  twitter: http://twitter.com/DrWDuggins
 ---
 
 # Profile
@@ -83,32 +48,49 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Biography[English]
 
-# Biography[中文]
+I am an Associate Teaching Professor of Statistics at NC State University where I emphasize  integrating data management and statistical programming skills into a statistics curriculum. My primary focus is training students in SAS; training that is designed based on my experience in industry as well as my experiences when obtaining [my own SAS certifications](https://www.certmetrics.com/SAS/public/candidate_directory_search_detail.aspx?cid=18861). 
+
+My professional efforts outside the classroom include working with the AP Statistics Exam, overseeing undergraduate honors projects, and improving undergraduate access to internship opportunities as the Coordinator of the [Undergraduate Professional Partnership Program](https://up3.stat.ncsu.edu/). 
+
+Before returning to academia, I was a biostatistician for two Contract Research Organizations. As a biostatistician, I designed clinical trials, analyzed resulting data, and provided reports detailing findings to the clinical trials’ sponsors. I was also passionate about developing quality on-the-job educational programs.
 
 # Interests[English]
 
-# Interests[中文]
+- Curriculum-integrated programming
+- Statistics education
+- Quantile regression
+- Changepoint analysis
+- Nonparametric inference
 
 # Education[English]
 
-# Education[中文]
+- MS (2006) and PhD (2010) in Statistics from Virginia Tech
+- BS (2001) and MS (2003) in Mathematics from University of North Carolina Wilmington
 
 # Awards[English]
 
-# Awards[中文]
+- [Dr. Cavell Brownie Mentoring Faculty Award](https://statistics.sciences.ncsu.edu/know-us/department-awards/brownie/) (2020-2021)
+- [LeRoy and Elva Martin Award for Teaching Excellence](https://sciences.ncsu.edu/intranet/college-offices/deans-office/leroy-and-elva-martin-award-for-teaching-excellence/) (2018-2019)
 
 # Talks[English]
 
-# Talks[中文]
-
-# Work experience[English]
-
-# Work experience[中文]
+- *The Past, Present, and Future of Training SAS Professionals in a University Program.* 2020, SAS Global Forum (Invited). [*Cancelled due to COVID-19*]
+- *Exploring Efficiency in Data Manipulation with SAS.* 2019, SESUG.
+- *Web Scraping in SAS: A Macro-Based Approach.* 2018, SESUG.
+- *Building Simulated CRF Data for Study Mock-Ups.* 2018, PharmaSUG.
+- *Internships!*. 2016, UNCW Panel Discussion on Careers Paths in Statistics
 
 # Publication[English]
 
-# Publication[中文]
+- Duggins and Blum. *The Past, Present, and Future of Training SAS Professionals in a University Program.* (Invited) 2020, SASGF Proceedings
+- Duggins and Blum. *Exploring Efficiency in Data Manipulation with SAS.* 2019, SESUG Proceedings.
+- Blum and Duggins. *Getting Started with PROC DS2*. 2019, SESUG Proceedings.
+- Duggins and Blum. *Web Scraping in SAS: A Macro-Based Approach.* 2018, SESUG Proceedings.
+- Blum, Duggins, Madi, and Kesler. *Building Simulated CRF Data for Study Mock-Ups.* 2018, PharmaSUG Proceedings.
+- Duggins and Blum. *SAS in the Classroom: Exploratory Data Analysis with SAS Studio*. 2017, SESUG Proceedings
+- Blum and Duggins. *Working in SGPLOT: Understanding the General Logic of Attributes.* 2017, SESUG Proceedings.
 
 # Information Reference
 
-# Notes
+- homepage: [Jonathan Duggins | Department of Statistics (ncsu.edu)](https://statistics.sciences.ncsu.edu/people/jwduggin/)
+- homepage: [Jonathan W. Duggins - SAS Programming and Statistics Education (jonathanduggins.com)](https://jonathanduggins.com/)
