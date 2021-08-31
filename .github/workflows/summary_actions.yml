@@ -10,7 +10,7 @@ jobs:
   test-data:
     runs-on: ubuntu-latest
     env:
-      working-directory: .
+      working-directory: ./test/
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
