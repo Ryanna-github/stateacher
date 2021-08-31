@@ -2,7 +2,7 @@ name: Create Summary Workflow
 on: [push]
 
 jobs:
-  Create Summmary Job: 
+  Create-Summmary-Job: 
     runs-on: ubuntu-latest
     steps:
       - name: summary rmd
