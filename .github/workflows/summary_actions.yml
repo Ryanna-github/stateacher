@@ -1,20 +1,20 @@
-on:
-  push:
-    branches:
-      - main
-      - master
-
-name: test-data
-
+name: GitHub Actions Demo
+on: 
+  push: 
+    branches: 
+      - main 
+      - master 
+  pull_request: 
+    branches: 
+      - main 
+      - master 
 jobs:
-  test-data:
+  Explore-GitHub-Actions:
     runs-on: ubuntu-latest
-    env:
-      working-directory: ./test/
     steps:
       - uses: actions/checkout@v2
+
       - uses: r-lib/actions/setup-r@v1
-      - uses: r-lib/actions/setup-pandoc@v1
 
       - name: Query dependencies
         run: |
@@ -29,8 +29,7 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
           restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
 
-
       - name: Test data
-        run: rmarkdown::render('tools/summary.Rmd', params = list(folder = 'CMU-DS'), output_file = 'Data/CMU-DS/CMU-DS-summary.html')
-        shell: Rscript {0}
-
+        run: |
+          cd ${{ github.workspace }}/test 
+          Rscript mdtest.R
