@@ -3,7 +3,7 @@ on: [push]
 
 jobs:
   Create Summmary Job: 
-    name: Summary
+    runs-on: ubuntu-latest
     steps:
       - name: summary rmd
         run: Rscript -e "rmarkdown::render('summary.Rmd', output_file = '/Data/CMU-DS/CMU-summary.html')" CMU-DS
