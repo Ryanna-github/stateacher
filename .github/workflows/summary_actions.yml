@@ -5,6 +5,12 @@ jobs:
   Create-Summmary-Job: 
     runs-on: ubuntu-latest
     steps:
+      - name: Install dependencies
+        run: |
+          install.packages(c("remotes"))
+          remotes::install_deps(dependencies = TRUE)
+          remotes::install_cran("rmarkdown")
+        shell: Rscript {0}
       - name: summary rmd
         run: Rscript -e "rmarkdown::render('tools/summary.Rmd', output_file = 'Data/CMU-DS/CMU-DS-summary.html')" CMU-DS
         id: body
