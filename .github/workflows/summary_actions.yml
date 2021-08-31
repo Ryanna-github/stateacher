@@ -1,0 +1,12 @@
+name: Create Summary Workflow
+on: [push]
+
+jobs:
+  Create Summmary Job: 
+    name: Summary
+    steps:
+      - name: summary rmd
+        run: Rscript -e "rmarkdown::render('summary.Rmd', output_file = '/Data/CMU-DS/CMU-summary.html')" CMU-DS
+        id: body
+      - name: summary output
+        run: echo 'The time was ${{ steps.body.outputs.time }}.'
