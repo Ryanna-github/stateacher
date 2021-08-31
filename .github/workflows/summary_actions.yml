@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: summary rmd
-        run: Rscript -e "rmarkdown::render('${{ github.repository }}/tools/summary.Rmd', output_file = '${{ github.repository }}/Data/CMU-DS/CMU-summary.html')" CMU-DS
+        run: Rscript -e "rmarkdown::render('tools/summary.Rmd', output_file = 'Data/CMU-DS/CMU-DS-summary.html')" CMU-DS
         id: body
       - name: summary output
         run: echo 'The time was ${{ steps.body.outputs.time }}.'
