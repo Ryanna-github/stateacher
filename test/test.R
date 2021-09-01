@@ -1,7 +1,7 @@
 library(yaml)
 
 # setwd("C:/Users/RY/git/stateacher")
-setwd('home/runner/work/stateacher/stateacher/')
+setwd('/home/runner/work/stateacher/stateacher/')
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep('/Data/', f, value = TRUE)
 f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
