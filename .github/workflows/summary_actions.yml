@@ -1,0 +1,36 @@
+name: GitHub Actions Demo
+on: 
+  push: 
+    branches: 
+      - main 
+      - master 
+  pull_request: 
+    branches: 
+      - main 
+      - master 
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@v1
+
+      - name: Query dependencies
+        run: |
+          install.packages('formattable')
+          install.packages('yaml')
+        shell: Rscript {0}
+
+      - name: Cache R packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+      - name: Test data
+        run: |
+          cd ${{ github.workspace }}/test 
+          Rscript test.R CMU-DS
+          Rscript stat.R CMU-DS
