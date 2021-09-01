@@ -32,4 +32,4 @@ jobs:
       - name: Test data
         run: |
           cd ${{ github.workspace }}/test 
-          Rscript mdtest.R
+          Rscript test.R
