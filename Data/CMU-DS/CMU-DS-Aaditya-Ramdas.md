@@ -4,6 +4,7 @@ bio-current:
   name_en: Aaditya Ramdas
   email: 
     - aramdas@cmu.edu # 如果有多个邮箱，请都填写上
+    - email2
   sex: # male/female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
