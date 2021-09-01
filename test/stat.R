@@ -6,7 +6,7 @@ folder <- args[1]
 
 # folder <- 'CMU-DS'
 
-setwd(paste0('/home/runner/work/stateacher/stateacher/', folder, '/'))
+setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep('/Data/', f, value = TRUE)
 f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
@@ -44,4 +44,4 @@ html_header="
 </head>
 <body>
 "
-write(paste(html_header, tb, sep=""), paste0("Data/", folder, '/', folder, "-summary.html"))
+write(paste(html_header, tb, sep=""), paste0(folder, "-summary.html"))
