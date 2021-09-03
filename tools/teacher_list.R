@@ -4,7 +4,7 @@ library(stringr)
 args <- commandArgs(T)
 folder <- args[1]
 
-setwd("C:\Users\华为\stateacher") # 修改为自己的目录
+setwd("E:/WTD/git/stateacher") # 修改为自己的目录
 
 path = paste0('Data/', folder)
 dat_tmp = read.csv(paste0(path, '/', folder, '.csv'), stringsAsFactors = FALSE)
