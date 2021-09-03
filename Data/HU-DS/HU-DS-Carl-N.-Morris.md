@@ -19,8 +19,7 @@ bio-current:
     - Statistical theory in sports and competition
     - Statistics for Health Care and Health Services
 
-  homepage: 
-    -  # 如果有多个主页，请都填写上
+  homepage: https://statistics.fas.harvard.edu/people/carl-n-morris
   github: 
   googlescholar: https://scholar.google.com/citations?user=_pyigsMAAAAJ&hl=en
   aminer: # 从这里查找 https://www.aminer.org/search/person

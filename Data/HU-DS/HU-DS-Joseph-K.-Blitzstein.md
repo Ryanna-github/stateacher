@@ -14,7 +14,7 @@ bio-current:
     - Foundational issues in Statistics and Data Science
     - Statistics Education
   homepage: 
-    - https://twitter.com/stat110
+    - https://statistics.fas.harvard.edu/people/joseph-k-blitzstein
     - http://www.people.fas.harvard.edu/~blitz/Site/Home.html
   github: 
   googlescholar: 

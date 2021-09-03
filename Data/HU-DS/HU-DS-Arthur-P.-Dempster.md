@@ -15,8 +15,7 @@ bio-current:
     - Computational aspects of Bayesian and belief function inference.
     - Modelling and analysis of dynamic processes.
     - Statistical analysis of medical, social and physical phenomena.
-  homepage: 
-    -  # 如果有多个主页，请都填写上
+  homepage: https://statistics.fas.harvard.edu/people/arthur-p-dempster
   github: 
   googlescholar: http://scholar.google.com/citations?user=32nKoZ4AAAAJ&hl=zh-TW
   aminer: https://www.aminer.cn/profile/arthur-p-dempster/53f42d4ddabfaedf435159cd
