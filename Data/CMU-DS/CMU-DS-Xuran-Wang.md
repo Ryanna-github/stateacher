@@ -4,7 +4,7 @@ bio-current:
   name_en: Xuran Wang
   email: 
     - xuranw@stat.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
