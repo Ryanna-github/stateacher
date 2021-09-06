@@ -12,11 +12,13 @@ f <- grep(paste0('/Data/', folder), f, value = TRUE)
 yaml_test <- function(f){
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
+  print(paste0("YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     warning('Too Little Filling: Please recheck integrity of YAML')
   }
   for(x in f){
     # 2. Required fields
+    print(x)
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
