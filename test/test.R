@@ -1,13 +1,15 @@
 library(yaml)
 
-args <- commandArgs(T)
-folder <- args[1]
+# args <- commandArgs(T)
+# folder <- args[1]
 # folder <- 'CMU-DS'
+folder <- ''
 
 # setwd("C:/Users/RY/git/stateacher")
 setwd('/home/runner/work/stateacher/stateacher/')
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
+print(f)
 
 yaml_test <- function(f){
   # 1. Overal checking

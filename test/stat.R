@@ -1,11 +1,10 @@
 library(yaml)
 library(formattable)
 
-args <- commandArgs(T)
-folder <- args[1]
-
-
+# args <- commandArgs(T)
+# folder <- args[1]
 # folder <- 'CMU-DS'
+folder <- ''
 
 setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)

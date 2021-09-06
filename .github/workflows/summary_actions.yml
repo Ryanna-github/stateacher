@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Test Action
 on: 
   push: 
     branches: 
@@ -9,7 +9,7 @@ on:
       - main 
       - master 
 jobs:
-  Explore-GitHub-Actions:
+  Test Data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -32,5 +32,5 @@ jobs:
       - name: Test data
         run: |
           cd ${{ github.workspace }}/test 
-          Rscript test.R CMU-DS
-          Rscript stat.R CMU-DS
+          Rscript test.R
+          Rscript stat.R
