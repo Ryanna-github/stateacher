@@ -1,10 +1,9 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Sam Ventura
   email: 
     - sventura@stat.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
