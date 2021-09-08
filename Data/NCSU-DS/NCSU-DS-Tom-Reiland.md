@@ -1,44 +1,47 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Tom Reiland
   email: 
     - tom_reiland@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Associate Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title-raw: Associate Professor # 主页原始字符串
+  title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Statistics Education
+    - Statistics in Sports
+    - Distance Education
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/reiland/ # 如果有多个主页，请都填写上
+    - https://www4.stat.ncsu.edu/~reiland/
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
-  school: 
+  university: Florida State University
+  school: Statistics
   email: 
   date-start: 
-  date-end: 
+  date-end: 1977
   advisor: # 格式：导师名 [邮箱/网址]
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
+  university:  Bowling Green State University
+  school: Mathematics
   date-start: 
-  date-end: 
+  date-end: 1972 
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: Lewis University
+  school: Mathematics
   major: 
   date-start: 
-  date-end: 
+  date-end: 1970
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
   research: 
@@ -83,32 +86,42 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Biography[English]
 
-# Biography[中文]
+
 
 # Interests[English]
 
-# Interests[中文]
+- Statistics Education
+
+- Statistics in Sports
+
+- Distance Education
 
 # Education[English]
 
-# Education[中文]
+- 1970 B.A. Mathematics, Lewis University (Illinois)
+- 1972 M.A. Mathematics, Bowling Green State University
+- 1974 M.Sc. Statistics, Florida State University
+- 1977 Ph.D. Statistics, Florida State University
 
 # Awards[English]
 
-# Awards[中文]
+
 
 # Talks[English]
 
-# Talks[中文]
+
 
 # Work experience[English]
 
-# Work experience[中文]
+
 
 # Publication[English]
 
-# Publication[中文]
+
 
 # Information Reference
+
+- homepage: https://www4.stat.ncsu.edu/~reiland/
+- homepage: [Tom Reiland | Department of Statistics (ncsu.edu)](https://statistics.sciences.ncsu.edu/people/reiland/)
 
 # Notes

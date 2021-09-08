@@ -1,10 +1,9 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Paul Savariappan
   email: 
     - prsavari@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
@@ -12,6 +11,7 @@ bio-current:
   title-raw: Associate Teaching Professor# 主页原始字符串
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Queueing Theory
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/prsavari/ # 如果有多个主页，请都填写上
   github: 
@@ -20,22 +20,22 @@ bio-current:
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
-  school: 
+  university: University of Madras
+  school: Statistics
   email: 
   date-start: 
-  date-end: 
+  date-end: 2000
   advisor: # 格式：导师名 [邮箱/网址]
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: University of Madras
+  school: Statistics
   date-start: 
   date-end: 
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: University of Madras
+  school: Statistics
   major: 
   date-start: 
   date-end: 
@@ -87,28 +87,29 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Interests[English]
 
-# Interests[中文]
+- Queueing Theory
 
 # Education[English]
 
-# Education[中文]
-
-# Awards[English]
-
-# Awards[中文]
-
-# Talks[English]
-
-# Talks[中文]
+- **Ph.D** Statistics University of Madras 2000
+- M.S., Marquette University, mathematics
+- M.S.,University of Madras, India, statistics
+- B.S.,University of Madras, India, statistics
 
 # Work experience[English]
 
-# Work experience[中文]
+- *Assistant Professor of Mathematics/Statisitics* in luther Univeristy
 
 # Publication[English]
 
-# Publication[中文]
+- [Statistical Analysis for a Three Service Point Tandem Queue with Blocking](https://www.researchgate.net/publication/270056280_Statistical_Analysis_for_a_Three_Service_Point_Tandem_Queue_with_Blocking)
+- [Statistical Analysis of Tandem Queues with Blocking](https://www.researchgate.net/publication/307554407_Statistical_Analysis_of_Tandem_Queues_with_Blocking)
+- [Bayesian inference for an impatient M{pipe}M{pipe}1 queue with balking](https://www.researchgate.net/publication/286729984_Bayesian_inference_for_an_impatient_MpipeMpipe1_queue_with_balking)
+- [Statistical inference for a bulk-arrival queue](https://www.researchgate.net/publication/268492504_Statistical_inference_for_a_bulk-arrival_queue)
+- [Statistical analysis for tandem and bulk service queueing systems](https://www.researchgate.net/publication/294554058_Statistical_analysis_for_tandem_and_bulk_service_queueing_systems)
 
 # Information Reference
+
+- research gate: https://www.researchgate.net/scientific-contributions/Paul-Savariappan-2061546628
 
 # Notes
