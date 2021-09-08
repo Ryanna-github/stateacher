@@ -1,5 +1,7 @@
 library(yaml)
 
+options(warn = 1)
+
 # args <- commandArgs(T)
 # folder <- args[1]
 # folder <- 'CMU-DS'
@@ -11,9 +13,10 @@ f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
 
 yaml_test <- function(f){
+  print(paste0('\n', '==========================================\n', f, '==========================================\n'))
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
-  print(paste0(f, " YAML length: ", f_yaml_length))
+  # print(paste0(" YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     warning('Too Little Filling: Please recheck integrity of YAML')
   }
@@ -29,7 +32,6 @@ yaml_test <- function(f){
     # 3. Specific rules
     if(!grepl('.* \\[\\S+\\]', x$`bio-current`$school)){
       warning("False Value: 'School' should match format '.* \\[\\S+\\]'")
-      print(paste0('Incorrect school'))
     }
     valid_title <- c('associate professor', 'assistant professor', 'professor')
     if(is.null(x$`bio-current`$title)){
