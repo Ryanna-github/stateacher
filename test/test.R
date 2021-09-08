@@ -9,18 +9,16 @@ folder <- ''
 setwd('/home/runner/work/stateacher/stateacher/')
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
-print(f)
 
 yaml_test <- function(f){
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
-  print(paste0("YAML length: ", f_yaml_length))
+  print(paste0(f, " YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     warning('Too Little Filling: Please recheck integrity of YAML')
   }
   for(x in f){
     # 2. Required fields
-    print(x)
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
@@ -31,6 +29,7 @@ yaml_test <- function(f){
     # 3. Specific rules
     if(!grepl('.* \\[\\S+\\]', x$`bio-current`$school)){
       warning("False Value: 'School' should match format '.* \\[\\S+\\]'")
+      print(paste0('Incorrect school'))
     }
     valid_title <- c('associate professor', 'assistant professor', 'professor')
     if(is.null(x$`bio-current`$title)){
