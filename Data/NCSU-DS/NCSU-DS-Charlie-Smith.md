@@ -84,10 +84,6 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 ![Charlie Smith](https://statistics.sciences.ncsu.edu/wp-content/uploads/sites/21/2019/04/charlie_smith.jpg)
 
-# Biography[English]
-
-
-
 # Interests[English]
 
 - Neurobiology
@@ -97,18 +93,6 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Education[English]
 
 - **Ph.D** Biophysics University of Chicago 1979
-
-# Awards[English]
-
-
-
-# Talks[English]
-
-
-
-# Work experience[English]
-
-
 
 # Publication[English]
 

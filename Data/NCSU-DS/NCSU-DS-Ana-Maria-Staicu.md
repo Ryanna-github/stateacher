@@ -172,8 +172,6 @@ Ana-Maria Staicu joined the Department of Statistics, North Carolina State Unive
 - Park, S.Y.and Staicu, A.M. (2015)
 [Longitudinal Functional Data Analysis](http://arxiv.org/abs/1506.08796)
 
-# Publication[中文]
-
 # Information Reference
 
 - homepage:[Ana-Maria Staicu's Webpage (ncsu.edu)](https://www4.stat.ncsu.edu/~staicu/)

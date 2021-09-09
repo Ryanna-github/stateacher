@@ -97,14 +97,6 @@ Dr. Wilson received her Ph.D. in Statistics from Duke University, her M.S. in St
 - M.S. Statistics, Carnegie Mellon University, Pittsburgh, PA, August 1990
 - B.A Mathematical Sciences (summa cum laude), Rice University, Houston, TX, May 1989
 
-# Awards[English]
-
-# Awards[中文]
-
-# Talks[English]
-
-# Talks[中文]
-
 # Work experience[English]
 
 - **Office of Research and Innovation, North Carolina State University**, Raleigh, NC 
