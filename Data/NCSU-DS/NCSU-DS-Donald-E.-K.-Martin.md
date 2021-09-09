@@ -19,7 +19,7 @@ bio-current:
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/search/102?uname=donald-c-martin&uid=53f4321bdabfaeb2ac0262f7 # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Maryland

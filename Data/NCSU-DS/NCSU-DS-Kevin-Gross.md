@@ -2,24 +2,24 @@
 bio-current:
   name_en: Kevin Gross
   email: 
-    - kevin_gross@ncsu.edu # 如果有多个邮箱，请都填写上
+    - kevin_gross@ncsu.edu 
   sex: male # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]
-  title-raw: Professor# 主页原始字符串
+  title-raw: Professor 
   title: Professor # Associate Professor/Assistant Professor/Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
     - Biomathematics
     - Mathematical Ecology
   homepage: 
-    - https://statistics.sciences.ncsu.edu/people/krgross/ # 如果有多个主页，请都填写上
+    - https://statistics.sciences.ncsu.edu/people/krgross/ 
     - https://www4.stat.ncsu.edu/~gross/
   github: 
   googlescholar:  
-  aminer: https://www.aminer.cn/profile/kevin-gross/53f36775dabfae4b3499f226 # 从这里查找 https://www.aminer.org/search/person
-  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-06-27 # yyyy-mm-dd 最近一次信息更新日期
+  aminer: https://www.aminer.cn/profile/kevin-gross/53f36775dabfae4b3499f226 
+  status: ?? 
+  last-update: 2021-06-27 # yyyy-mm-dd
 edu-phd:  # 读博经历
   university: University of Wisconsin-Madison
   school: Zoology and Statistics
@@ -46,16 +46,16 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
   - 
     with: 
     project: 
-group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
+group: # 
+job-faculty-1: 
   university: North Carolina State University 
   school: Department of Applied Ecology
   major: 
   email: 
-  homepage: https://cals.ncsu.edu/applied-ecology/people/kevin-gross/# 机构内学者主页
+  homepage: https://cals.ncsu.edu/applied-ecology/people/kevin-gross/
   date-start: 
   title: Adjunct Faculty
-job-faculty-2: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
+job-faculty-2: # 
   university: North Carolina State University 
   school: Biomathematics Graduate Program 
 
@@ -81,7 +81,9 @@ John Tukey famously said that one of the attractive aspects of being a statistic
 
 # Education[English]
 
-
+- Ph.D. 2003 Zoology and Statistics. University of Wisconsin-Madison, Madison, WI. Advisors: Prof. Anthony R. Ives and Prof. Erik V. Nordheim Research area: Statistical ecology and population dynamics.
+- M.S. 2000 Statistics. University of Wisconsin-Madison, Madison, WI. 
+- B.S. 1996 Biology. Duke University, Durham, NC.
 
 # Awards[English]
 

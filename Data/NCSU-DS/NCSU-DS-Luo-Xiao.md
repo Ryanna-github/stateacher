@@ -8,25 +8,28 @@ bio-current:
   university: North Carolina State University 
   school:Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Associate Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title-raw: Associate Professor # 主页原始字符串
+  title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Nonparametric and Semiparametric Regression
+    - Functional Data Analysis
+    - Biostatistics
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/lxiao5/ # 如果有多个主页，请都填写上
     - https://www4.stat.ncsu.edu/~xiao/
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
-  school: 
+  university: Cornell University
+  school: Department of Statistics
   email: 
   date-start: 
-  date-end: 
+  date-end: 2012
   advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  degree: ohd # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: 
   school: 
@@ -93,19 +96,7 @@ I am an Associate Professor in the [Department of Statistics](http://www.stat.nc
 
 # Education[English]
 
-
-
-# Awards[English]
-
-
-
-# Talks[English]
-
-
-
-# Work experience[English]
-
-
+- **Ph.D** Statistics Cornell University 2012
 
 # Publication[English]
 

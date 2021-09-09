@@ -1,6 +1,5 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Herle McGowan
   email: 
     - herle_mcgowan@ncsu.edu # 如果有多个邮箱，请都填写上
@@ -12,13 +11,15 @@ bio-current:
   title-raw: Associate Teaching Professor# 主页原始字符串
   title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Statistics Education
+    - Educational Research Methodology 
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/hmmcgowa/ # 如果有多个主页，请都填写上
     - https://www4.stat.ncsu.edu/~mcgowan/
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/search/102?uname=herle-m-mcgowan&uid=53f461e2dabfaee1c0b56f5f # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Michigan

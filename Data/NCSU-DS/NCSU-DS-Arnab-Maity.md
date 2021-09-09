@@ -21,7 +21,7 @@ interaction
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: 2020-05-08 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Texas A&M University 

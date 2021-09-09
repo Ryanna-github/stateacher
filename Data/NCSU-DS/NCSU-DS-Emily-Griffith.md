@@ -3,7 +3,7 @@ bio-current:
   name_en: Emily Griffith
   email: 
     - emily_griffith@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: female# male/female
+  sex: female # male/female
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   title-raw: Associate Research Professor # 主页原始字符串

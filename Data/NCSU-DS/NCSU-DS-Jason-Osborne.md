@@ -1,6 +1,5 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Jason Osborne
   email: 
     - jason.osborne@ncsu.edu # 如果有多个邮箱，请都填写上

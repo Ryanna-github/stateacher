@@ -8,7 +8,7 @@ bio-current:
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Director of Statistics Undergraduate Program# 主页原始字符串
+  title-raw: Director of Statistics Undergraduate Program # 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Bioinformatics
@@ -19,7 +19,7 @@ bio-current:
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/search/102?uname=spencer-v-muse&uid=53f329ccdabfae9a844868c8 # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: z爱之 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: North Carolina State University

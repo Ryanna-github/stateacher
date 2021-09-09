@@ -15,6 +15,7 @@ bio-current:
     - Penalization Methods
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/jbpost2/ # 如果有多个主页，请都填写上
+    - https://www4.stat.ncsu.edu/~post/
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/profile/post-justin-b/560af0b245ce1e596000881a # 从这里查找 https://www.aminer.org/search/person

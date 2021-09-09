@@ -19,7 +19,7 @@ bio-current：
     - https://statistics.sciences.ncsu.edu/people/jwduggin/
   googlescholar:  
   aminer: https://www.aminer.cn/profile/jonathan-duggins/53f45590dabfaee4dc80eb2f
-  status: 在职# 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
 edu-phd:  # 读博经历
   university: Virginia Polytechnic Institute and State University
   school: Statistics

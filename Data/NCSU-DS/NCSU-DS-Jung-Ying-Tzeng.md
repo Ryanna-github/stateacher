@@ -11,13 +11,14 @@ bio-current:
   title-raw: Professor# 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Statistical Genetics
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/jytzeng/ # 如果有多个主页，请都填写上
     - https://www4.stat.ncsu.edu/~jytzeng/
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/profile/jung-ying-tzeng/53f363a4dabfae4b34990fac # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Carnegie Mellon University
