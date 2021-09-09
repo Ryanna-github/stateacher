@@ -1,10 +1,9 @@
 ---
 bio-current:
-  name-cn: 
   name_en: Shuting Wang
   email: 
     - shuting_wang@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: female # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
@@ -12,6 +11,10 @@ bio-current:
   title-raw: Assistant Teaching Professor# 主页原始字符串
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Courses related to Statistics
+    - Business Statistics
+    - Statistical Consulting
+    - Data Mining
   homepage: 
     - https://statistics.sciences.ncsu.edu/people/swang72/ # 如果有多个主页，请都填写上
   github: 
@@ -20,22 +23,22 @@ bio-current:
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
-  school: 
+  university: University of Illinois at Chicago
+  school: Business Statistics
   email: 
   date-start: 
   date-end: 
   advisor: # 格式：导师名 [邮箱/网址]
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: University of Toledo
+  school: Mathematics and Statistics
   date-start: 
   date-end: 
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: University of Science and Technology of China
+  school: Mathematics and Statistics
   major: 
   date-start: 
   date-end: 
@@ -46,7 +49,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   project: 
   blog: 
   arxiv: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/wang-shuting-402a4056
   weibo:
   twitter:
   wikipedia:
@@ -83,32 +86,41 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Biography[English]
 
-# Biography[中文]
+
 
 # Interests[English]
 
-# Interests[中文]
+- Courses related to Statistics
+
+- Business Statistics
+
+- Statistical Consulting
+
+- Data Mining
 
 # Education[English]
 
-# Education[中文]
+
 
 # Awards[English]
 
-# Awards[中文]
+
 
 # Talks[English]
 
-# Talks[中文]
+
 
 # Work experience[English]
 
-# Work experience[中文]
+
 
 # Publication[English]
 
-# Publication[中文]
+
 
 # Information Reference
+
+- homepage：https://www.linkaedin.com/in/wang-shuting-402a4056
+- homepage：[Shuting Wang | Department of Statistics (ncsu.edu)](https://statistics.sciences.ncsu.edu/people/swang72/)
 
 # Notes
