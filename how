@@ -1,0 +1,27 @@
+[33mtag v0.0[m
+Tagger: ‘renyan’ <1609532549@qq.com>
+Date:   Thu Sep 9 21:06:36 2021 +0800
+
+version before data filling
+
+[33mcommit d9238bcc06a5b482a8f7d5619dcc7e8b8f54619d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ‘renyan’ <1609532549@qq.com>
+Date:   Thu Sep 9 21:03:01 2021 +0800
+
+    final change before pr
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex a95080d..e09963f 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -113,6 +113,10 @@[m [mRscript -e "rmarkdown::render('summary.Rmd', output_file = '../Data/CMU-DS/CMU-s[m
+ ```[m
+ 注意该命令有两处参数需要修改[m
+ [m
+[32m+[m[32m## 提交方法[m
+[32m+[m
+[32m+[m[32m- PR 命名应为对应学院缩写[m
+[32m+[m[32m- PR 通过且无内容填写的 warning 信息即完成[m
+ [m
+ ## 联系方式 & 更多[m
+ [m
