@@ -13,7 +13,7 @@ f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
 
 yaml_test <- function(f){
-  print(paste0('\n', '==========================================\n', f, '==========================================\n'))
+  cat('\n', '==========================================\n', f, '==========================================\n')
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
   # print(paste0(" YAML length: ", f_yaml_length))
