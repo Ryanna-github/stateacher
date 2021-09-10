@@ -21,7 +21,7 @@ yaml_test <- function(f){
   }
   for(x in f){
     # 2. Required fields
-    cat('\n', '==========================================\n', x, '==========================================\n')
+    cat('\n', '==========================================\n', x, '\n==========================================\n')
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
