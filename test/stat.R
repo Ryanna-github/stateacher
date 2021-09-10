@@ -44,5 +44,5 @@ html_header="
 </head>
 <body>
 "
-write(paste(html_header, tb, sep=""), paste0("summary.html"))
+write(paste(html_header, tb, sep=""), file = paste0("summary.html"))
 print("Your summary.html file has been generated")
