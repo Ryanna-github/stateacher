@@ -1,6 +1,6 @@
 library(yaml)
 
-# options(warn = 1)
+options(warn = 1)
 
 # args <- commandArgs(T)
 # folder <- args[1]
@@ -21,7 +21,7 @@ yaml_test <- function(f){
   }
   for(x in f){
     # 2. Required fields
-    cat('\n', '========================================== ', x, ' ==========================================\n')
+    cat('\n====================== ', x, ' ======================\n')
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
