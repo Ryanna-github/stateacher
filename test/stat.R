@@ -45,4 +45,4 @@ html_header="
 <body>
 "
 write(paste(html_header, tb, sep=""), paste0(folder, "-summary.html"))
-print(paste0(folder, "-summary.html", " has been generated"))
+print("Your summary.html file has been generated")
