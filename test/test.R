@@ -7,8 +7,8 @@ options(warn = 1)
 # folder <- 'CMU-DS'
 folder <- ''
 
-# setwd("C:/Users/RY/git/stateacher")
-setwd('/home/runner/work/stateacher/stateacher/')
+setwd("C:/Users/RY/git/stateacher/")
+# setwd('/home/runner/work/stateacher/stateacher/')
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
 
@@ -21,7 +21,7 @@ yaml_test <- function(f){
   }
   for(x in f){
     # 2. Required fields
-    cat('\n====================== ', x, ' ======================\n')
+    # cat('\n====================== ', x, ' ======================\n')
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
