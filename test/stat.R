@@ -6,8 +6,8 @@ library(formattable)
 # folder <- 'CMU-DS'
 folder <- ''
 
-setwd("C:/Users/RY/git/stateacher/Data/")
-# setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
+# setwd("C:/Users/RY/git/stateacher/Data/")
+setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep('.md', f, value = TRUE)
 f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
