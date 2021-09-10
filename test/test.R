@@ -13,11 +13,6 @@ f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
 
 yaml_test <- function(f){
-  print("")
-  print(f)
-  print("==========================================")
-  print("")
-  # cat('\n', '==========================================\n', f, '==========================================\n')
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
   # print(paste0(" YAML length: ", f_yaml_length))
@@ -26,6 +21,7 @@ yaml_test <- function(f){
   }
   for(x in f){
     # 2. Required fields
+    cat('\n', '==========================================\n', x, '==========================================\n')
     x <- yaml.load_file(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
