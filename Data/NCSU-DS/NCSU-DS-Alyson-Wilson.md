@@ -8,18 +8,17 @@ bio-current:
  university: North Carolina State University
  school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称
  major:
- title-raw: Professor# 主页原始字符串
+ title-raw: Professor # 主页原始字符串
  title: Professor # Associate Professor/Assistant Professor/Professor
  interests:
   - Bayesian Methods
   - Uncertainty Quantification
-  - Information Fusion
- # 分点罗列，依次以 ‘-’ 开头
+  - Information Fusion # 分点罗列，依次以 ‘-’ 开头
  homepage:
   - https://statistics.sciences.ncsu.edu/people/agwilso2/
   - https://alysongwilson.github.io/
  googlescholar:
- aminer: https://www.aminer.cn/profile/alyson-g-wilson/53f4308edabfaee4dc74161b # 从这里查找 https://www.aminer.org/search/person
+ aminer: https://www.aminer.cn/profile/alyson-g-wilson/53f4308edabfaee4dc74161b
  status: 在职 # 选项如下：在读/在职/离职/退休/亡故
  last-update: 2021-04-01 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd: # 读博经历
@@ -29,7 +28,7 @@ edu-phd: # 读博经历
  date-start:
  date-end: 1995
  advisor: # 格式：导师名 [邮箱/网址]
- degree: phd# phd
+ degree: phd # phd
 edu-master: # 硕士经历，没有或找不到，可不填
  university: Carnegie Mellon University
  school: Statistics [https://stat.cmu.edu]
@@ -63,8 +62,6 @@ group:
  - Laboratory for Analytic Sciences [https://ncsu-las.org/]
  - Data Science Initiative [https://research.ncsu.edu/dsi/]
  - Data-Driven Science faculty cluster[https://facultyclusters.ncsu.edu/]
-
-
 ---
 
 # Profile
