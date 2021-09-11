@@ -61,7 +61,23 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group:
  - Laboratory for Analytic Sciences [https://ncsu-las.org/]
  - Data Science Initiative [https://research.ncsu.edu/dsi/]
- - Data-Driven Science faculty cluster[https://facultyclusters.ncsu.edu/]
+ - Data-Driven Science faculty cluster [https://facultyclusters.ncsu.edu/]
+job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
+  university: North Carolina State University
+  school: Biomathematics Graduate Program
+  major: 
+  email: 
+  homepage: # 机构内学者主页
+  date-start: 
+  title: 
+  type: 
+job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
+  university: 
+  school: 
+  email: 
+  date-start: 
+  date-end: 
+  advisor: 
 ---
 
 # Profile
