@@ -86,7 +86,6 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 ![Arthur P. Dempster](https://static.hwpi.harvard.edu/files/styles/profile_full/public/statistics-2/files/dempster.jpg?m=1560353404&itok=easXkw_D)
 
 # Biography[English]
-
 Dempster received his B.A. in mathematics and physics (1952) and M.A. in mathematics (1953), both from the [University of Toronto](https://en.wikipedia.org/wiki/University_of_Toronto "University of Toronto"). He obtained his Ph.D. in mathematical statistics from [Princeton University](https://en.wikipedia.org/wiki/Princeton_University "Princeton University") in 1956. His thesis, titled _The two-sample multivariate problem in the degenerate case_, was written under the supervision of [John Tukey](https://en.wikipedia.org/wiki/John_Tukey "John Tukey").
 
 # Biography[中文]
