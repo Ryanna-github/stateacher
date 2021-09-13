@@ -6,11 +6,19 @@ library(formattable)
 # folder <- 'CMU-DS'
 folder <- ''
 
-# setwd("C:/Users/RY/git/stateacher/Data/")
-setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
+setwd("C:/Users/RY/git/stateacher/Data/")
+# setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep('.md', f, value = TRUE)
-f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
+f_yaml_length <- unlist(lapply(f, function(x) length(unlist(load_yaml(x)))))
+
+load_yaml <- function(x){
+  yaml_end_idx <- which(!is.na(stringr::str_locate(readLines(x, encoding = 'utf-8'), pattern = '^(---)'))[,1])[2]
+  x <- readLines(x, encoding = 'utf-8')[1:yaml_end_idx]
+  x <- yaml.load(x)
+  return(x)
+}
+
 
 md_Stat <- function(x, section = templateNames) {
   txt = readLines(x, encoding = 'UTF-8')
