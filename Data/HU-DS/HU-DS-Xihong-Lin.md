@@ -41,7 +41,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   school: Statistics & Actuarial Science [https://stat.uiowa.edu/]
   date-start: 
   date-end: 1991
-  advisor:
+  advisor: 
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Tsinghua University
   school: 
