@@ -8,8 +8,6 @@ bio-current:
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
   major: 
-  title-raw: Professor of Statistics
-Joint Director of Graduate Studies# 主页原始字符串
   title: Professor
   interests: 
     - Interface of applied probability and statistics
