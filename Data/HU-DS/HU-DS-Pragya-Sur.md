@@ -67,8 +67,7 @@ group:
   - 2022	Co-Organizer of Workshop on “Exploring and Exploiting High-dimensional Phenomena in Statistical Learning and Inference", hosted by Radcliffe Institute for Advanced Study, Harvard University
   - 2021 Organizer of Institute of Mathematical Statistics Invited Session on “Frontiers of High-Dimensional Statistics" at Joint Statistical Meetings
   - 2021 Invited Speaker at Math Invitational for Girls 2021 Online Competition
-  - 2021 Program Committee Member, Conference on Learning Theory
-Spring 2021 Colloquium Chair, Harvard Statistics
+  - 2021 Program Committee Member, Conference on Learning Theory Spring 2021 Colloquium Chair, Harvard Statistics
   - 2020-2022 President Elect, IMS New Researchers Group
   - 2020 Mentor, "Rising Stars" Workshop on Al for Social Impact, CRCS, Harvard SEAS
   - 2019	Panelist, Professional Development. Panel on Interviewing, CRCS, Harvard SEAS
