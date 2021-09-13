@@ -1,5 +1,5 @@
 ---
-bio-current：
+bio-current:
   name_en: Jonathan Duggins
   email: 
     - jwduggin@ncsu.edu # 如果有多个邮箱，请都填写上
@@ -8,7 +8,7 @@ bio-current：
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   major: 
   title-raw: Associate Teaching Professor # 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Curriculum-integrated programming
     - Statistics education
