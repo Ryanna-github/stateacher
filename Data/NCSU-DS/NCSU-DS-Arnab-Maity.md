@@ -6,12 +6,11 @@ bio-current:
   sex: male # male/female
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接] 
-  title-raw: Associate Professor# 主页原始字符串
+  title-raw: Associate Professor # 主页原始字符串
   title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Efficient estimation in semiparametric regression models
-    - Functional data analysis, Geneenvironment
-interaction
+    - Functional data analysis, Geneenvironment interaction
     - Kernel methods, Measurement error, Nonparametric regression, Repeated measures
     - Semiparametric efficiency, Semiparametric regression 
     - Spline smoothing
@@ -38,14 +37,13 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor: 
     - Raymond J. Carroll# 格式：导师名 [邮箱/网址]
     - Bani Mallick
-edu-bachelor:  # 本科经历，没有或找不到，可不填
+edu-bachelor: # 本科经历，没有或找不到，可不填
   university: Calcutta
   school: Indian Statistical Institute
   date-end: 2003
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - American Statistical Association(ASA)
-  - International Biometric Society Eastern North American
-Region (IBS-ENAR)
+  - International Biometric Society Eastern North American Region (IBS-ENAR)
   - Institute of Mathematical Statistics (IMS)
 ---
 
