@@ -6,7 +6,8 @@ bio-current:
   sex: male # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
-  school:Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
+  school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
+  major: 
   title-raw: Associate Professor # 主页原始字符串
   title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
