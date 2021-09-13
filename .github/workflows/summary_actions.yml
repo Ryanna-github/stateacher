@@ -33,4 +33,4 @@ jobs:
         run: |
           cd ${{ github.workspace }}/test 
           Rscript test.R
-          Rscript stat.R
+          # Rscript stat.R
