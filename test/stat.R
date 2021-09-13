@@ -5,8 +5,8 @@ library(formattable)
 # folder <- args[1]
 # folder <- 'CMU-DS'
 folder <- ''
-# setwd("C:/Users/RY/git/stateacher/Data/")
-setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
+setwd("C:/Users/RY/git/stateacher/Data/")
+# setwd(paste0('/home/runner/work/stateacher/stateacher/Data/', folder, '/'))
 
 load_yaml <- function(x){
   yaml_end_idx <- which(!is.na(stringr::str_locate(readLines(x, encoding = 'utf-8'), pattern = '^(---)'))[,1])[2]
