@@ -84,8 +84,7 @@ job-faculty-2: # 所属机构，若有多个增加编号即可，字段填写参
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university:  Warwick University
-  school: Center for Research in Statistical Methodology
-(CRiSM) [https://warwick.ac.uk/fac/sci/statistics/crism/]
+  school: Center for Research in Statistical Methodology (CRiSM) [https://warwick.ac.uk/fac/sci/statistics/crism/]
   email: 
   date-start: 2008
   date-end: 2010
