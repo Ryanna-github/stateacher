@@ -44,7 +44,7 @@ edu-master-2:
   school: Biostatistics[https://sph.umich.edu/biostat/]
   date-start: 2007
   date-end: 2009
-  advisor:Jeremy Taylor
+  advisor: Jeremy Taylor
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: UNIVERSITY OF PENNSYLVANIA
   school: Mathematics[https://www.math.upenn.edu/]
