@@ -12,17 +12,26 @@ setwd('/home/runner/work/stateacher/stateacher/')
 f <- list.files(pattern = paste0('.*md$'), recursive = TRUE, full.names = TRUE)
 f <- grep(paste0('/Data/', folder), f, value = TRUE)
 
+
+load_yaml <- function(x){
+  yaml_end_idx <- which(!is.na(stringr::str_locate(readLines(x, encoding = 'utf-8'), pattern = '^(---)'))[,1])[2]
+  x <- readLines(x, encoding = 'utf-8')[1:yaml_end_idx]
+  x <- yaml.load(x)
+  return(x)
+}
+
+# test
 yaml_test <- function(f){
   # 1. Overal checking
-  f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
+  f_yaml_length <- unlist(lapply(f, function(x) length(unlist(load_yaml(x)))))
   # print(paste0(" YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     stop('Too Little Filling: Please recheck integrity of YAML')
   }
   for(x in f){
     # 2. Required fields
-    # cat('\n====================== ', x, ' ======================\n')
-    x <- yaml.load_file(x)
+    cat('\n====================== ', x, ' ======================\n')
+    x <- load_yaml(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
                              c('name-en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
@@ -49,4 +58,5 @@ yaml_test <- function(f){
 }
 
 yaml_test(f)
+
 
