@@ -14,11 +14,11 @@ bio-current:
   title-raw: Co-Director of Ph.D. Program     Professor# 主页原始字符串
   title: Professor
   interests:
-   - Statistical Machine Learning
-  - High-Dimensional Inference
-  - Nonlinear Dimension Reduction
-  - Likelihood-Free Inference
-  - Statistics for the Physical Sciences
+    - Statistical Machine Learning
+    - High-Dimensional Inference
+    - Nonlinear Dimension Reduction
+    - Likelihood-Free Inference
+    - Statistics for the Physical Sciences
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/annlee # 如果有多个主页，请都填写上
   github: 
