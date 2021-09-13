@@ -126,8 +126,6 @@ Dr. Lin is the former Chair of the COPSS (2010-2012) and a former member of the 
 
 # Education[English]
 
-test
-
 # Education[中文]
 
 - 1984年 清华大学应用数学系数学学士学位
@@ -148,7 +146,6 @@ test
 
 # Work experience[English]
 
-test
 
 # Work experience[中文]
 
