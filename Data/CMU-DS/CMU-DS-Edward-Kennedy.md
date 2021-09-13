@@ -13,9 +13,8 @@ bio-current:
   title-raw: Associate Professor
   title: Associate Professor
   interests: 
-    - Theory: causal inference, high-dimensional data, machine learning, nonparametric methods
-
-    - Application: criminal justice, health services research, medicine, public policy
+    - Theory:causal inference, high-dimensional data, machine learning, nonparametric methods
+    - Application:criminal justice, health services research, medicine, public policy
 
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/edward-kennedy
@@ -32,7 +31,7 @@ edu-phd:  # 读博经历
   email: 
   date-start: 2012
   date-end: 2016
-  advisor: Dylan Small & Marshall Joffe # 格式：导师名 [邮箱/网址]
+  advisor: Dylan Small & Marshall Joffe  # 格式：导师名 [邮箱/网址]
   degree: phd
 edu-master-1: 
   university: UNIVERSITY OF PENNSYLVANIA
