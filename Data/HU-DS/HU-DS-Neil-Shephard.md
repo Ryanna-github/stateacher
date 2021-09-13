@@ -12,8 +12,6 @@ bio-current:
   major: 
     - Statistics
     - Economics
-  title-raw: Chair of Department of Statistics,
-Frank B. Baird, Jr. Professor of Science # 主页原始字符串
   title: Professor
   interests: 
     - Econometrics
