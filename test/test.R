@@ -20,6 +20,7 @@ load_yaml <- function(x){
   return(x)
 }
 
+# test
 yaml_test <- function(f){
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(load_yaml(x)))))
@@ -29,7 +30,7 @@ yaml_test <- function(f){
   }
   for(x in f){
     # 2. Required fields
-    # cat('\n====================== ', x, ' ======================\n')
+    cat('\n====================== ', x, ' ======================\n')
     x <- load_yaml(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
@@ -57,4 +58,5 @@ yaml_test <- function(f){
 }
 
 yaml_test(f)
+
 
