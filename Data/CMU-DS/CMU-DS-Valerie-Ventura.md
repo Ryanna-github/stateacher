@@ -12,10 +12,10 @@ bio-current:
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - cognitive neurosciences
-  - time series forecasting
-  - networks
-  - algorithms
-  - nonparametric methods
+    - time series forecasting
+    - networks
+    - algorithms
+    - nonparametric methods
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/valerie-ventura
     - http://www.stat.cmu.edu/~vventura/
