@@ -8,7 +8,7 @@ bio-current:
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Gertrude M. Cox Distinguished Professor# 主页原始字符串
+  title-raw: Gertrude M. Cox Distinguished Professor # 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Environmental Statistics
@@ -19,8 +19,7 @@ bio-current:
     - https://bjreich.wordpress.ncsu.edu/
   github: 
   googlescholar:  
-  aminer: 
- https://www.aminer.cn/profile/brian-reich/53f44968dabfaee1c0af93a4 # 从这里查找 https://www.aminer.org/search/person
+  aminer: https://www.aminer.cn/profile/brian-reich/53f44968dabfaee1c0af93a4 # 从这里查找 https://www.aminer.org/search/person
   status: 在职 # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -62,8 +61,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
   - 
     with: 
     project: 
-group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-   - NCSU DRUMS Program
+group: NCSU DRUMS Program # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
   school: 
