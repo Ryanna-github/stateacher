@@ -7,18 +7,18 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Dept, of Statistics [] # 格式：学院名称[学院官网链接]
-  major: 
-  title-raw: Special Faculty -  Post Doctoral Researcher# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  school: Department of Statistics and Data Science[http://stat.cmu.edu/]
+  major: Statistics and Data Science
+  title-raw: Special Faculty -  Post Doctoral Researcher # 主页原始字符串
+  title:   # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/zhanrui-cai # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  status: 在职
+  last-update: 2021-9-13 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
   school: 
@@ -69,7 +69,7 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
   title: 
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
-  university: 
+  university: Carnegie Mellon University 
   school: 
   email: 
   date-start: 
