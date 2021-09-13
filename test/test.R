@@ -30,7 +30,7 @@ yaml_test <- function(f){
   for(x in f){
     # 2. Required fields
     # cat('\n====================== ', x, ' ======================\n')
-    x <- yaml.load_file(x)
+    x <- load_yaml(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
                              c('name-en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
