@@ -4,7 +4,7 @@ bio-current:
   name-en: John Lehoczky
   email: 
     - jl16@andrew.cmu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
