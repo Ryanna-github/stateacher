@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school:school: Department of Statistics [http://www.stat.cmu.edu/]
+  school: Department of Statistics [http://www.stat.cmu.edu/]
   major: statistics, astronomy, machine learning, cosmology
   title-raw: Professor# 主页原始字符串
   title: Professor
