@@ -1,7 +1,7 @@
 ---
 bio-current:
 
-  name_en: Alexandra Chouldechova
+  name-en: Alexandra Chouldechova
   email: 
     - achould@cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

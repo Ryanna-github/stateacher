@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Valerie Ventura
+  name-en: Valerie Ventura
   email: 
     - vventura@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

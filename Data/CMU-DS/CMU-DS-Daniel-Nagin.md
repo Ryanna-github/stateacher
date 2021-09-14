@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Daniel Nagin
+  name-en: Daniel Nagin
   email: 
     - dn03@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

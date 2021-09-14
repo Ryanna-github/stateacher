@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Isabella Verdinelli
+  name-en: Isabella Verdinelli
   email: 
     - isabella@stat.cmu.edu 
     - isabella.verdinelli@uniroma1.it

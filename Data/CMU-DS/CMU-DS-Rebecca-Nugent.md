@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Rebecca Nugent
+  name-en: Rebecca Nugent
   email: 
     - head@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Max G'Sell
+  name-en: Max G'Sell
   email: 
     - mgsell@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

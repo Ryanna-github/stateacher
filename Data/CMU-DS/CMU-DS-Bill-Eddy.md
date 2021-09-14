@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Bill Eddy
+  name-en: Bill Eddy
   email: 
     - bill@stat.cmu.edu # 如果有多个邮箱，请都填写上
     - bill@cmu.edu

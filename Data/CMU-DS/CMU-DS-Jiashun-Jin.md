@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jiashun Jin
+  name-en: Jiashun Jin
   email: 
     - jiashun@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

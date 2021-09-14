@@ -1,13 +1,13 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Amelia M. Haviland
+  name-en: Amelia M. Haviland
   email: 
     - haviland@cmu.edu # 如果有多个邮箱，请都填写上
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school: Department of Statistics [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics and Public Policy
   title-raw: Anna Loomis McCandless Professorship of Statistics and Public Policy # 主页原始字符串
   title: Professor

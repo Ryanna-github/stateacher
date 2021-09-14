@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jing Lei
+  name-en: Jing Lei
   email: 
     - jinglei@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

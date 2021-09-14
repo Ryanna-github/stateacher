@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Larry Wasserman
+  name-en: Larry Wasserman
   email: 
     - larry@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

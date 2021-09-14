@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Edward Kennedy
+  name-en: Edward Kennedy
   email: 
     - edward@stat.cmu.edu 
     - edwardh.kennedy@gmail.com

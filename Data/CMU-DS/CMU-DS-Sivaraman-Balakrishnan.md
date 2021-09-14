@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Sivaraman Balakrishnan
+  name-en: Sivaraman Balakrishnan
   email: 
     - siva@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

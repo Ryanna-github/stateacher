@@ -1,6 +1,6 @@
 ---
 bio-current: 
-  name_en: Nynke Niezink
+  name-en: Nynke Niezink
   email: 
     - nynke@stat.cmu.edu # 如果有多个邮箱，请都填写上
     - nniezink@andrew.cmu.edu

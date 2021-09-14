@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Mikael Kuusela
+  name-en: Mikael Kuusela
   email: 
     - mkuusela@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

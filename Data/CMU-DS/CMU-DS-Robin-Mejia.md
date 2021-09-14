@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Robin Mejia
+  name-en: Robin Mejia
   email: 
     - rmejia@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

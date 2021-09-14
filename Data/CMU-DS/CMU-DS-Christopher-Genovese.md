@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Christopher Genovese
+  name-en: Christopher Genovese
   email: 
     - genovese@cmu.edu # 如果有多个邮箱，请都填写上
     - head@stat.cmu.edu

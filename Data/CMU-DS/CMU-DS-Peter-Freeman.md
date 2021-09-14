@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Peter Freeman
+  name-en: Peter Freeman
   email: 
     - pfreeman@cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

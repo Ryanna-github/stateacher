@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Rebecca Doerge
+  name-en: Rebecca Doerge
   email: 
     - rwdoerge@cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

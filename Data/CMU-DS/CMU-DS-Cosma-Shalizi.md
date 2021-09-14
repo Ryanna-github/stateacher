@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Cosma Shalizi
+  name-en: Cosma Shalizi
   email: 
     - cshalizi@stat.cmu.edu 
     - cshalizi@cmu.edu

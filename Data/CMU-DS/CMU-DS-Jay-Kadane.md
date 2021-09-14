@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Jay Kadane
+  name-en: Jay Kadane
   email: 
     - kadane@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Aaditya Ramdas
+  name-en: Aaditya Ramdas
   email: 
     - aramdas@cmu.edu
     - aramdas@stat.cmu.edu

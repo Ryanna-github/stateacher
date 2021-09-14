@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Alex Reinhart
+  name-en: Alex Reinhart
   email: 
     - areinhar@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

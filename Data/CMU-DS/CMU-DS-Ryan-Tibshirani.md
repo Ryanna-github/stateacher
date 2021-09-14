@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Ryan Tibshirani
+  name-en: Ryan Tibshirani
   email: 
     - ryantibs@cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

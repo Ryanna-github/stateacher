@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: John Lehoczky
+  name-en: John Lehoczky
   email: 
     - jl16@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: # male/female

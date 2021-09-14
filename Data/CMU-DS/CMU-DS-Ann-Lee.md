@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Ann Lee
+  name-en: Ann Lee
   email: 
     - annlee@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: female

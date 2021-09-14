@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Arun Kumar Kuchibhotla
+  name-en: Arun Kumar Kuchibhotla
   email: 
     - akuchibh@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male

@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Matey Neykov
+  name-en: Matey Neykov
   email: 
     - mneykov@andrew.cmu.edu # 如果有多个邮箱，请都填写上
   sex: male
