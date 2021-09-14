@@ -34,7 +34,7 @@ yaml_test <- function(f){
     x <- load_yaml(x)
     valid_name <- names(unlist(x))
     necessary_name <- paste0('bio-current.', 
-                             c('name-en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
+                             c('name_en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
     if(!all(necessary_name %in% valid_name)){
       stop(paste0('Required fields are not complete: ', paste(necessary_name[!(necessary_name %in% valid_name)], collapse = '/'), '\n  '))
     }
