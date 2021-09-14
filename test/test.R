@@ -33,6 +33,7 @@ yaml_test <- function(f){
     cat('\n====================== ', x, ' ======================\n')
     x <- load_yaml(x)
     valid_name <- names(unlist(x))
+    print(valid_name)
     necessary_name <- paste0('bio-current.', 
                              c('name_en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
     if(!all(necessary_name %in% valid_name)){
