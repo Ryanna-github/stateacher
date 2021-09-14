@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Dalene Stangl
+  name-en: Dalene Stangl
   email: 
     - dalene@stat.cmu.edu # 如果有多个邮箱，请都填写上
   sex: female
