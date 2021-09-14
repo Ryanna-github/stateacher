@@ -6,9 +6,9 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics & Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics & Data Science [http://www.stat.cmu.edu/]
   major: 
-  title-raw: Stephen E. and Joyce Fienberg Professor of Statistics & Data Science /                 Department Head # 主页原始字符串
+  title-raw: Stephen E. and Joyce Fienberg Professor of Statistics & Data Science / Department Head # 主页原始字符串
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Behavioral Data Science, Science of Data Science
@@ -27,7 +27,7 @@ bio-current:
   last-update: 2021-9-6 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Washington
-  school: Statistics
+  school: Statistics [https://stat.uw.edu/]
   email: 
   date-start: 
   date-end: 2006
@@ -35,7 +35,7 @@ edu-phd:  # 读博经历
   degree: phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: Stanford University
-  school: n Statistics,
+  school: Statistics [https://statistics.stanford.edu/]
   date-start: 
   date-end: 2001
   advisor:
@@ -65,7 +65,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Statistics Pedagogy[http://www.stat.cmu.edu/research/group/1709]
+  - Statistics Pedagogy [http://www.stat.cmu.edu/research/group/1709]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
   school: 

@@ -7,8 +7,8 @@ bio-current:
   sex: male
   university: Carnegie Mellon University 
   school: 
-    - Department of Statistics and Data Science (75%)[http://stat.cmu.edu/]
-    - Machine Learning Department (25%)[https://www.ml.cmu.edu/]
+    - Department of Statistics and Data Science (75%) [http://stat.cmu.edu/]
+    - Machine Learning Department (25%) [https://www.ml.cmu.edu/]
   major: Statistics and Machine Learning
   title-raw: Assistant Professor
   title: Assistant Professor
@@ -26,7 +26,7 @@ bio-current:
   last-update: 2021-8-29
 edu-phd:  
   university: Carnegie Mellon University (CMU)
-  school: Statistics[http://stat.cmu.edu/] and Machine Learning[https://www.ml.cmu.edu/]
+  school: Statistics [http://stat.cmu.edu/] and Machine Learning [https://www.ml.cmu.edu/]
   email: 
   date-start: 
   date-end: 2010
@@ -35,7 +35,7 @@ edu-phd:
 
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Indian Institute of Technology (IIT)
-  school:  Computer Science and Engineering[https://www.cse.iitb.ac.in/]
+  school:  Computer Science and Engineering [https://www.cse.iitb.ac.in/]
   major: 
     - Computer Science and Engineering
   date-start: 
@@ -60,14 +60,14 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
-  - Statistical Methods for the Physical Sciences(STMPS)[http://stat.cmu.edu/stamps/]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
+  - Statistical Methods for the Physical Sciences(STMPS) [http://stat.cmu.edu/stamps/]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
   school: 
-    - Department of Statistics and Data Science (75%)[http://stat.cmu.edu/]
-    - Machine Learning Department (25%)[https://www.ml.cmu.edu/]
+    - Department of Statistics and Data Science (75%) [http://stat.cmu.edu/]
+    - Machine Learning Department (25%) [https://www.ml.cmu.edu/]
   major: Statistics and Machine Learning
   email: 
     - aramdas@cmu.edu
@@ -101,10 +101,10 @@ Outside of work, here are some easy topics for conversation: travel/outdoors (hi
 
 
 # Interests[English]
-  - [high-dimensional multiple testing](http://www.stat.cmu.edu/~aramdas/multiple.html)
-  - [safe, anytime-valid sequential inference](http://www.stat.cmu.edu/~aramdas/sequential.html)
-  - [distribution-free uncertainty quantification](http://www.stat.cmu.edu/~aramdas/conformal.html)
-  - [machine learning for hypothesis testing](http://www.stat.cmu.edu/~aramdas/ml-for-testing.html)
+  - high-dimensional multiple testing [http://www.stat.cmu.edu/~aramdas/multiple.html]
+  - safe, anytime-valid sequential inference [http://www.stat.cmu.edu/~aramdas/sequential.html]
+  - distribution-free uncertainty quantification [http://www.stat.cmu.edu/~aramdas/conformal.html]
+  - machine learning for hypothesis testing [http://www.stat.cmu.edu/~aramdas/ml-for-testing.html]
 
 
 

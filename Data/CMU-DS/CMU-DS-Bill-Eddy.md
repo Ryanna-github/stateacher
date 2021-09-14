@@ -8,7 +8,7 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: 
-  - Department of Statistics[http://www.stat.cmu.edu/]  
+  - Department of Statistics [http://www.stat.cmu.edu/]  
   - Machine Learning Department [http://www.ml.cmu.edu/]  
   - Department of Biological Sciences [http://www.cmu.edu/bio/]
   - Center for the Neural Basis of Cognition [http://www.cnbc.cmu.edu/] # 格式：学院名称[学院官网链接]
@@ -28,7 +28,7 @@ bio-current:
   last-update: 2021-9-2 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Yale University
-  school: Department of Statistics and Data Science[https://statistics.yale.edu/]
+  school: Department of Statistics and Data Science [https://statistics.yale.edu/]
   email: 
   date-start: 
   date-end: 1976  
@@ -36,13 +36,13 @@ edu-phd:  # 读博经历
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: Yale University
-  school: Department of Statistics and Data Science[https://statistics.yale.edu/]
+  school: Department of Statistics and Data Science [https://statistics.yale.edu/]
   date-start: 
   date-end: 1972 & 1973
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Princeton University
-  school: Center for Statistics and Machine Learning[https://csml.princeton.edu/]
+  school: Center for Statistics and Machine Learning [https://csml.princeton.edu/]
   major: 
   date-start: 
   date-end: 1971
@@ -72,7 +72,7 @@ group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
   school: 
-  - Department of Statistics[http://www.stat.cmu.edu/]  
+  - Department of Statistics [http://www.stat.cmu.edu/]  
   - Machine Learning Department [http://www.ml.cmu.edu/]  
   - Department of Biological Sciences [http://www.cmu.edu/bio/]
   - Center for the Neural Basis of Cognition [http://www.cnbc.cmu.edu/] # 格式：学院名称[学院官网链接]

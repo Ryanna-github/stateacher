@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistics
   title-raw: Professor # 主页原始字符串
   title: Professor
@@ -24,7 +24,7 @@ bio-current:
   last-update: 2021-9-3 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Michigan
-  school: Biostatistics[https://sph.umich.edu/biostat/]
+  school: Biostatistics [https://sph.umich.edu/biostat/]
   email: 
   date-start: 1978
   date-end: 1983
@@ -32,19 +32,19 @@ edu-phd:  # 读博经历
   degree: # phd
 edu-master-1: 
   university: University of Michigan
-  school: Statistics[https://lsa.umich.edu/stats]
+  school: Statistics [https://lsa.umich.edu/stats]
   date-start: 1979
   date-end: 1980
   advisor:
 edu-master-2: 
   university: University of Michigan
-  school: Biostatistics[https://sph.umich.edu/biostat/]
+  school: Biostatistics [https://sph.umich.edu/biostat/]
   date-start: 1975
   date-end: 1977
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of Maryland,
-  school:  Mathematics[https://www-math.umd.edu/]
+  school:  Mathematics [https://www-math.umd.edu/]
   major: 
   date-start: 1971 
   date-end: 1975
@@ -68,10 +68,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - STAMPS[http://www.stat.cmu.edu/research/group/stamps]
+  - STAMPS [http://www.stat.cmu.edu/research/group/stamps]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistic
   email: joel@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/joel # 机构内学者主页

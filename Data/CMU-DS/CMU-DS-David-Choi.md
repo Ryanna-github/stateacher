@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics＆Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school: Department of Statistics＆Data Science [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics and Information Systems
   title-raw: Assistant Professor of Statistics and Information Systems# 主页原始字符串
   title: Assistant Professor
@@ -62,7 +62,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
   school: Department of Statistics＆Data Science

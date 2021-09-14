@@ -7,7 +7,7 @@ bio-current:
   sex: # male/female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Applied Probability Modeling & Computational Finance
   title-raw: Thomas Lord University Professor of Statistics# 主页原始字符串
   title: Professor
@@ -25,7 +25,7 @@ bio-current:
   last-update: 2021-9-3 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Stanford University
-  school: Statistics[https://statistics.stanford.edu/]
+  school: Statistics [https://statistics.stanford.edu/]
   email: 
   date-start: 
   date-end: 1969
@@ -65,7 +65,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Applied Probability Modeling & Computational Finance
   email: jl16@andrew.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/john-lehoczky # 机构内学者主页

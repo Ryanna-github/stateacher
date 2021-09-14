@@ -7,7 +7,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/]
+  school: Department of Statistics [http://www.stat.cmu.edu/]
   major: Statistics & Topological & Functional Data Analysis
   title-raw: Professor in Residence
   title: Professor
@@ -70,10 +70,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - CMU TopStat[http://www.stat.cmu.edu/research/group/1182]
+  - CMU TopStat [http://www.stat.cmu.edu/research/group/1182]
 job-faculty-1: 
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/]
+  school: Department of Statistics [http://www.stat.cmu.edu/]
   major: Statistics & Topological & Functional Data Analysis
   email: isabella@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/isabella-verdinelli
@@ -82,7 +82,7 @@ job-faculty-1:
   type: 
 job-faculty-2: 
   university: Sapiena University of Rome
-  school: Department of Statistical Sciences[https://www.dss.uniroma1.it/en]
+  school: Department of Statistical Sciences [https://www.dss.uniroma1.it/en]
   major: 
   email: isabella.verdinelli@uniroma1.it
   homepage: 

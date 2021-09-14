@@ -7,14 +7,14 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics＆Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school: Department of Statistics＆Data Science [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics & Public Policy
   title-raw: Estella Loomis McCandless Assistant Professor of Statistics and Public Policy# 主页原始字符串
   title: Assistant Professor
   interests:   
-  - high dimensional statistics
-  - large scale hypothesis testing
-  - estimation and statistical inference
+    - high dimensional statistics
+    - large scale hypothesis testing
+    - estimation and statistical inference
 # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/achould # 如果有多个主页，请都填写上
@@ -25,7 +25,7 @@ bio-current:
   last-update: 2021-8-30 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Stanford University
-  school: Statistics[https://statistics.stanford.edu/]
+  school: Statistics [https://statistics.stanford.edu/]
   email: 
   date-start: 2009  
   date-end: 2014
@@ -39,7 +39,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of Toronto
-  school: Department of Mathematical and Computational Sciences[https://www.utm.utoronto.ca/]
+  school: Department of Mathematical and Computational Sciences [https://www.utm.utoronto.ca/]
   major: Mathematical Statistics
   date-start: 
   date-end: 2009
@@ -63,7 +63,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: 
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567] # 所属团队，学者可能有不同的兴趣小组，可以列上去
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567] # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
   school: H. John Heinz III College

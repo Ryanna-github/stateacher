@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistics & Machine Learning
   title-raw: Professor # 主页原始字符串
   title: Professor
@@ -67,7 +67,7 @@ group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - StatML Theory[http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistics & Machine Learning
   email: jiashun@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/jiashun  # 机构内学者主页

@@ -7,9 +7,9 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: 
-    - Department of Statistics and Data Science[http://stat.cmu.edu/]
-    - Machine Learning Department[https://www.ml.cmu.edu/]
-    - Neuroscience Institute[https://cmu.edu/ni]
+    - Department of Statistics and Data Science [http://stat.cmu.edu/]
+    - Machine Learning Department [https://www.ml.cmu.edu/]
+    - Neuroscience Institute [https://cmu.edu/ni]
   major: statistics and mathematics
   title-raw: Maurice Falk Professor of Statistics & Computational Neuroscience # 主页原始字符串
   title: Professor
@@ -32,7 +32,7 @@ bio-current:
   last-update: 2021-9-6 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Chicago
-  school: Statistics[https://stat.uchicago.edu/]
+  school: Statistics [https://stat.uchicago.edu/]
   email: 
   date-start: 
   date-end: 1980
@@ -40,13 +40,13 @@ edu-phd:  # 读博经历
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: University of Wisconsin-Madison
-  school:  statistics and mathematics[https://stat.wisc.edu/]
+  school:  statistics and mathematics [https://stat.wisc.edu/]
   date-start: 1975
   date-end: 1976
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Antioch College
-  school:  Mathematics[https://antiochcollege.edu/department/mathematics/]
+  school:  Mathematics [https://antiochcollege.edu/department/mathematics/]
   major:  Mathematics
   date-start: 
   date-end: 1975
@@ -70,10 +70,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - NeuroStats[http://www.stat.cmu.edu/research/group/537]
+  - NeuroStats [http://www.stat.cmu.edu/research/group/537]
 job-faculty-1: 
   university: Carnegie Mellon University 
-  school: Department of Statistics and Data Science[http://stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://stat.cmu.edu/]
   major: 
   email: kass@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/rob-kass
@@ -82,7 +82,7 @@ job-faculty-1:
   type: 
 job-faculty-2: 
   university: Carnegie Mellon University 
-  school: Machine Learning Department[https://www.ml.cmu.edu/]
+  school: Machine Learning Department [https://www.ml.cmu.edu/]
   major: 
   email: kass@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/~kass/
@@ -91,7 +91,7 @@ job-faculty-2:
   type: 
 job-faculty-3: 
   university: Carnegie Mellon University 
-  school: Neuroscience Institute[https://cmu.edu/ni]
+  school: Neuroscience Institute [https://cmu.edu/ni]
   major: 
   email: kass@stat.cmu.edu
   homepage: https://www.cmu.edu/ni/people/faculty/rkass.html
@@ -100,7 +100,7 @@ job-faculty-3:
   type: 
 job-faculty-4: 
   university: Carnegie Mellon University 
-  school: Department of Biomedical Engineering[https://www.cmu.edu/bme/index.html]
+  school: Department of Biomedical Engineering [https://www.cmu.edu/bme/index.html]
   major: 
   email: kass@stat.cmu.edu
   homepage: https://www.cmu.edu/bme/People/Faculty/profile/rkass.html
@@ -109,7 +109,7 @@ job-faculty-4:
   type: 
 job-faculty-5: 
   university: University of Pittsburgh
-  school: Department of Neuroscience[https://www.neuroscience.pitt.edu/]
+  school: Department of Neuroscience [https://www.neuroscience.pitt.edu/]
   major: 
   email: kass@stat.cmu.edu
   homepage: https://www.neuroscience.pitt.edu/people/robert-e-kass-phd

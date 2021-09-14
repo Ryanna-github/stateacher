@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: 1941 # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistics & Mathematics
   title-raw: Leonard J. Savage University Professor of Statistics and Social Sciences, Emeritus# 主页原始字符串
   title: Professor
@@ -23,7 +23,7 @@ bio-current:
   last-update: 2021-9-3 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Stanford University
-  school: Statistics[https://statistics.stanford.edu/]
+  school: Statistics [https://statistics.stanford.edu/]
   email: 
   date-start: 
   date-end: 1966
@@ -37,7 +37,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Harvard University
-  school: Mathematics[https://www.harvard.edu/programs/mathematics/]
+  school: Mathematics [https://www.harvard.edu/programs/mathematics/]
   major: 
   date-start: 
   date-end: 1962
@@ -64,7 +64,7 @@ group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - CSAFE[http://www.stat.cmu.edu/research/group/567]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: Statistics & Mathematics
   email: kadane@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/jay-kadane 

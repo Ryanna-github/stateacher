@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: 1967 # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Astrostatistics and Statistics Pedagogy
   title-raw: Associate Teaching Professor,       Director of Undergraduate Studies # 主页原始字符串
   title: Associate Professor
@@ -27,7 +27,7 @@ bio-current:
   last-update: 2021-9-6 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Chicago
-  school: Astronomy & Astrophysics[https://astrophysics.uchicago.edu/]
+  school: Astronomy & Astrophysics [https://astrophysics.uchicago.edu/]
   email: 
   date-start: 
   date-end: 1997
@@ -41,7 +41,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of California
-  school: Department of Physics & Astronomy[https://www.physics.uci.edu/]
+  school: Department of Physics & Astronomy [https://www.physics.uci.edu/]
   major: Physics
   date-start: 
   date-end: 1988
@@ -65,13 +65,13 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Astrostatistics[http://www.stat.cmu.edu/research/group/523]
-  - STAMPS[http://www.stat.cmu.edu/research/group/stamps]
-  - Statistics Pedagogy[http://www.stat.cmu.edu/research/group/1709]
+  - Astrostatistics [http://www.stat.cmu.edu/research/group/523]
+  - STAMPS [http://www.stat.cmu.edu/research/group/stamps]
+  - Statistics Pedagogy [http://www.stat.cmu.edu/research/group/1709]
 
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Astrostatistics and Statistics Pedagogy
   email: pfreeman@cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/pfreeman # 机构内学者主页

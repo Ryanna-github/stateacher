@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school:  Department of Statistics and Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school:  Department of Statistics and Data Science [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics
   title-raw: Professor # 主页原始字符串
   title: Professor
@@ -66,7 +66,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Statistics
   email: 
   homepage: www.stat.cmu.edu/people/faculty/devlin # 机构内学者主页
@@ -75,7 +75,7 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
   type: 
 job-faculty-2: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: University of Pittsburgh
-  school: School of Medicine[https://www.medschool.pitt.edu/]
+  school: School of Medicine [https://www.medschool.pitt.edu/]
   major: Statistical Genetics&Psychiatric Genetics
   email: devlinbj@upmc.edu
   homepage: http://www.wpic.pitt.edu/wpiccompgen/ # 机构内学者主页

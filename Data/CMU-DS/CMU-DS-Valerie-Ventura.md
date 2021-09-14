@@ -6,7 +6,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: computational neuroscience
   title-raw: Co-Director of Ph.D. Program     Professor # 主页原始字符串
   title: Professor
@@ -64,11 +64,11 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - DELPHI[http://www.stat.cmu.edu/research/group/1185]
-  - NeuroStats[http://www.stat.cmu.edu/research/group/537]
+  - DELPHI [http://www.stat.cmu.edu/research/group/1185]
+  - NeuroStats [http://www.stat.cmu.edu/research/group/537]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: computational neuroscience
   email: vventura@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/valerie-ventura # 机构内学者主页
@@ -77,7 +77,7 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
   type: tenured
 job-faculty-2: 
   university: Carnegie Mellon University 
-  school: Machine Learning Department[https://www.ml.cmu.edu/]
+  school: Machine Learning Department [https://www.ml.cmu.edu/]
   major: 
   email: 
   homepage: # 机构内学者主页
@@ -86,7 +86,7 @@ job-faculty-2:
   type: 
 job-faculty-3: 
   university: Carnegie Mellon University
-  school: Center for the Neural Basis of Cognition (CNBC)[https://www.cnbc.cmu.edu/]
+  school: Center for the Neural Basis of Cognition (CNBC) [https://www.cnbc.cmu.edu/]
   major: Neural Computation (PNC)
   email: 
   homepage: # 机构内学者主页

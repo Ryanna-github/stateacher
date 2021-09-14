@@ -6,7 +6,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics&Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics&Data Science [http://www.stat.cmu.edu/]
   major: Bayesian Statistics & Statistics Education
   title-raw: Teaching Professor, Emeritus# 主页原始字符串
   title: Professor

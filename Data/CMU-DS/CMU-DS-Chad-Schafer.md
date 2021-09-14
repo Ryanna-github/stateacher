@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school:school: Department of Statistics[http://www.stat.cmu.edu/]
+  school:school: Department of Statistics [http://www.stat.cmu.edu/]
   major: statistics, astronomy, machine learning, cosmology
   title-raw: Professor# 主页原始字符串
   title: Professor
@@ -22,7 +22,7 @@ bio-current:
   last-update: 2021-9-2 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of California, Berkeley
-  school: Statistics[https://statistics.berkeley.edu/]
+  school: Statistics [https://statistics.berkeley.edu/]
   email: 
   date-start: 
   date-end: 2004
@@ -30,7 +30,7 @@ edu-phd:  # 读博经历
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: University of Illinois 
-  school: Science in Statistics[[https://stat.illinois.edu/]]
+  school: Science in Statistics [https://stat.illinois.edu/]
   date-start: 
   date-end: 1998
   advisor:
@@ -60,11 +60,11 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Astrostatistics[http://www.stat.cmu.edu/research/group/523]
-  - STAMPS[http://www.stat.cmu.edu/research/group/stamps]
+  - Astrostatistics [http://www.stat.cmu.edu/research/group/523]
+  - STAMPS [http://www.stat.cmu.edu/research/group/stamps]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school:school: Department of Statistics[http://www.stat.cmu.edu/]
+  school:school: Department of Statistics [http://www.stat.cmu.edu/]
   major: statistics, astronomy, machine learning, cosmology
   email: cschafer@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/cschafer # 机构内学者主页

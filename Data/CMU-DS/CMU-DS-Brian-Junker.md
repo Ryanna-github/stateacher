@@ -6,7 +6,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/]   # 格式：学院名称[学院官网链接]
+  school: Department of Statistics [http://www.stat.cmu.edu/]   # 格式：学院名称[学院官网链接]
   major: Statistics
   title-raw: Professor of Statistics# 主页原始字符串
   title: Professor
@@ -26,7 +26,7 @@ bio-current:
   last-update: 2021-9-2
 edu-phd:  # 读博经历
   university: University of Illinois
-  school: Statistics[https://stat.illinois.edu/]
+  school: Statistics [https://stat.illinois.edu/]
   email: 
   date-start: 
   date-end: 1988
@@ -34,13 +34,13 @@ edu-phd:  # 读博经历
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: University of Illinois
-  school: Mathematics[https://math.illinois.edu/]
+  school: Mathematics [https://math.illinois.edu/]
   date-start: 
   date-end: 1986
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of Minnesota
-  school: School of Mathematics[https://cse.umn.edu/math]
+  school: School of Mathematics [https://cse.umn.edu/math]
   major: Mathematics
   date-start: 
   date-end: 1980
@@ -67,7 +67,7 @@ group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - Networkshop[http://www.stat.cmu.edu/research/group/1459]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university:  Univ, of Pittsburgh
-  school: Department of Statistics[http://www.stat.cmu.edu/] 
+  school: Department of Statistics [http://www.stat.cmu.edu/] 
   major: Statistics
   email: brian@stat. emu. edu
   homepage: http://www.stat.cmu.edu/people/faculty/brian # 机构内学者主页

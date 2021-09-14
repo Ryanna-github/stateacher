@@ -6,7 +6,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics & Data Science[http://www.stat.cmu.edu/] 
+  school: Department of Statistics & Data Science [http://www.stat.cmu.edu/] 
   major: Statistics and Life Sciences
   title-raw: UPMC Professor of Statistics and Life Sciences# 主页原始字符串
   title: Professor
@@ -23,7 +23,7 @@ bio-current:
   last-update: 2021-9-5 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Pennsylvania State University
-  school: Statistics[https://science.psu.edu/stat]
+  school: Statistics [https://science.psu.edu/stat]
   email: 
   date-start: 
   date-end: 1988
@@ -37,7 +37,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of Idaho
-  school: Department of Fish and Wildlife Sciences[https://www.uidaho.edu/cnr/departments/fish-and-wildlife-sciences]
+  school: Department of Fish and Wildlife Sciences [https://www.uidaho.edu/cnr/departments/fish-and-wildlife-sciences]
   major: Wildlife Resources
   date-start: 
   date-end: 1982
@@ -63,7 +63,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics & Data Science[http://www.stat.cmu.edu/] 
+  school: Department of Statistics & Data Science [http://www.stat.cmu.edu/] 
   major: Statistics and Life Sciences
   email: roeder@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/roeder # 机构内学者主页

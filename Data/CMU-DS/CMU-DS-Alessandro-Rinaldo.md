@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Statistics
   title-raw: Professor, Associate Dean of Research, Dietrich College of Humanities & Social Sciences# 主页原始字符串
   title: Professor
@@ -30,7 +30,7 @@ bio-current:
   last-update: 2021-8-29
 edu-phd:  # 读博经历
   university: Carnegie Mellon University
-  school: Statistics[http://www.stat.cmu.edu/]
+  school: Statistics [http://www.stat.cmu.edu/]
   email: 
   date-start: 
   date-end: 2005
@@ -69,12 +69,12 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: 
 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - CMU TopStat[http://www.stat.cmu.edu/research/group/1182]
-  - Networkshop[http://www.stat.cmu.edu/research/group/1459]
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+  - CMU TopStat [http://www.stat.cmu.edu/research/group/1182]
+  - Networkshop [http://www.stat.cmu.edu/research/group/1459]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Statistics
   email: 
     - arinaldo@stat.cmu.edu 

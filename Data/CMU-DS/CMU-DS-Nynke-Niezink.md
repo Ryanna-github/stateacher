@@ -7,7 +7,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Statistics and Data Science[http://stat.cmu.edu/]
+  school: Statistics and Data Science [http://stat.cmu.edu/]
   major: statistics and network science
   title-raw: Assistant Professor # 主页原始字符串
   title: Assistant Professor
@@ -24,7 +24,7 @@ bio-current:
   last-update: 2021-9-6 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Groningen
-  school: Sociology[https://www.rug.nl/gmw/sociology/?lang=en]
+  school: Sociology [https://www.rug.nl/gmw/sociology/?lang=en]
   email: 
   date-start: 2012
   date-end: 2017(Defense date:2018-5-28)
@@ -32,19 +32,19 @@ edu-phd:  # 读博经历
   degree: phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: University of Groningen
-  school: Applied Mathematics[https://www.rug.nl/masters/applied-mathematics/?lang=en]
+  school: Applied Mathematics [https://www.rug.nl/masters/applied-mathematics/?lang=en]
   date-start: 2008
   date-end: 2011
   advisor:
 edu-bachelor-1:  
   university: University of Groningen
-  school: Faculty of Behavioural and Social Sciences[https://www.rug.nl/gmw/]
+  school: Faculty of Behavioural and Social Sciences [https://www.rug.nl/gmw/]
   major: Pedagogy and Educational Sciences
   date-start: 2006
   date-end: 2010
 edu-bachelor-2:  
   university: University of Groningen
-  school: Science and Engineering[https://www.rug.nl/fse/?lang=en]
+  school: Science and Engineering [https://www.rug.nl/fse/?lang=en]
   major: Mathematics
   date-start: 2005
   date-end: 2008
@@ -71,7 +71,7 @@ group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - Networkshop[http://www.stat.cmu.edu/research/group/1459]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Statistics and Data Science[http://stat.cmu.edu/]
+  school: Statistics and Data Science [http://stat.cmu.edu/]
   major: statistics and network science
   email: nynke@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/nynke-niezink # 机构内学者主页

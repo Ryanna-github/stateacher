@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Statistics & Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school: Statistics & Data Science [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics & Data Science
   title-raw: Assistant Teaching Professor# 主页原始字符串
   title: Assistant Professor
@@ -66,12 +66,12 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - TeachStat Research Group [http://www.stat.cmu.edu/teachstat/]
   - Delphi Group [https://delphi.cmu.edu/]
-  - Statistics Pedagogy[http://www.stat.cmu.edu/research/group/1709]
+  - Statistics Pedagogy [http://www.stat.cmu.edu/research/group/1709]
 
 
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Statistics & Data Science[http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
+  school: Statistics & Data Science [http://www.stat.cmu.edu/] # 格式：学院名称[学院官网链接]
   major: Statistics & Data Science
   email: areinhar@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/alex-reinhart # 机构内学者主页

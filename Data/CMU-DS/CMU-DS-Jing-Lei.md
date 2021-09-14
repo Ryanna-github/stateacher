@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: statistical theory and methodology
   title-raw: Associate Professor# 主页原始字符串
   title: Associate Professor
@@ -26,7 +26,7 @@ bio-current:
   last-update: 2021-9-3 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of California, Berkeley
-  school: Statistics[https://statistics.berkeley.edu/]
+  school: Statistics [https://statistics.berkeley.edu/]
   email: 
   date-start: 
   date-end: 2010
@@ -40,7 +40,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Beijing University
-  school: Mathematical Sciences[http://english.math.pku.edu.cn/]
+  school: Mathematical Sciences [http://english.math.pku.edu.cn/]
   major: Probability and Statistics
   date-start: 
   date-end: 2005
@@ -64,10 +64,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
- - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+ - StatML Theory [http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://www.stat.cmu.edu/cmu-stats/]
+  school: Department of Statistics [http://www.stat.cmu.edu/cmu-stats/]
   major: statistical theory and methodology
   email: jinglei@andrew.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/jinglei  # 机构内学者主页

@@ -7,8 +7,8 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: 
-    - Department of Statistics and Data Science[http://stat.cmu.edu/]
-    - Machine Learning Department[https://www.ml.cmu.edu/]
+    - Department of Statistics and Data Science [http://stat.cmu.edu/]
+    - Machine Learning Department [https://www.ml.cmu.edu/]
   major: Statistics and Machine Learning
   title-raw: Professor # 主页原始字符串
   title: Professor
@@ -66,8 +66,8 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - DELPHI[http://www.stat.cmu.edu/research/group/1185]
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+  - DELPHI [http://www.stat.cmu.edu/research/group/1185]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
   school: Depts, of Statistics and Machine Learning

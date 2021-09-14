@@ -8,7 +8,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics&Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics&Data Science [http://www.stat.cmu.edu/]
   major: Statistics
   title-raw: Associate Professor
   title: Associate Professor
@@ -27,7 +27,7 @@ bio-current:
   last-update: 2021-9-3 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: UNIVERSITY OF PENNSYLVANIA 
-  school: Biostatistics[https://www.med.upenn.edu/bgs/]
+  school: Biostatistics [https://www.med.upenn.edu/bgs/]
   email: 
   date-start: 2012
   date-end: 2016
@@ -35,19 +35,19 @@ edu-phd:  # 读博经历
   degree: phd
 edu-master-1: 
   university: UNIVERSITY OF PENNSYLVANIA
-  school: THE WHARTON SCHOOL[https://www.wharton.upenn.edu/]
+  school: THE WHARTON SCHOOL [https://www.wharton.upenn.edu/]
   date-start: 2013
   date-end: 2014
   advisor: Marshall Joffe & Dylan Small
 edu-master-2: 
   university:  UNIVERSITY OF MICHIGAN
-  school: Biostatistics[https://sph.umich.edu/biostat/]
+  school: Biostatistics [https://sph.umich.edu/biostat/]
   date-start: 2007
   date-end: 2009
   advisor: Jeremy Taylor
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: UNIVERSITY OF PENNSYLVANIA
-  school: Mathematics[https://www.math.upenn.edu/]
+  school: Mathematics [https://www.math.upenn.edu/]
   major: Statistics
   date-start: 2003
   date-end: 2007
@@ -71,11 +71,11 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: 
   university: Carnegie Mellon University 
-  school: Department of Statistics&Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics&Data Science [http://www.stat.cmu.edu/]
   major: Statistics
   email: edward@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/edward-kennedy

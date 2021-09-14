@@ -7,7 +7,7 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics[http://stat.cmu.edu/]
+  school: Department of Statistics [http://stat.cmu.edu/]
   major: Statistical Machine Learning
   title-raw: Associate Professor # 主页原始字符串
   title: Associate Professor
@@ -24,7 +24,7 @@ bio-current:
   last-update: 2021-9-7 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Carnegie Mellon University
-  school: School of Language Technology[https://www.lti.cs.cmu.edu/]
+  school: School of Language Technology [https://www.lti.cs.cmu.edu/]
   email: 
   date-start: 
   date-end: 
@@ -62,21 +62,21 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: 
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
-  - CMU TopStat[http://www.stat.cmu.edu/research/group/1182]
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
+  - CMU TopStat [http://www.stat.cmu.edu/research/group/1182]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
-  university: 
-  school: 
-  major: 
-  email: 
-  homepage: # 机构内学者主页
+  university: Carnegie Mellon University 
+  school: Department of Statistics [http://stat.cmu.edu/]
+  major: Statistical Machine Learning
+  email: siva@stat.cmu.edu
+  homepage: http://www.stat.cmu.edu/people/faculty/sbalakri  # 机构内学者主页
   date-start: 
-  title: 
+  title: Associate Professor
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
-  university: 
-  school: 
+  university:  University of California, Berkeley
+  school: Department of Statistics [https://statistics.berkeley.edu/]
   email: 
   date-start: 
   date-end: 

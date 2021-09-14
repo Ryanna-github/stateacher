@@ -6,7 +6,7 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
-  school: Department of Statistics and Data Science[http://www.stat.cmu.edu/]
+  school: Department of Statistics and Data Science [http://www.stat.cmu.edu/]
   major: Statistics and Biology
   title-raw: Dean, MCS / Professor of Statistics # 主页原始字符串
   title: Professor
@@ -68,7 +68,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: 
   university: Carnegie Mellon University 
-  school: Mellon College of Science[https://www.cmu.edu/mcs/index.html]
+  school: Mellon College of Science [https://www.cmu.edu/mcs/index.html]
   major: Statistics and Biology
   email: rwdoerge@cmu.edu
   homepage: https://www.cmu.edu/mcs/people/dean-bio.html # 机构内学者主页
@@ -77,7 +77,7 @@ job-faculty-1:
   type: 
 job-faculty-2: 
   university: Carnegie Mellon University 
-  school: Dietrich College of Humanities and Social Sciences[http://www.hss.cmu.edu/]
+  school: Dietrich College of Humanities and Social Sciences [http://www.hss.cmu.edu/]
   major: Statistics and Biology
   email: rwdoerge@cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/rebecca-doerge # 机构内学者主页

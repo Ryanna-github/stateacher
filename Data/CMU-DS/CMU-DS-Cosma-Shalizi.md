@@ -9,16 +9,16 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Carnegie Mellon University 
   school: 
-    - Statistics Department[http://www.stat.cmu.edu/] 
-    - Machine Learning Department[http://www.ml.cmu.edu/]
-    - Center for the Neural Basis of Cognition[http://www.cnbc.cmu.edu/]
+    - Statistics Department [http://www.stat.cmu.edu/] 
+    - Machine Learning Department [http://www.ml.cmu.edu/]
+    - Center for the Neural Basis of Cognition [http://www.cnbc.cmu.edu/]
   major: Statistics
   title-raw: Associate Professor# 主页原始字符串
   title: Associate Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Statistical analysis of complex systems models
-    - Inference for stochastic processes: learning theory, nonparametric prediction
-    - Networks: causal inference, exponential families, nonparametrics, historical networks
+    - Inference for stochastic processes:learning theory, nonparametric prediction
+    - Networks:causal inference, exponential families, nonparametrics, historical networks
     - Simulation-based inference
     - Inference and prediction with mis-specified models
     - Collective cognition and problem-solving
@@ -40,7 +40,7 @@ bio-current:
   last-update: 2021-9-2 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Wisconsin at Madison
-  school: Physics Department[https://www.physics.wisc.edu/]
+  school: Physics Department [https://www.physics.wisc.edu/]
   email: 
   date-start: 1993
   date-end: 2001
@@ -54,7 +54,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: University of California at Berkeley,
-  school: Physics Department[https://physics.berkeley.edu/]
+  school: Physics Department [https://physics.berkeley.edu/]
   major: 
   date-start: 1990
   date-end: 1993
@@ -78,15 +78,15 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
-  - CSAFE[http://www.stat.cmu.edu/research/group/567]
-  - Networkshop[http://www.stat.cmu.edu/research/group/1459]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
+  - CSAFE [http://www.stat.cmu.edu/research/group/567]
+  - Networkshop [http://www.stat.cmu.edu/research/group/1459]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University 
   school: 
-    - Statistics Department[http://www.stat.cmu.edu/] 
-    - Machine Learning Department[http://www.ml.cmu.edu/]
-    - Center for the Neural Basis of Cognition[http://www.cnbc.cmu.edu/]
+    - Statistics Department [http://www.stat.cmu.edu/] 
+    - Machine Learning Department [http://www.ml.cmu.edu/]
+    - Center for the Neural Basis of Cognition [http://www.cnbc.cmu.edu/]
   major: Statistics
   email: cshalizi@stat.cmu.edu
   homepage: http://www.stat.cmu.edu/people/faculty/cosma-shalizi
