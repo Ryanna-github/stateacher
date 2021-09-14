@@ -12,10 +12,10 @@ bio-current:
   title-raw: Associate Professor# 主页原始字符串
   title: Associate Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
-    - Predictive inference: conformal prediction, cross-validation, generalization error.
-    - Complex data: networks, sparse PCA.
-    - Probability: optimal transport, concentration inequalities, empirical processes
-    - Applications: single cell RNA-seq
+    - Predictive inference:conformal prediction, cross-validation, generalization error.
+    - Complex data:networks, sparse PCA.
+    - Probability:optimal transport, concentration inequalities, empirical processes
+    - Applications:single cell RNA-seq
   homepage: 
     - http://www.stat.cmu.edu/people/faculty/jinglei 
     - http://www.stat.cmu.edu/~jinglei/

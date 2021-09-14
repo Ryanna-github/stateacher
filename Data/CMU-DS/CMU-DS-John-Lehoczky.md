@@ -12,7 +12,7 @@ bio-current:
   title-raw: Thomas Lord University Professor of Statistics# 主页原始字符串
   title: Professor
   interests: # 分点罗列依次以 ‘-’ 开头
-    - financial markets:  price and hedge complex securities
+    - financial markets:price and hedge complex securities
     - real-time computer systems
     - estimation of parameters of stochastic differential equations and its application to term structure or asset price process models
   homepage: 
