@@ -24,6 +24,7 @@ load_yaml <- function(x){
 yaml_test <- function(f){
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(load_yaml(x)))))
+  print(unlist(load_yaml(x)))
   print(paste0(" YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     stop('Too Little Filling: Please recheck integrity of YAML')
