@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Jonathan Duggins
+  name-en: Jonathan Duggins
   email: 
     - jwduggin@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

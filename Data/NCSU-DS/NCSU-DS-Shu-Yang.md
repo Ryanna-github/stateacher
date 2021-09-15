@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Shu Yang
+  name-en: Shu Yang
   email: 
     - syang24@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

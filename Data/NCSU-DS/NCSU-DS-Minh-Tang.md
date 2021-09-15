@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Minh Tang
+  name-en: Minh Tang
   email: 
     - minh_tang@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

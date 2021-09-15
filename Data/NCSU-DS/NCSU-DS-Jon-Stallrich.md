@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Jon Stallrich
+  name-en: Jon Stallrich
   email: 
     - jwstalli@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Arnab Maity
+  name-en: Arnab Maity
   email: 
     - arnab_maity@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

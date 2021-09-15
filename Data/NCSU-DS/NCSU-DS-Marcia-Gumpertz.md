@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Marcia Gumpertz
+  name-en: Marcia Gumpertz
   email: 
     - marcia_gumpertz@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: # male/female

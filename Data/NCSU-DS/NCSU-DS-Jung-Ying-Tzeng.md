@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Jung-Ying Tzeng
+  name-en: Jung-Ying Tzeng
   email: 
     - jung-ying_tzeng@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

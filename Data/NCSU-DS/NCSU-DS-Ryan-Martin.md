@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Ryan Martin
+  name-en: Ryan Martin
   email: 
     - rgmarti3@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

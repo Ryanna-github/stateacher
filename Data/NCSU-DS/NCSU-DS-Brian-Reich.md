@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Brian Reich
+  name-en: Brian Reich
   email: 
     - brian_reich@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

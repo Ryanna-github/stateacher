@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Daowen Zhang
+  name-en: Daowen Zhang
   email: 
     - daowen_zhang@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

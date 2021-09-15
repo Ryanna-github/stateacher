@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Ana-Maria Staicu
+  name-en: Ana-Maria Staicu
   email: 
     - ana-maria_staicu@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

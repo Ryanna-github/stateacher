@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Spencer Muse
+  name-en: Spencer Muse
   email: 
     - spencer_muse@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

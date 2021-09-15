@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Len Stefanski
+  name-en: Len Stefanski
   email: 
     - len_stefanski@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

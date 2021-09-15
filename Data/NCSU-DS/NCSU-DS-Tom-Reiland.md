@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Tom Reiland
+  name-en: Tom Reiland
   email: 
     - tom_reiland@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

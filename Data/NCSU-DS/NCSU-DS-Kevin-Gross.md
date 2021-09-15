@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Kevin Gross
+  name-en: Kevin Gross
   email: 
     - kevin_gross@ncsu.edu 
   sex: male # male/female

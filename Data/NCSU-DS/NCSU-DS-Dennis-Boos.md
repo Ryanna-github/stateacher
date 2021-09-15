@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Dennis Boos
+  name-en: Dennis Boos
   email: 
     - dennis_boos@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Emily Griffith
+  name-en: Emily Griffith
   email: 
     - emily_griffith@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

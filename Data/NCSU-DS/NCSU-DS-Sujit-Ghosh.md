@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Sujit Ghosh
+  name-en: Sujit Ghosh
   email: 
     - sujit_ghosh@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

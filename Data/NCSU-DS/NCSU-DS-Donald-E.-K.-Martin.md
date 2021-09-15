@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Donald E. K. Martin
+  name-en: Donald E. K. Martin
   email: 
     - donald_martin@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

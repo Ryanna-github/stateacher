@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Wenbin Lu
+  name-en: Wenbin Lu
   email: 
     - wenbin_lu@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

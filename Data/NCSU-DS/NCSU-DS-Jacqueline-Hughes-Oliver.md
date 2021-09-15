@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Jacqueline Hughes-Oliver
+  name-en: Jacqueline Hughes-Oliver
   email: 
     - jackie_hughes-oliver@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

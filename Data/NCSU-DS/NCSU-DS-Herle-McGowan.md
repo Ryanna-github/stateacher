@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Herle McGowan
+  name-en: Herle McGowan
   email: 
     - herle_mcgowan@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

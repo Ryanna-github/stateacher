@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Luo Xiao
+  name-en: Luo Xiao
   email: 
     - lxiao5@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

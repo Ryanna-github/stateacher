@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Xinge (Jessie) Jeng
+  name-en: Xinge (Jessie) Jeng
   email: 
     - xjjeng@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: # male/female

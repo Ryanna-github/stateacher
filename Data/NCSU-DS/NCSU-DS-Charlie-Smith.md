@@ -1,6 +1,6 @@
 ---
 bio-current:
-  name_en: Charlie Smith
+  name-en: Charlie Smith
   email: 
     - bmasmith@ncsu.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female
