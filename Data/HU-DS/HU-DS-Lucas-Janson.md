@@ -10,7 +10,12 @@ bio-current:
   major: Statistics
   title-raw: Assistant Professor of Statistics
   title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - High-dimensional inference
+    - Statistical machine learning
+    - Reinforcement learning
+    - Genomics
+    - Robotics
   homepage: http://lucasjanson.fas.harvard.edu/
   github: 
   googlescholar: https://scholar.google.com/citations?user=Njlo7WAAAAAJ&hl=en
