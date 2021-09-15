@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Carl N. Morris
+  name-en: Carl N. Morris
   email: morris@stat.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

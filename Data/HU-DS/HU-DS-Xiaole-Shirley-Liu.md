@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Xiaole Shirley Liu
+  name-en: Xiaole Shirley Liu
   email: xsliu@jimmy.harvard.edu
   sex: female
   birth-date: # yyyy 到年即可

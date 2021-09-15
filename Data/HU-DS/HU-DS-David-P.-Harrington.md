@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David P. Harrington
+  name-en: David P. Harrington
   email: davidharrington@g.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

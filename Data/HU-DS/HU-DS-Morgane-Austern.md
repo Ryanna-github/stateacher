@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Morgane Austern
+  name-en: Morgane Austern
   email: 
     - maustern@fas.harvard.edu
     - morgane.austern@gmail.com

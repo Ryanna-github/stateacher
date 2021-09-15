@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Joseph K. Blitzstein
+  name-en: Joseph K. Blitzstein
   email: blitzstein@stat.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

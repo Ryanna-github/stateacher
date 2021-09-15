@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Stephen Blyth
+  name-en: Stephen Blyth
   email: blyth@stat.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

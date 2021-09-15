@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Donald B. Rubin
+  name-en: Donald B. Rubin
   email: 
     - ubin@stat.harvard.edu
     - dbrubin@tsinghua.edu.cn

@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Natesh S. Pillai
+  name-en: Natesh S. Pillai
   email: pillai@fas.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

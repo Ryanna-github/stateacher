@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Lucas Janson
+  name-en: Lucas Janson
   email: ljanson@fas.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

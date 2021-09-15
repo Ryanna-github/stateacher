@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Susan Murphy
+  name-en: Susan Murphy
   email: samurphy@fas.harvard.edu
   sex: female
   birth-date: 1958

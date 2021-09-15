@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Kosuke Imai
+  name-en: Kosuke Imai
   email: Imai@Harvard.Edu
   sex: male
   birth-date: # yyyy 到年即可

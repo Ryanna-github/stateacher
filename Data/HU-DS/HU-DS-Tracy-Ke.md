@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Tracy Ke
+  name-en: Tracy Ke
   email: zke@fas.harvard.edu
   sex: female
   birth-date: # yyyy 到年即可

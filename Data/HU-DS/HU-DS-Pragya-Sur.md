@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Pragya Sur
+  name-en: Pragya Sur
   email: pragya@fas.harvard.edu
   sex: female
   birth-date: # yyyy 到年即可

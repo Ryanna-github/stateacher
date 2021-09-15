@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Pierre E. Jacob
+  name-en: Pierre E. Jacob
   email: 
     - pjacob@fas.harvard.edu
     - pierre.jacob@essec.edu

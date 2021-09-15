@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jun S. Liu
+  name-en: Jun S. Liu
   email: jliu@stat.harvard.edu # 如果有多个邮箱，请都填写上
   sex: male
   birth-date: 1965

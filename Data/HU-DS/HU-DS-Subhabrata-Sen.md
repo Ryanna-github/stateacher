@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Subhabrata Sen
+  name-en: Subhabrata Sen
   email: subhabratasen@fas.harvard.edu
   sex: male
   birth-date: # yyyy 到年即可

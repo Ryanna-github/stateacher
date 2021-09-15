@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Xiao-Li Meng
+  name-en: Xiao-Li Meng
   email: meng@stat.harvard.edu
   sex: male
   birth-date: 1963

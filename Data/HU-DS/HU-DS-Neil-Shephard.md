@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Neil Shephard
+  name-en: Neil Shephard
   email: shephard@fas.harvard.edu
   sex: male
   birth-date: 1964

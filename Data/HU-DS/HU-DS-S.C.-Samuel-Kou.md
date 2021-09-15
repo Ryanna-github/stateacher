@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: S.C. Samuel Kou
+  name-en: S.C. Samuel Kou
   email: kou@stat.harvard.edu
   sex: male
   birth-date: 1974
