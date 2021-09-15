@@ -9,7 +9,7 @@ bio-current:
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
   major: 
   title-raw: Professor # 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Applied Statistics
     - Mixed-Effects Models

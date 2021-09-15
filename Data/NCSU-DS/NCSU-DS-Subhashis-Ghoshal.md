@@ -6,7 +6,7 @@ bio-current:
   sex: male # male/female
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接] 
-  title-raw: Distinguished Professor# 主页原始字符串
+  title-raw: Distinguished Professor # 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Nonparametric Bayesian Analysis (Theory and methodology)
