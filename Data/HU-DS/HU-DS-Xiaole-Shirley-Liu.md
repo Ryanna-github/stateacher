@@ -24,7 +24,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=8XNfVucAAAAJ&hl=zh-TW
   aminer: https://www.aminer.cn/profile/xiaole-shirley-liu/53f43690dabfaee1c0a9f031
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd-1:  # 读博经历
   university: Stanford University
   school: Biomedical Informatics [https://med.stanford.edu/bmi.html]

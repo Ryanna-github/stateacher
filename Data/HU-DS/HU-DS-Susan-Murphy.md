@@ -25,7 +25,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?hl=en&user=q-DPFdUAAAAJ&view_op=list_works&gmla=AJsN-F7pMKjS5O1hz4q99WXIkvCSFh8GDQ4fP3cNMpQ54NceYTgMwNK5VkfW1FoJmDhQLI1FzETSFIqmO0-ZRuW8n2G6tIpBrT76SvWfXEp_hAW8aZPfJO8wj0Nbs6Tww8jUKnDjp7td
   aminer: https://www.aminer.cn/profile/susan-a-murphy/53f45668dabfaee4dc811d65
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: University of North Carolina, Chapel Hill
   school: Statistics and Operations Research [https://stor.unc.edu/]

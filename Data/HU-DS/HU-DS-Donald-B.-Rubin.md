@@ -25,7 +25,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=5q4fhUoAAAAJ&hl=zh-TW&oi=ao
   aminer: https://www.aminer.cn/profile/rubin-donald-b/563111d645ceb49c5deea2d2
   status: 离职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Harvard University
   school: Statistics [https://statistics.fas.harvard.edu/]

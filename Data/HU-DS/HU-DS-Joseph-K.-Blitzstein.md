@@ -20,7 +20,7 @@ bio-current:
   googlescholar: 
   aminer: http://www.aminer.cn/profile/joseph-k-blitzstein/53f43054dabfaedd74d5bf52
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Stanford University
   school: Mathematics [https://mathematics.stanford.edu/]

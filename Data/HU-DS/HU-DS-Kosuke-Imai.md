@@ -22,7 +22,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?hl=en&user=0QY34cMAAAAJ
   aminer: https://www.aminer.cn/profile/kosuke-imai/53f44676dabfaeb1a7c2c9ba
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Harvard University
   school: Arts and Sciences [https://gsas.harvard.edu/]

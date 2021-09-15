@@ -21,7 +21,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=woJuzsUAAAAJ&hl=en
   aminer: # 从这里查找 https://www.aminer.org/search/person
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Stanford University
   school: Statistics [https://statistics.stanford.edu/]

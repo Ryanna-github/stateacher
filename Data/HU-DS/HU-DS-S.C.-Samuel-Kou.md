@@ -24,7 +24,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=4l1vUksAAAAJ&hl=en
   aminer: https://www.aminer.cn/profile/s-c-samuel-kou/53f452e1dabfaec09f1f958e
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Stanford University
   school: Statistics [https://statistics.stanford.edu/]

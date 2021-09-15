@@ -20,7 +20,7 @@ bio-current:
   googlescholar: http://scholar.google.com/citations?user=32nKoZ4AAAAJ&hl=zh-TW
   aminer: https://www.aminer.cn/profile/arthur-p-dempster/53f42d4ddabfaedf435159cd
   status: 离职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Princeton University
   school: Mathematics [https://www.math.princeton.edu/]

@@ -22,7 +22,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?hl=zh-TW&user=-bHzVq8AAAAJ
   aminer: https://www.aminer.cn/profile/jun-s-liu/5432964cdabfaeb4c6a90632
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd-1:  # 读博经历
   university: Rutgers University
   school: Arts and Sciences [https://www.math.rutgers.edu/]

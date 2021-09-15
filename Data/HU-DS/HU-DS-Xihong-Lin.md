@@ -27,7 +27,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=wt4xqUMAAAAJ&hl=en
   aminer: https://www.aminer.cn/profile/xihong-lin/54054750dabfae8faa5bc635
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: University of Washington
   school: Biostatistics [https://www.biostat.washington.edu/]

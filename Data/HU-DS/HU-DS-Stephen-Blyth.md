@@ -20,7 +20,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=3BD3nmIAAAAJ&hl=en
   aminer: https://www.aminer.cn/profile/stephen-blyth/5609123145cedb3396e066f3
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Harvard University
   school: Statistics [https://statistics.fas.harvard.edu/]

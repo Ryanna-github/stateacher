@@ -24,7 +24,7 @@ load_yaml <- function(x){
 yaml_test <- function(f){
   # 1. Overal checking
   f_yaml_length <- unlist(lapply(f, function(x) length(unlist(load_yaml(x)))))
-  print(paste0(" YAML length: ", f_yaml_length))
+  # print(paste0(" YAML length: ", f_yaml_length))
   if(any(f_yaml_length < 10)) {
     stop('Too Little Filling: Please recheck integrity of YAML')
   }
@@ -33,14 +33,17 @@ yaml_test <- function(f){
     cat('\n====================== ', x, ' ======================\n')
     x <- load_yaml(x)
     valid_name <- names(unlist(x))
+    valid_name <- unique(gsub('\\d', '', valid_name))
     necessary_name <- paste0('bio-current.', 
-                             c('name-en', 'univeristy', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
+                             c('name-en', 'university', 'school', 'sex', 'title', 'interests', 'homepage', 'status'))
     if(!all(necessary_name %in% valid_name)){
       stop(paste0('Required fields are not complete: ', paste(necessary_name[!(necessary_name %in% valid_name)], collapse = '/'), '\n  '))
     }
     # 3. Specific rules
-    if(!grepl('.* \\[\\S+\\]', x$`bio-current`$school)){
-      warning("False Value: 'School' should match format '.* \\[\\S+\\]'")
+    for(sc in x$`bio-current`$school){
+      if(!grepl('.* \\[\\S+\\]', sc)){
+        warning("False Value: 'School' should match format '.* \\[\\S+\\]'")
+      }
     }
     valid_title <- c('associate professor', 'assistant professor', 'professor')
     if(is.null(x$`bio-current`$title)){

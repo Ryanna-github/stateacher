@@ -27,7 +27,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=wUXgof0AAAAJ&hl=en
   aminer: https://www.aminer.cn/profile/pierre-e-jacob/543024a1dabfaeca69bcd8dd
   status: 离职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: Université Paris Dauphine
   school: 

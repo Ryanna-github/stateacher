@@ -24,7 +24,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=e2Xowj0AAAAJ&hl=en
   aminer: https://www.aminer.cn/profile/neil-shephard/53f42e6edabfaec22ba25647
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-09-09
 edu-phd:  # 读博经历
   university: London School of Economics
   school: 
