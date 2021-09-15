@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name_en: Arthur P. Dempster
   email: dempster@stat.harvard.edu
-  sex: 男
+  sex: male
   birth-date: 1929
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]

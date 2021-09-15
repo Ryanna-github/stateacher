@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name_en: Neil Shephard
   email: shephard@fas.harvard.edu
-  sex: 男
+  sex: male
   birth-date: 1964
   university: Harvard University 
   school: 
@@ -12,6 +12,9 @@ bio-current:
   major: 
     - Statistics
     - Economics
+  title-raw: 
+    - Chair of Department of Statistics,
+    - Frank B. Baird, Jr. Professor of Science
   title: Professor
   interests: 
     - Econometrics
@@ -170,7 +173,7 @@ Economics and Department of Statistics.
 - Associate editor, Econometrica, 2002-.
 - Faculty member, Harvard University, 2013-
   - Professor of Economics and of Statistics, time equally split between Department of
-Economics and Department of Statistics, 2013-2018.
+  Economics and Department of Statistics, 2013-2018.
 - Professor of Economics, Department of Economics, Oxford University, 1999-2013.
 - Fellow, Nuffield College, Oxford, 1993-
   - Emeritus Fellow, Nuffield College, Oxford, 2014-.

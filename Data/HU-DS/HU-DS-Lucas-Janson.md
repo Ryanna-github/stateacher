@@ -3,11 +3,12 @@ bio-current:
   name-cn: 
   name_en: Lucas Janson
   email: ljanson@fas.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
+  title-raw: Assistant Professor of Statistics
   title: Assistant Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: http://lucasjanson.fas.harvard.edu/

@@ -3,11 +3,11 @@ bio-current:
   name-cn: 
   name_en: Pragya Sur
   email: pragya@fas.harvard.edu
-  sex: 女
+  sex: female
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
   title-raw: Assistant Professor of Statistics
   title: Assistant Professor
   interests: 

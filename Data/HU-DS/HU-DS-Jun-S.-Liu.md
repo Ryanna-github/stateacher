@@ -3,11 +3,12 @@ bio-current:
   name-cn: 
   name_en: Jun S. Liu
   email: jliu@stat.harvard.edu # 如果有多个邮箱，请都填写上
-  sex: 男
+  sex: male
   birth-date: 1965
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
+  title-raw: Professor of Statistics
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Statistical missing data problems
@@ -184,11 +185,10 @@ I am a teacher who wants to learn all the unknowns and a researcher who is fond 
 
 - [Bayesian models for multiple local sequence alignment ...](http://www-stat.stanford.edu/~jliu/TechRept/97folder/probe.ps.gz)  
     In _J. Amer. Statist. Assoc._ **90**, 1156-1170. Joint with Neuwald, Lipman, and Lawrence. 1995.  
-      
     
 - [Sequential Monte Carlo Methods for Dynamic Systems](http://www-stat.stanford.edu/~jliu/TechRept/98folder/seqdys.ps.gz)  
     In _J. Amer. Statist. Assoc._, Vol **93**, 1032-1044. Joint with Rong Chen. 1998.  
-        
+    
 - [Generalized Gibbs Sampler and Multigrid Monte Carlo for Bayesian Computation](http://www.fas.harvard.edu/~junliu/TechRept/00folder/liu&sabatti.pdf)  
     In _[Biometrika](http://www.oup.co.uk/biomet/)_ **87**, 353-369. Joint with C. Sabatti. 2000.
 
@@ -197,14 +197,12 @@ I am a teacher who wants to learn all the unknowns and a researcher who is fond 
 
 - [An Algorithm for Finding Protein-DNA Interaction Sites with Applications to Chromatin Immunoprecipitation Microarray Experiments.](http://www.fas.harvard.edu/~junliu/TechRept/02folder/xliu&etal02.pdf)  
      In _[Nature Biotech](http://www.nature.com/nbt/index.html)._ **20,** 835-39. Joint with XS Liu and DL Brutlag, 2002.  
-     
+    
 - [Integrating sequence motif discovery and microarray Analysis](http://www.fas.harvard.edu/~junliu/TechRept/03folder/conlon&etal03.pdf)  
     In _[Proc. Nat’l Acad Sci USA](http://www.pnas.org/),_ **100**, 3339-44. Joint with E Conlon et al. 2003. **_[Download Motif Regressor](http://www.techtransfer.harvard.edu/Software/MotifRegressor/)_**.  
-      
     
 - [On Side-chain Conformational Entropy of Proteins.](http://www.fas.harvard.edu/~junliu/TechRept/06folder/zhang&liu06.pdf)  
     In **_PLOS Comp Biology_**, **2** (12): e168. Joint with J Zhang, 2006  
-      
     
 - [Bayesian inference of epistatic interactions in case-control studies](http://www.people.fas.harvard.edu/~junliu/TechRept/07folder/zhang&liu07.pdf)  
     In **_Nature Genetics,_ 39**(9), 1167\-73_._ Joint with Yu Zhang 2007.

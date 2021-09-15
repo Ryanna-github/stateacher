@@ -6,11 +6,12 @@ bio-current:
     - ubin@stat.harvard.edu
     - dbrubin@tsinghua.edu.cn
     - tuk42657@temple.edu
-  sex: 男
+  sex: male
   birth-date: 1943
   university: Harvard University
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Theoretical Statistics
+  title-raw: Emeritus Professor of Theoretical Statistics
   title: Professor
   interests: 
     - Causal inference in experiments and observational studies.
@@ -393,76 +394,76 @@ hl=en&mauthors=label:statistics).
 
 - Other Professional Positions:
   - 1999-2001 Fellow in Theoretical and Applied Statistics, National Bureau of Economic
-Research, Cambridge, Massachusetts.
+  Research, Cambridge, Massachusetts.
   - 1983-Present Research Associate, NORC, Chicago, Illinois.
   - 1982-1984 Professor, Department of Statistics and Department of Education, The University of
-Chicago, Illinois.
+  Chicago, Illinois.
   - 1982 Visiting Professor (February, April), Department of Mathematics, University of
-Texas at Austin.
+  Texas at Austin.
   - 1981-1982 Visiting Professor, Mathematics Research Center, University of Wisconsin at
-Madison.
+  Madison.
   - 1981-2008 President, Datametrics Research, Inc., Waban, Massachusetts.
   - 1980-1981 Director (December, January), Division of Statistics and Applied Mathematics,
-Office of Radiation Programs, U.S. Environmental Protection Agency, Washington,
-D.C. (Senior Executive Service 4).
+  Office of Radiation Programs, U.S. Environmental Protection Agency, Washington,
+  D.C. (Senior Executive Service 4).
   - 1981 Senior Visiting Fellow, Center for Applied Statistics, University of Lancaster,
-England.
+  England.
   - 1980-1982 Senior Statistical Research Advisor, Educational Testing Service, Princeton, New
-Jersey.
+  Jersey.
   - 1979 Senior Visiting Fellow, Center for Applied Statistics, University of Lancaster,
-England.
+  England.
   - 1979 Visiting Lecturer (Spring Term), Department of Statistics, Princeton University,
-Princeton, New Jersey.
+  Princeton, New Jersey.
   - 1978 Visiting Lecturer (Spring Term). Department of Statistics, Harvard University,
-Cambridge, Massachusetts.
+  Cambridge, Massachusetts.
   - 1976 Visiting Associate Professor (Winter and Spring Quarters), Department of Applied
-Statistics, University of Minnesota, St. Paul, Minnesota.
+  Statistics, University of Minnesota, St. Paul, Minnesota.
   - 1975-1979 Chairman, Statistics Group, Educational Testing Service, Princeton, New Jersey.
   - 1975 Visiting Scholar (Winter Quarter), Department of Statistics, University of California
-at Berkeley.
+  at Berkeley.
   - 1971-1974 Visiting Lecturer, Department of Statistics, Princeton University, Princeton, New
-Jersey.
+  Jersey.
   - 1971-1975 Research Statistician, Educational Testing Service, Princeton, New Jersey.
   - 1970-1971 Lecturer on Statistics, Department of Statistics, Harvard University, Cambridge,
-Massachusetts.
+  Massachusetts.
   - 1969-1970 Research Assistant for Professor William G. Cochran, Department of Statistics,
-Harvard University, Cambridge, Massachusetts.
-Other Professional Positions:
+  Harvard University, Cambridge, Massachusetts.
+  Other Professional Positions:
   - 1999-2001 Fellow in Theoretical and Applied Statistics, National Bureau of Economic
-Research, Cambridge, Massachusetts.
+  Research, Cambridge, Massachusetts.
   - 1983-Present Research Associate, NORC, Chicago, Illinois.
   - 1982-1984 Professor, Department of Statistics and Department of Education, The University of
-Chicago, Illinois.
+  Chicago, Illinois.
   - 1982 Visiting Professor (February, April), Department of Mathematics, University of
-Texas at Austin.
+  Texas at Austin.
   - 1981-1982 Visiting Professor, Mathematics Research Center, University of Wisconsin at
-Madison.
+  Madison.
   - 1981-2008 President, Datametrics Research, Inc., Waban, Massachusetts.
   - 1980-1981 Director (December, January), Division of Statistics and Applied Mathematics,
-Office of Radiation Programs, U.S. Environmental Protection Agency, Washington,
-D.C. (Senior Executive Service 4).
+  Office of Radiation Programs, U.S. Environmental Protection Agency, Washington,
+  D.C. (Senior Executive Service 4).
   - 1981 Senior Visiting Fellow, Center for Applied Statistics, University of Lancaster,
-England.
+  England.
   - 1980-1982 Senior Statistical Research Advisor, Educational Testing Service, Princeton, New
-Jersey.
+  Jersey.
   - 1979 Senior Visiting Fellow, Center for Applied Statistics, University of Lancaster,
-England.
+  England.
   - 1979 Visiting Lecturer (Spring Term), Department of Statistics, Princeton University,
-Princeton, New Jersey.
+  Princeton, New Jersey.
   - 1978 Visiting Lecturer (Spring Term). Department of Statistics, Harvard University,
-Cambridge, Massachusetts.
+  Cambridge, Massachusetts.
   - 1976 Visiting Associate Professor (Winter and Spring Quarters), Department of Applied
-Statistics, University of Minnesota, St. Paul, Minnesota.
+  Statistics, University of Minnesota, St. Paul, Minnesota.
   - 1975-1979 Chairman, Statistics Group, Educational Testing Service, Princeton, New Jersey.
   - 1975 Visiting Scholar (Winter Quarter), Department of Statistics, University of California
-at Berkeley.
+  at Berkeley.
   - 1971-1974 Visiting Lecturer, Department of Statistics, Princeton University, Princeton, New
-Jersey.
+  Jersey.
   - 1971-1975 Research Statistician, Educational Testing Service, Princeton, New Jersey.
   - 1970-1971 Lecturer on Statistics, Department of Statistics, Harvard University, Cambridge,
-Massachusetts.
+  Massachusetts.
   - 1969-1970 Research Assistant for Professor William G. Cochran, Department of Statistics,
-Harvard University, Cambridge, Massachusetts.
+  Harvard University, Cambridge, Massachusetts.
 
 
 # Work experience[中文]

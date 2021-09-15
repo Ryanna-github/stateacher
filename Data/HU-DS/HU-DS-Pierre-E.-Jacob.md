@@ -6,12 +6,12 @@ bio-current:
     - pjacob@fas.harvard.edu
     - pierre.jacob@essec.edu
     - pierre.jacob.work@gmail.com
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school:  Statistics [https://statistics.fas.harvard.edu/]
-  major: 
-  title-raw: Associate Professor of Statistics # 主页原始字符串
+  major: Statistics
+  title-raw: Associate Professor of Statistics
   title: Associate Professor
   interests: 
     - Time series
@@ -111,11 +111,11 @@ My title is John L. Loeb, I develop methods for statistical inference, including
 # Education[English]
 
 - 2009-2012: Ph.D., Université Paris-Dauphine (_Computational Contributions to Bayesian Inference_), supervised by [Christian Robert](http://www.google.com/url?q=http%3A%2F%2Fwww.ceremade.dauphine.fr%2F%257Exian%2F&sa=D&sntz=1&usg=AFQjCNFMBEz6O1g75Bq8yXlptMrhjTSCkw) and funded by [AXA Research](http://www.google.com/url?q=http%3A%2F%2Fwww.axa-research.org%2F&sa=D&sntz=1&usg=AFQjCNFW-YloZ4EfvMqAZnDuFtlDzjFSAQ).
-    
+  
 - [Prix de thèse Jacques Neveu 2012](http://www.google.com/url?q=http%3A%2F%2Fsmai.emath.fr%2Fspip.php%3Farticle359%26lang%3Dfr&sa=D&sntz=1&usg=AFQjCNFRzKh6ndn4Tt5Czkcy8ljb8_uggA) (Probability and Statistics), and Prix de thèse de la Fondation Dauphine 2013 (all categories).
-    
+  
 - 2005-2009: ENSAE ParisTech (Economics, Finance and Statistics).
-    
+  
 - 2008-2009: M.Sc. Statistics, Université Paris-Dauphine.
 
 # Education[中文]

@@ -3,13 +3,14 @@ bio-current:
   name-cn: 
   name_en: David P. Harrington
   email: davidharrington@g.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: 
     - Statistics [https://statistics.fas.harvard.edu/]
     - Harvard T.H. Chan School of Public Health [https://www.hsph.harvard.edu/]
-  major: 
+  major: Theoretical Statistics
+  title-raw: Emeritus Professor of Theoretical Statistics
   title: Professor
   interests: 
     - statistical methods for clinical trials

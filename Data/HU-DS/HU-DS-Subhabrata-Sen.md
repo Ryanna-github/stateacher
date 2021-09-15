@@ -3,11 +3,12 @@ bio-current:
   name-cn: 
   name_en: Subhabrata Sen
   email: subhabratasen@fas.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
+  title-raw: Assistant Professor of Statistics
   title: Assistant Professor
   interests: 
     - Applied Probability
@@ -189,7 +190,7 @@ I was a Schramm postdoc at [Microsoft Research New England](https://www.microsof
 
 - 2020 Contextual Stochastic Block Model: Sharp Thresholds and Contiguity.
   - with Chen Lu.
-2020 A large deviation principle for block models.
+  2020 A large deviation principle for block models.
   - with Christian Borgs, Jennifer Chayes, Julia Gaudio, Samantha Petti.
 - 2020 On Minimax Exponents of Sparse Testing.
   - with Rajarshi Mukherjee.
@@ -219,7 +220,7 @@ I was a Schramm postdoc at [Microsoft Research New England](https://www.microsof
   - with Rajarshi Mukherjee and Sumit Mukherjee, Annals of Statistics, 46.3(2018):1288-1317.
 - 2016 Optimization on Sparse Random Hypergraphs and Spin Glasses.
   - Random Structures & Algorithms, 53.3(2018), 504-536.
-2016 Optimal Adaptive Inference in Random Design Binary Regression.
+  2016 Optimal Adaptive Inference in Random Design Binary Regression.
   - with Rajarshi Mukherjee, Bernoulli, 24.1 (2018), 699-739.
 - 2015 High temperature asymptotics of orthogonal mean field spin glasses.
   - with Bhaswar B. Bhattacharya, Journal of Statistical Physics, 162.1(2016), 63-80.

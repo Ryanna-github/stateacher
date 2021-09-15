@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name_en: Susan Murphy
   email: samurphy@fas.harvard.edu
-  sex: 女
+  sex: female
   birth-date: 1958
   university: Harvard University 
   school: 
@@ -11,6 +11,12 @@ bio-current:
     - Harvard John A. Paulson School of Engineering and Applied Sciences [https://www.seas.harvard.edu/]
     - Radcliffe Institute, Harvard University [https://www.radcliffe.harvard.edu/]
   major: 
+    - Statistics
+    - Computer Science
+  title-raw: 
+    - Professor of Statistics, Joint Director of Graduate Studies
+    - Radcliffe Alumnae Professor at the Radcliffe Institute
+    - Professor of Computer Science, Harvard John A. Paulson School of Engineering and Applied Sciences
   title: Professor
   interests:
     - Mobile health (mhealth)

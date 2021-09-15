@@ -3,11 +3,12 @@ bio-current:
   name-cn: 
   name_en: Xiao-Li Meng
   email: meng@stat.harvard.edu
-  sex: 男
+  sex: male
   birth-date: 1963
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
+  title-raw: Whipple V. N. Jones Professor of Statistics
   title: Professor
   interests: 
     - Statistical theory and principles for data science

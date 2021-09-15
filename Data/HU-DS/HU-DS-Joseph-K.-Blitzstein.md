@@ -8,6 +8,9 @@ bio-current:
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
   major: the Practice in Statistics
+  title-raw: 
+    - Professor of the Practice in Statistics,
+    - Director of Undergraduate Studies
   title: Professor
   interests: 
     - Inference for network data

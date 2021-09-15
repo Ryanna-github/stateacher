@@ -3,11 +3,16 @@ bio-current:
   name-cn: 
   name_en: Carl N. Morris
   email: morris@stat.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
   major: 
+    - Theoretical Statistics
+    - Biostatistics
+  title-raw: 
+    - Emeritus Professor of Theoretical Statistics
+    - Professor of Biostatistics, Harvard T.H. Chan School of Public Health
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
     - Hierarchical modeling and empirical Bayes methods
@@ -18,7 +23,6 @@ bio-current:
     - Interface between statistical theory and applications
     - Statistical theory in sports and competition
     - Statistics for Health Care and Health Services
-
   homepage: https://statistics.fas.harvard.edu/people/carl-n-morris
   github: 
   googlescholar: https://scholar.google.com/citations?user=_pyigsMAAAAJ&hl=en

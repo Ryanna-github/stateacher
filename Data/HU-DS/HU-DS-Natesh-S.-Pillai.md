@@ -3,11 +3,14 @@ bio-current:
   name-cn: 
   name_en: Natesh S. Pillai
   email: pillai@fas.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Statistics
+  title-raw: 
+    - Professor of Statistics
+    - Joint Director of Graduate Studies
   title: Professor
   interests: 
     - Interface of applied probability and statistics
@@ -104,7 +107,7 @@ Welcome! I am a Professor in the Dept. of Statistics, Harvard University. I was 
 # Biography[中文]
 
 # Interests[English]
-  
+
 - Interface of applied probability and statistics
 - Markov Chain Monte Carlo algorithms
 

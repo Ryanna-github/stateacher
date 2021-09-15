@@ -5,12 +5,12 @@ bio-current:
   email: 
     - maustern@fas.harvard.edu
     - morgane.austern@gmail.com
-  sex: 女
+  sex: female
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
-  major: 
-  title-raw: Assistant Professor# 主页原始字符串
+  major: Statistics
+  title-raw: Assistant Professor
   title: Assistant Professor
   interests: 
     - Applied Probability

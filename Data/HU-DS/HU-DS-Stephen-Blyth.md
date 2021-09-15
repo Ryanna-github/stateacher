@@ -3,11 +3,12 @@ bio-current:
   name-cn: 
   name_en: Stephen Blyth
   email: blyth@stat.harvard.edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Statistics [https://statistics.fas.harvard.edu/]
   major: the Practice in Statistics
+  title-raw: Professor of the Practice in Statistics
   title: Professor
   interests: 
     - Quantitative Finance

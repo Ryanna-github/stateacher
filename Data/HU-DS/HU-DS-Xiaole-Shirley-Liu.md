@@ -3,13 +3,18 @@ bio-current:
   name-cn: 
   name_en: Xiaole Shirley Liu
   email: xsliu@jimmy.harvard.edu
-  sex: 女
+  sex: female
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: 
     - Statistics [https://statistics.fas.harvard.edu/]
     - Harvard T.H. Chan School of Public Health [https://www.hsph.harvard.edu/]
   major: 
+    - Statistics
+    - Biostatistics
+  title-raw: 
+    - Professor of Statistics
+    - Professor of Biostatistics and Computational Biology, Harvard T.H. Chan School of Public Health
   title: Professor
   interests: 
     - Genomics data integration and algorithm development

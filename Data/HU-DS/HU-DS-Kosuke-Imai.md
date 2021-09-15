@@ -3,13 +3,14 @@ bio-current:
   name-cn: 
   name_en: Kosuke Imai
   email: Imai@Harvard.Edu
-  sex: 男
+  sex: male
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: 
     - Government [https://gov.harvard.edu/]
     - Statistics [https://statistics.fas.harvard.edu/]
-  major: 
+  major: Government and Statistics
+  title-raw: Professor of Government and Statistics
   title: Professor
   interests: 
     - Causal Inference

@@ -3,13 +3,18 @@ bio-current:
   name-cn: 
   name_en: S.C. Samuel Kou
   email: kou@stat.harvard.edu
-  sex: 男
+  sex: male
   birth-date: 1974
   university: Harvard University 
   school: 
     - Statistics [https://statistics.fas.harvard.edu/]
     - Harvard T.H. Chan School of Public Health [https://www.hsph.harvard.edu/]
   major: 
+    - Statistics
+    - Biostatistics
+  title-raw: 
+    - Professor of Statistics,
+    - Professor of Biostatistics, Harvard T.H. Chan School of Public Health
   title: Professor
   interests: 
     - Stochastic inference in single molecule biophysics, chemistry and biology

@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name_en: Xihong Lin
   email: xlin@hsph.harvard.edu
-  sex: 女
+  sex: female
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: 
@@ -12,6 +12,9 @@ bio-current:
   major: 
     - Statistics
     - Biostatistics
+  title-raw: 
+    - Professor of Statistics,
+    - Professor of Biostatistics, Harvard T.H. Chan School of Public Health
   title: Professor
   interests: 
     - Scalable statistical inference for big data  
@@ -154,23 +157,23 @@ Dr. Lin is the former Chair of the COPSS (2010-2012) and a former member of the 
 # Publication[English]
 
 - Li, X., Li, Z., Zhou, H, Gaynor, S, …, Rotter, J., Willer, C. J., Peloso, G. M., Natarajan, P., **Lin, X** (2020). Dynamic incorporation of multiple in-silico functional annotations empowers rare variant association analysis of large whole genome sequencing studies at scale, _Nature Genetics_, in press.
-    
+  
 - Pan, A., Liu, L., Wang, C., Guo, H., Hao, X., Wang Q., Huang, J., He, N., Yu, Ho, **Lin, X.,** Wei, S., Wu, T. (2020) Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China. _Journal of the American Medical Association_, doi:10.1001/jama.2020.6130
-    
+  
 - Segal, E., Zhang, F., **Lin, X.,** King, G., Shalem, O, …,  Steinherz, R., Stevens, I., Vilo, J., Wilmes, P.,  Altae-Tran, H. (2020). Building an International Consortium for Tracking Coronavirus Health Status, _Nature Medicine_, in press
-    
+  
 - Liu, Z., Barnett, I, and **Lin, X.** (2020) Differences in principal component methods between multiple phenotype regression and multiple SNP regression in genetic association studies. _Annals of Applied Statistics_, in press.
-    
+  
 - Sun, R. and **Lin, X.** (2019).   Generalized Berk-Jones Statistic for SNP-Set Tests in GWAS. _Journal of the American Statistical Association,_ [_https://doi.org/10.1080/01621459.2019.1660170_](https://doi.org/10.1080/01621459.2019.1660170)
-    
+  
 - [](https://doi.org/10.1080/01621459.2019.1660170)Xu, M., Yao, Y., Chen, H., Zhang, S., Cao, S., Zhang, Z., Luo, B., Liu, Z., Li, Z., Xiang, T., H, G., Feng, Q., Chen, L., Guo, X., Jia, W., Chen, M., Zhang, X., Xie, S., Peng, R., Peng, R., Chang, E, Pedergnana, V., Feng, L., Bei, J., Xu, R., Zeng, M., Ye, W., Adami, H. O., **Lin, X.**, Zhai, W., Zeng, Y. X., Liu, J. (2019).  Genome sequencing analysis identifies Epstein-Barr virus subtypes associated with high risk of nasopharyngeal carcinoma, _Nature Genetics_, 51, 1131-1136.
-    
+  
 - Liu, Z. and **Lin, X**. (2019) A Geometric Perspective on the Power of Principal Component Association Tests in Multiple Phenotype Studies. _Journal of the American Statistical Association,_ 114(527), pp.975-990.
-    
+  
 - Sun, R., Hui, S., Bader, G., **Lin, X.**, and Kraft, P. (2019). Powerful Gene Set Analysis in GWAS with the Generalized Berk-Jones Statistic. _Plos Genetics_, _15_(3), p.e1007530.
-    
+  
 - Liu, Y., Chen, S., Li, Z., Morrison, A. C., Boerwinkle, E., and **Lin, X**. (2019) ACAT:  Fast and Powerful P-value Combination Method for Rare-variant Analysis in Sequencing Studies. _American Journal of Human Genetics,_ _104_(3), pp.410-421.
-    
+  
 - Li, Z., Li, X., Liu, Y., Shen, J., Chen, H., Zhou, H.,  Morrison, A. C., Boerwinkle, E. and **Lin, X**. (2019) Dynamic Scan Procedure for Detecting Rare-Variant Association Regions in Whole Genome Sequencing Studies, _American Journal of Human Genetics, 104(5), pp.802-814_
 
 # Publication[中文]
