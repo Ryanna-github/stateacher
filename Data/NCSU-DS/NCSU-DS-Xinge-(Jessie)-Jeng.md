@@ -3,7 +3,7 @@ bio-current:
   name-en: Xinge (Jessie) Jeng
   email: 
     - xjjeng@ncsu.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male # male/female
   birth-date: # yyyy 到年即可
   university: North Carolina State University 
   school: Department of Statistics [https://statistics.sciences.ncsu.edu/]# 格式：学院名称[学院官网链接]
