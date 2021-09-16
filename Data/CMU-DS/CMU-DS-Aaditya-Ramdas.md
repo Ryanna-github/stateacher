@@ -99,7 +99,6 @@ He is one of the organizers of the amazing and diverse [StatML Group](http://sta
 
 Outside of work, here are some easy topics for conversation: travel/outdoors (hiking, scuba, etc.), [trash-free living](http://0plastic1year2cents.blogspot.com/2017/01/reflections.html), [completing the Ironman triathlon](http://www.stat.cmu.edu/~aramdas/docs/Ironman.pdf) and [long-distance bicycle rides](http://545miles7days2pedals.blogspot.com/2016/08/thoughts-from-alc-2016.html).
 
-
 # Interests[English]
   - high-dimensional multiple testing [http://www.stat.cmu.edu/~aramdas/multiple.html]
   - safe, anytime-valid sequential inference [http://www.stat.cmu.edu/~aramdas/sequential.html]
