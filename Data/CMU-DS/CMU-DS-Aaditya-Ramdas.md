@@ -26,7 +26,7 @@ bio-current:
   last-update: 2021-8-29
 edu-phd:  
   university: Carnegie Mellon University (CMU)
-  school: Statistics[http://stat.cmu.edu/] and Machine Learning[https://www.ml.cmu.edu/]
+  school: Statistics [http://stat.cmu.edu/] and Machine Learning [https://www.ml.cmu.edu/]
   email: 
   date-start: 
   date-end: 2010
@@ -35,7 +35,7 @@ edu-phd:
 
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Indian Institute of Technology (IIT)
-  school:  Computer Science and Engineering[https://www.cse.iitb.ac.in/]
+  school:  Computer Science and Engineering [https://www.cse.iitb.ac.in/]
   major: 
     - Computer Science and Engineering
   date-start: 
@@ -60,14 +60,14 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - StatML Theory[http://www.stat.cmu.edu/research/group/539]
-  - Causal Inference Working Group[http://www.stat.cmu.edu/research/group/1567]
-  - Statistical Methods for the Physical Sciences(STMPS)[http://stat.cmu.edu/stamps/]
+  - StatML Theory [http://www.stat.cmu.edu/research/group/539]
+  - Causal Inference Working Group [http://www.stat.cmu.edu/research/group/1567]
+  - Statistical Methods for the Physical Sciences(STMPS) [http://stat.cmu.edu/stamps/]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Carnegie Mellon University
   school: 
-    - Department of Statistics and Data Science (75%)[http://stat.cmu.edu/]
-    - Machine Learning Department (25%)[https://www.ml.cmu.edu/]
+    - Department of Statistics and Data Science (75%) [http://stat.cmu.edu/]
+    - Machine Learning Department (25%) [https://www.ml.cmu.edu/]
   major: Statistics and Machine Learning
   email: 
     - aramdas@cmu.edu
@@ -99,12 +99,11 @@ He is one of the organizers of the amazing and diverse [StatML Group](http://sta
 
 Outside of work, here are some easy topics for conversation: travel/outdoors (hiking, scuba, etc.), [trash-free living](http://0plastic1year2cents.blogspot.com/2017/01/reflections.html), [completing the Ironman triathlon](http://www.stat.cmu.edu/~aramdas/docs/Ironman.pdf) and [long-distance bicycle rides](http://545miles7days2pedals.blogspot.com/2016/08/thoughts-from-alc-2016.html).
 
-
 # Interests[English]
-  - [high-dimensional multiple testing](http://www.stat.cmu.edu/~aramdas/multiple.html)
-  - [safe, anytime-valid sequential inference](http://www.stat.cmu.edu/~aramdas/sequential.html)
-  - [distribution-free uncertainty quantification](http://www.stat.cmu.edu/~aramdas/conformal.html)
-  - [machine learning for hypothesis testing](http://www.stat.cmu.edu/~aramdas/ml-for-testing.html)
+  - high-dimensional multiple testing [http://www.stat.cmu.edu/~aramdas/multiple.html]
+  - safe, anytime-valid sequential inference [http://www.stat.cmu.edu/~aramdas/sequential.html]
+  - distribution-free uncertainty quantification [http://www.stat.cmu.edu/~aramdas/conformal.html]
+  - machine learning for hypothesis testing [http://www.stat.cmu.edu/~aramdas/ml-for-testing.html]
 
 
 
@@ -319,63 +318,63 @@ Indian Institute of Technology (IIT)
 ### Anytime-valid, safe confidence intervals and p-values [(package)](https://pypi.org/project/confseq/) [(tutorial)](https://drive.google.com/file/d/1B8Kpa_3m-DMW8v3q6zn5_BdnWLxdZxWG/view)
 
 - **Admissible anytime-valid sequential inference must rely on nonnegative martingales**  
-    _A. Ramdas, J. Ruf, M. Larsson, W. Koolen_       [arxiv](https://arxiv.org/abs/2009.03167)  
+    _A. Ramdas, J. Ruf, M. Larsson, W. Koolen_       [arxiv](https://arxiv.org/abs/2009.03167)  
     
 
 - **Testing exchangeability: fork-convexity, supermartingales, and e-processes**  
-    _A. Ramdas, J. Ruf, M. Larsson, W. Koolen_       Intl J of Approximate Reasoning, 2021   [arxiv](https://arxiv.org/abs/2102.00630)   [proc](https://authors.elsevier.com/a/1dUvw,KD6ZUFWK)
+    _A. Ramdas, J. Ruf, M. Larsson, W. Koolen_       Intl J of Approximate Reasoning, 2021   [arxiv](https://arxiv.org/abs/2102.00630)   [proc](https://authors.elsevier.com/a/1dUvw,KD6ZUFWK)
     
 
 - **Estimating means of bounded random variables by betting**  
-    _I. Waudby-Smith, A. Ramdas_       (JRSSB, submitted)   [arxiv](https://arxiv.org/abs/2010.09686)  
+    _I. Waudby-Smith, A. Ramdas_       (JRSSB, submitted)   [arxiv](https://arxiv.org/abs/2010.09686)  
     
 
 - **RiLACS: Risk-limiting audits via confidence sequences**  
-    _I. Waudby-Smith, P. Stark, A. Ramdas_       EVoteID, 2021   [arxiv](https://arxiv.org/abs/2107.11323)  
+    _I. Waudby-Smith, P. Stark, A. Ramdas_       EVoteID, 2021   [arxiv](https://arxiv.org/abs/2107.11323)  
     
 
 - **Sequential estimation of convex divergences using reverse submartingales and exchangeable filtrations**  
-    _T. Manole, A. Ramdas_       [arxiv](https://arxiv.org/abs/2103.09267)   [video](http://www.birs.ca/events/2021/5-day-workshops/21w5108/videos/watch/202108111151-Ramdas.html)
+    _T. Manole, A. Ramdas_       [arxiv](https://arxiv.org/abs/2103.09267)   [video](http://www.birs.ca/events/2021/5-day-workshops/21w5108/videos/watch/202108111151-Ramdas.html)
     
 
 - **Off-policy confidence sequences**  
-    _N. Karampatziakis, P. Mineiro, A. Ramdas_       ICML, 2021   [arxiv](https://arxiv.org/abs/2102.09540)  
+    _N. Karampatziakis, P. Mineiro, A. Ramdas_       ICML, 2021   [arxiv](https://arxiv.org/abs/2102.09540)  
     
 
 - **Doubly robust confidence sequences for sequential causal inference**  
-    _I. Waudby-Smith, D. Arbour, R. Sinha, E. Kennedy, A. Ramdas_       [arxiv](https://arxiv.org/pdf/2103.06476.pdf)   [package](https://github.com/wannabesmith/sequential.causal)  
+    _I. Waudby-Smith, D. Arbour, R. Sinha, E. Kennedy, A. Ramdas_       [arxiv](https://arxiv.org/pdf/2103.06476.pdf)   [package](https://github.com/wannabesmith/sequential.causal)  
     
 
 - **Confidence sequences for sampling without replacement**  
-    _I. Waudby-Smith, A. Ramdas_       NeurIPS, 2020   [arxiv](https://arxiv.org/abs/2006.04347)   [proc](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html)
+    _I. Waudby-Smith, A. Ramdas_       NeurIPS, 2020   [arxiv](https://arxiv.org/abs/2006.04347)   [proc](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html)
     
 
 - **Time-uniform, nonparametric, nonasymptotic confidence sequences**  
-    _S. Howard, A. Ramdas, J. Sekhon, J. McAuliffe_       Annals of Stat., 2021   [arxiv](https://arxiv.org/abs/1810.08240)   [proc](http://dx.doi.org/10.1214/20-AOS1991)   [code](https://github.com/gostevehoward/cspaper)   [tutorial](https://drive.google.com/file/d/1B8Kpa_3m-DMW8v3q6zn5_BdnWLxdZxWG/view)
+    _S. Howard, A. Ramdas, J. Sekhon, J. McAuliffe_       Annals of Stat., 2021   [arxiv](https://arxiv.org/abs/1810.08240)   [proc](http://dx.doi.org/10.1214/20-AOS1991)   [code](https://github.com/gostevehoward/cspaper)   [tutorial](https://drive.google.com/file/d/1B8Kpa_3m-DMW8v3q6zn5_BdnWLxdZxWG/view)
     
 
 - **Time-uniform Chernoff bounds via nonnegative supermartingales**  
-    _S. Howard, A. Ramdas, J. Sekhon, J. McAuliffe_       Prob. Surveys, 2020   [arxiv](https://arxiv.org/abs/1808.03204)   [proc](https://doi.org/10.1214/18-PS321)   [talk](https://www.youtube.com/watch?v=po0EsW-ixig)
+    _S. Howard, A. Ramdas, J. Sekhon, J. McAuliffe_       Prob. Surveys, 2020   [arxiv](https://arxiv.org/abs/1808.03204)   [proc](https://doi.org/10.1214/18-PS321)   [talk](https://www.youtube.com/watch?v=po0EsW-ixig)
     
 
 - **Universal inference**  
-    _L. Wasserman, A. Ramdas, S. Balakrishnan_       PNAS, 2020   [arxiv](https://arxiv.org/pdf/1912.11436.pdf)   [proc](https://www.pnas.org/content/early/2020/07/02/1922664117)   [talk](https://www.youtube.com/watch?v=jBNQzmWVYxc)
+    _L. Wasserman, A. Ramdas, S. Balakrishnan_       PNAS, 2020   [arxiv](https://arxiv.org/pdf/1912.11436.pdf)   [proc](https://www.pnas.org/content/early/2020/07/02/1922664117)   [talk](https://www.youtube.com/watch?v=jBNQzmWVYxc)
     
 
 - **Sequential nonparametric testing with the law of the iterated logarithm**  
-    _A. Balsubramani\*, A. Ramdas\*_       Uncertainty in AI (UAI), 2016   [arxiv](http://arxiv.org/abs/1506.03486)   [proc](http://auai.org/uai2016/proceedings/supp/270_supp.pdf)   [errata](http://www.stat.cmu.edu/~aramdas/papers/errata-uai16.pdf)
+    _A. Balsubramani\*, A. Ramdas\*_       Uncertainty in AI (UAI), 2016   [arxiv](http://arxiv.org/abs/1506.03486)   [proc](http://auai.org/uai2016/proceedings/supp/270_supp.pdf)   [errata](http://www.stat.cmu.edu/~aramdas/papers/errata-uai16.pdf)
     
 
 - **Nonparametric iterated-logarithm extensions of the sequential generalized likelihood ratio test**  
-    _J. Shin, A. Ramdas, A. Rinaldo_       IEEE J. on Selected Areas in Info. Theory, 2021   [arxiv](https://arxiv.org/abs/2010.08082)
+    _J. Shin, A. Ramdas, A. Rinaldo_       IEEE J. on Selected Areas in Info. Theory, 2021   [arxiv](https://arxiv.org/abs/2010.08082)
     
 
 - **Uncertainty quantification using martingales for misspecified Gaussian processes**  
-    _W. Neiswanger, A. Ramdas_       Algorithmic Learning Theory (ALT), 2021   [arxiv](https://arxiv.org/pdf/2006.07368.pdf)   [code](https://github.com/willieneis/gp-martingales)   [talk](https://slideslive.com/38930822/)   [proc](http://proceedings.mlr.press/v132/neiswanger21a.html)
+    _W. Neiswanger, A. Ramdas_       Algorithmic Learning Theory (ALT), 2021   [arxiv](https://arxiv.org/pdf/2006.07368.pdf)   [code](https://github.com/willieneis/gp-martingales)   [talk](https://slideslive.com/38930822/)   [proc](http://proceedings.mlr.press/v132/neiswanger21a.html)
     
 
 - **Sequential estimation of quantiles with applications to A/B-testing and best-arm identification**  
-    _S. Howard, A. Ramdas_       Bernoulli, 2022   [arxiv](http://arxiv.org/abs/1906.09712)   [code](https://github.com/gostevehoward/quantilecs)   [talk](https://www.youtube.com/embed/CRSiyYCTCp8)
+    _S. Howard, A. Ramdas_       Bernoulli, 2022   [arxiv](http://arxiv.org/abs/1906.09712)   [code](https://github.com/gostevehoward/quantilecs)   [talk](https://www.youtube.com/embed/CRSiyYCTCp8)
     
 
   
@@ -383,23 +382,23 @@ Indian Institute of Technology (IIT)
 ### Multi-armed bandits
 
 - **A unified framework for bandit multiple testing**  
-    _Z. Xu, R. Wang, A. Ramdas_       [arxiv](https://arxiv.org/abs/2107.07322)  
+    _Z. Xu, R. Wang, A. Ramdas_       [arxiv](https://arxiv.org/abs/2107.07322)  
     
 
 - **On conditional versus marginal bias in multi-armed bandits**  
-    _J. Shin, A. Ramdas, A. Rinaldo_       ICML, 2020   [arxiv](https://arxiv.org/abs/2002.08422)
+    _J. Shin, A. Ramdas, A. Rinaldo_       ICML, 2020   [arxiv](https://arxiv.org/abs/2002.08422)
     
 
 - **Are sample means in multi-armed bandits positively or negatively biased?**  
-    _J. Shin, A. Ramdas, A. Rinaldo_       NeurIPS, 2019   [arxiv](https://arxiv.org/abs/1905.11397)   [poster](https://postersession.ai/poster/are-sample-means-in-multi-armed-bandits/)   [proc](https://papers.nips.cc/paper/8932-are-sample-means-in-multi-armed-bandits-positively-or-negatively-biased)
+    _J. Shin, A. Ramdas, A. Rinaldo_       NeurIPS, 2019   [arxiv](https://arxiv.org/abs/1905.11397)   [poster](https://postersession.ai/poster/are-sample-means-in-multi-armed-bandits/)   [proc](https://papers.nips.cc/paper/8932-are-sample-means-in-multi-armed-bandits-positively-or-negatively-biased)
     
 
 - **On the bias, risk and consistency of sample means in multi-armed bandits**  
-    _J. Shin, A. Ramdas, A. Rinaldo_       (SIMODS, minor revision)   [arxiv](https://arxiv.org/pdf/1902.00746.pdf)   [talk](https://ece.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=021b9a34-fade-45df-9923-aa25012076c1)
+    _J. Shin, A. Ramdas, A. Rinaldo_       (SIMODS, minor revision)   [arxiv](https://arxiv.org/pdf/1902.00746.pdf)   [talk](https://ece.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=021b9a34-fade-45df-9923-aa25012076c1)
     
 
 - **MAB-FDR: Multi (A)rmed/(B)andit testing with online FDR control**  
-    _F. Yang, A. Ramdas, K. Jamieson, M. Wainwright_       NeurIPS, 2017   [arxiv](https://arxiv.org/abs/1706.05378)   [code](https://github.com/fanny-yang/MABFDR)   [30-min talk](https://www.youtube.com/watch?v=OtOsnVYpvJI&index=16&list=PLYTiwx6hV33tfxq3kUFcG7RNFZ0cD6xjV)   [proc](https://papers.nips.cc/paper/7177-a-framework-for-multi-armedbandit-testing-with-online-fdr-control)   (spotlight talk)
+    _F. Yang, A. Ramdas, K. Jamieson, M. Wainwright_       NeurIPS, 2017   [arxiv](https://arxiv.org/abs/1706.05378)   [code](https://github.com/fanny-yang/MABFDR)   [30-min talk](https://www.youtube.com/watch?v=OtOsnVYpvJI&index=16&list=PLYTiwx6hV33tfxq3kUFcG7RNFZ0cD6xjV)   [proc](https://papers.nips.cc/paper/7177-a-framework-for-multi-armedbandit-testing-with-online-fdr-control)   (spotlight talk)
     
 
   
@@ -407,35 +406,35 @@ Indian Institute of Technology (IIT)
 ### Online multiple testing [(package)](https://bioconductor.org/packages/devel/bioc/html/onlineFDR.html) [(vignette)](https://dsrobertson.github.io/onlineFDR/) [(shiny app, FDR)](http://shiny.mrc-bsu.cam.ac.uk/apps/onlineFDRexplore) [(shiny app, FWER)](http://shiny.mrc-bsu.cam.ac.uk/apps/onlineFWERexplore)
 
 - **ADDIS: an adaptive discarding algorithm for online FDR control with conservative nulls**  
-    _J. Tian, A. Ramdas_       NeurIPS, 2019   [arxiv](https://arxiv.org/abs/1905.11465)   [code](https://github.com/JINJINT/ADDIS)
+    _J. Tian, A. Ramdas_       NeurIPS, 2019   [arxiv](https://arxiv.org/abs/1905.11465)   [code](https://github.com/JINJINT/ADDIS)
     
 
 - **Online control of the false coverage rate and false sign rate**  
-    _A. Weinstein\*, A. Ramdas\*_       ICML, 2020   [arxiv](https://arxiv.org/abs/1905.01059)   [proc](http://proceedings.mlr.press/v119/weinstein20a.html)
+    _A. Weinstein\*, A. Ramdas\*_       ICML, 2020   [arxiv](https://arxiv.org/abs/1905.01059)   [proc](http://proceedings.mlr.press/v119/weinstein20a.html)
     
 
 - **Online control of the familywise error rate**  
-    _J. Tian\*, A. Ramdas\*_       Statistical Methods in Medical Research, 2021   [arxiv](https://arxiv.org/abs/1910.04900)   [proc](https://journals.sagepub.com/eprint/AYRRKZX7XMTVHKCFYBJY/full)
+    _J. Tian\*, A. Ramdas\*_       Statistical Methods in Medical Research, 2021   [arxiv](https://arxiv.org/abs/1910.04900)   [proc](https://journals.sagepub.com/eprint/AYRRKZX7XMTVHKCFYBJY/full)
     
 
 - **Asynchronous online testing of multiple hypotheses**  
-    _T. Zrnic, A. Ramdas, M. Jordan_       JMLR, 2021   [arxiv](https://arxiv.org/abs/1812.05068)   [code](https://github.com/tijana-zrnic/async-online-FDR-code)   [blog](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/)   [proc](https://jmlr.org/papers/v22/19-910.html)
+    _T. Zrnic, A. Ramdas, M. Jordan_       JMLR, 2021   [arxiv](https://arxiv.org/abs/1812.05068)   [code](https://github.com/tijana-zrnic/async-online-FDR-code)   [blog](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/)   [proc](https://jmlr.org/papers/v22/19-910.html)
     
 
 - **The power of batching in multiple hypothesis testing**  
-    _T. Zrnic, D. Jiang, A. Ramdas, M. Jordan_       AISTATS, 2020   [arxiv](https://arxiv.org/abs/1910.04968)   [talk](https://slideslive.com/38930298/the-power-of-batching-in-multiple-hypothesis-testing?ref=account-folder-52123-folders)   [proc](http://proceedings.mlr.press/v108/zrnic20a.html)
+    _T. Zrnic, D. Jiang, A. Ramdas, M. Jordan_       AISTATS, 2020   [arxiv](https://arxiv.org/abs/1910.04968)   [talk](https://slideslive.com/38930298/the-power-of-batching-in-multiple-hypothesis-testing?ref=account-folder-52123-folders)   [proc](http://proceedings.mlr.press/v108/zrnic20a.html)
     
 
 - **SAFFRON: an adaptive algorithm for online FDR control**  
-    _A. Ramdas, T. Zrnic, M. Wainwright, M. Jordan_       ICML, 2018   [arxiv](https://arxiv.org/abs/1802.09098)   [proc](http://proceedings.mlr.press/v80/ramdas18a.html)   [github](https://github.com/tijana-zrnic/SAFFRONcode)   (full oral talk)
+    _A. Ramdas, T. Zrnic, M. Wainwright, M. Jordan_       ICML, 2018   [arxiv](https://arxiv.org/abs/1802.09098)   [proc](http://proceedings.mlr.press/v80/ramdas18a.html)   [github](https://github.com/tijana-zrnic/SAFFRONcode)   (full oral talk)
     
 
 - **Online control of the false discovery rate with decaying memory**  
-    _A. Ramdas, F. Yang, M. Wainwright, M. Jordan_       NeurIPS, 2017   [arxiv](https://arxiv.org/abs/1710.00499)   [summary](https://www.youtube.com/watch?v=24Jc8RLxB_0&feature=youtu.be)   [poster](http://www.stat.cmu.edu/~aramdas/posters/NeurIPS17-poster.pdf)   [proc](https://papers.nips.cc/paper/7148-online-control-of-the-false-discovery-rate-with-decaying-memory)   [15-min from 44:00](https://www.facebook.com/nipsfoundation/videos/1554402064651027/)   (full oral talk)
+    _A. Ramdas, F. Yang, M. Wainwright, M. Jordan_       NeurIPS, 2017   [arxiv](https://arxiv.org/abs/1710.00499)   [summary](https://www.youtube.com/watch?v=24Jc8RLxB_0&feature=youtu.be)   [poster](http://www.stat.cmu.edu/~aramdas/posters/NeurIPS17-poster.pdf)   [proc](https://papers.nips.cc/paper/7148-online-control-of-the-false-discovery-rate-with-decaying-memory)   [15-min from 44:00](https://www.facebook.com/nipsfoundation/videos/1554402064651027/)   (full oral talk)
     
 
 - **Dynamic Algorithms for Online Multiple Testing**  
-    _Z. Xu, A. Ramdas_       Mathematical and Scientific ML, 2021   [arxiv](https://arxiv.org/abs/2010.13953)
+    _Z. Xu, A. Ramdas_       Mathematical and Scientific ML, 2021   [arxiv](https://arxiv.org/abs/2010.13953)
     
 
   
@@ -443,35 +442,35 @@ Indian Institute of Technology (IIT)
 ### Interactive/dynamic multiple testing
 
 - **Interactive identification of individuals with positive treatment effect while controlling false discoveries**  
-    _B. Duan, L. Wasserman, A. Ramdas_       [arxiv](https://arxiv.org/abs/2102.10778)  
+    _B. Duan, L. Wasserman, A. Ramdas_       [arxiv](https://arxiv.org/abs/2102.10778)  
     
 
 - **STAR: A general interactive framework for FDR control under structural constraints**  
-    _L. Lei, A. Ramdas, W. Fithian_       Biometrika, 2020   [arxiv](https://arxiv.org/abs/1710.02776)   [proc](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaa064/5879274)   [poster](http://www.stat.cmu.edu/~aramdas/posters/MCP17-poster.pdf)   [code](https://github.com/lihualei71/STAR)
+    _L. Lei, A. Ramdas, W. Fithian_       Biometrika, 2020   [arxiv](https://arxiv.org/abs/1710.02776)   [proc](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaa064/5879274)   [poster](http://www.stat.cmu.edu/~aramdas/posters/MCP17-poster.pdf)   [code](https://github.com/lihualei71/STAR)
     
 
 - **Familywise error rate control by interactive unmasking**  
-    _B. Duan, A. Ramdas, L. Wasserman_       ICML, 2020   [arxiv](https://arxiv.org/pdf/2002.08545.pdf)   [code](https://github.com/duanby/i-FWER)
+    _B. Duan, A. Ramdas, L. Wasserman_       ICML, 2020   [arxiv](https://arxiv.org/pdf/2002.08545.pdf)   [code](https://github.com/duanby/i-FWER)
     
 
 - **Interactive martingale tests for the global null**  
-    _B. Duan, A. Ramdas, S. Balakrishnan, L. Wasserman_       Electronic J. of Stat., 2020   [arxiv](https://arxiv.org/pdf/1909.07339.pdf)   [code](https://github.com/duanby/interactive-martingale-test)   [proc](https://projecteuclid.org/euclid.ejs/1609384079)
+    _B. Duan, A. Ramdas, S. Balakrishnan, L. Wasserman_       Electronic J. of Stat., 2020   [arxiv](https://arxiv.org/pdf/1909.07339.pdf)   [code](https://github.com/duanby/interactive-martingale-test)   [proc](https://projecteuclid.org/euclid.ejs/1609384079)
     
 
 - **Which Wilcoxon should we use? An interactive rank test and other alternatives**  
-    _B. Duan, A. Ramdas, L. Wasserman_       [arxiv](https://arxiv.org/abs/2009.05892)
+    _B. Duan, A. Ramdas, L. Wasserman_       [arxiv](https://arxiv.org/abs/2009.05892)
     
 
 - **Simultaneous high-probability bounds on the FDP in structured, regression and online settings**  
-    _E. Katsevich, A. Ramdas_       Annals of Stat., 2020   [arxiv](https://arxiv.org/abs/1803.06790)   [code](https://github.com/ekatsevi/simultaneous-fdp)   [proc](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Simultaneous-high-probability-bounds-on-the-false-discovery-proportion-in/10.1214/19-AOS1938.short)
+    _E. Katsevich, A. Ramdas_       Annals of Stat., 2020   [arxiv](https://arxiv.org/abs/1803.06790)   [code](https://github.com/ekatsevi/simultaneous-fdp)   [proc](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Simultaneous-high-probability-bounds-on-the-false-discovery-proportion-in/10.1214/19-AOS1938.short)
     
 
 - **Large-scale simultaneous inference under dependence**  
-    _J. Tian, X. Chen, E. Katsevich, J. Goeman, A. Ramdas_       [arxiv](https://arxiv.org/abs/2102.11253)  
+    _J. Tian, X. Chen, E. Katsevich, J. Goeman, A. Ramdas_       [arxiv](https://arxiv.org/abs/2102.11253)  
     
 
 - **QuTE: decentralized FDR control on sensor networks**  
-    _A. Ramdas, J. Chen, M. Wainwright, M. Jordan_       IEEE CDC, 2017   [code](https://github.com/Jianbo-Lab/QuTE)   [proc](http://ieeexplore.ieee.org/document/8264627)   [poster](http://www.stat.cmu.edu/~aramdas/posters/CDC17-poster.pdf)
+    _A. Ramdas, J. Chen, M. Wainwright, M. Jordan_       IEEE CDC, 2017   [code](https://github.com/Jianbo-Lab/QuTE)   [proc](http://ieeexplore.ieee.org/document/8264627)   [poster](http://www.stat.cmu.edu/~aramdas/posters/CDC17-poster.pdf)
     
 
   
@@ -479,27 +478,27 @@ Indian Institute of Technology (IIT)
 ### Offline multiple testing
 
 - **False discovery rate control with e-values**  
-    _R. Wang, A. Ramdas_       (JRSSB, major revision)   [arxiv](https://arxiv.org/abs/2009.02824)
+    _R. Wang, A. Ramdas_       (JRSSB, major revision)   [arxiv](https://arxiv.org/abs/2009.02824)
     
 
 - **Fast and powerful conditional randomization testing via distillation**  
-    _M. Liu, E. Katsevich, L. Janson, A. Ramdas_       Biometrika, 2021   [arxiv](https://arxiv.org/abs/2006.03980)   [code](https://github.com/moleibobliu/Distillation-CRT)
+    _M. Liu, E. Katsevich, L. Janson, A. Ramdas_       Biometrika, 2021   [arxiv](https://arxiv.org/abs/2006.03980)   [code](https://github.com/moleibobliu/Distillation-CRT)
     
 
 - **A unified treatment of multiple testing with prior knowledge using the p-filter**  
-    _A. Ramdas, R. F. Barber, M. Wainwright, M. Jordan_       Annals of Stat., 2019   [arxiv](http://arxiv.org/abs/1703.06222)   [code](http://www.stat.uchicago.edu/~rina/pfilter.html)   [proc](http://dx.doi.org/10.1214/18-AOS1765)
+    _A. Ramdas, R. F. Barber, M. Wainwright, M. Jordan_       Annals of Stat., 2019   [arxiv](http://arxiv.org/abs/1703.06222)   [code](http://www.stat.uchicago.edu/~rina/pfilter.html)   [proc](http://dx.doi.org/10.1214/18-AOS1765)
     
 
 - **DAGGER: A sequential algorithm for FDR control on DAGs**  
-    _A. Ramdas, J. Chen, M. Wainwright, M. Jordan_       Biometrika, 2019   [arxiv](https://arxiv.org/abs/1709.10250)   [code](https://github.com/Jianbo-Lab/DAGGER/)   [proc](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asy066/5303997?guestAccessKey=035a8e2c-ca12-42dc-bc59-db2a5af4301f)
+    _A. Ramdas, J. Chen, M. Wainwright, M. Jordan_       Biometrika, 2019   [arxiv](https://arxiv.org/abs/1709.10250)   [code](https://github.com/Jianbo-Lab/DAGGER/)   [proc](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asy066/5303997?guestAccessKey=035a8e2c-ca12-42dc-bc59-db2a5af4301f)
     
 
 - **Optimal rates and tradeoffs in multiple testing**  
-    _M. Rabinovich, A. Ramdas, M. Wainwright, M. Jordan_       Stat. Sinica, 2019   [arxiv](https://arxiv.org/abs/1705.05391)   [poster](http://www.stat.cmu.edu/~aramdas/posters/optimal-MT-poster.pdf)   [proc](http://www3.stat.sinica.edu.tw/statistica/J30N2/J30N29/J30N29.html)
+    _M. Rabinovich, A. Ramdas, M. Wainwright, M. Jordan_       Stat. Sinica, 2019   [arxiv](https://arxiv.org/abs/1705.05391)   [poster](http://www.stat.cmu.edu/~aramdas/posters/optimal-MT-poster.pdf)   [proc](http://www3.stat.sinica.edu.tw/statistica/J30N2/J30N29/J30N29.html)
     
 
 - **p-filter: multi-layer FDR control for grouped hypotheses**  
-    _R. F. Barber\*, A. Ramdas\*_       JRSSB, 2016   [arxiv](http://arxiv.org/abs/1512.03397)   [code](http://www.stat.uchicago.edu/~rina/pfilter.html)   [proc](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12218/full)   [poster](http://www.stat.cmu.edu/~aramdas/posters/pfilter-poster.pdf)
+    _R. F. Barber\*, A. Ramdas\*_       JRSSB, 2016   [arxiv](http://arxiv.org/abs/1512.03397)   [code](http://www.stat.uchicago.edu/~rina/pfilter.html)   [proc](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12218/full)   [poster](http://www.stat.cmu.edu/~aramdas/posters/pfilter-poster.pdf)
     
 
   
@@ -507,55 +506,55 @@ Indian Institute of Technology (IIT)
 ### High-dimensional/nonparametric testing
 
 - **Dimension-agnostic inference**  
-    _I. Kim, A. Ramdas_       (Annals of Stat., submitted)   [arxiv](https://arxiv.org/abs/2011.05068)
+    _I. Kim, A. Ramdas_       (Annals of Stat., submitted)   [arxiv](https://arxiv.org/abs/2011.05068)
     
 
 - **Gaussian Universal Likelihood Ratio Testing**  
-    _R. Dunn, A. Ramdas, S. Balakrishnan, L. Wasserman_       [arxiv](https://arxiv.org/abs/2104.14676)  
+    _R. Dunn, A. Ramdas, S. Balakrishnan, L. Wasserman_       [arxiv](https://arxiv.org/abs/2104.14676)  
     
 
 - **On the power of conditional independence testing under model-X**  
-    _E. Katsevich, A. Ramdas_       [arxiv](http://arxiv.org/abs/2005.05506)
+    _E. Katsevich, A. Ramdas_       [arxiv](http://arxiv.org/abs/2005.05506)
     
 
 - **Adaptivity & computation-statistics tradeoffs for kernel & distance based high-dimensional two sample testing**  
-    _A. Ramdas, S. Reddi, B. Poczos, A. Singh, L. Wasserman_       [arxiv](http://arxiv.org/abs/1508.00655)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ITA15-poster.pdf)  
+    _A. Ramdas, S. Reddi, B. Poczos, A. Singh, L. Wasserman_       [arxiv](http://arxiv.org/abs/1508.00655)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ITA15-poster.pdf)  
     
 
 - **Classification accuracy as a proxy for two sample testing**  
-    _I. Kim\*, A. Ramdas\*, A. Singh, L. Wasserman_       Annals of Stat., 2021   [arxiv](http://arxiv.org/abs/1602.02210)   [proc](https://projecteuclid.org/euclid.aos/1611889233)
+    _I. Kim\*, A. Ramdas\*, A. Singh, L. Wasserman_       Annals of Stat., 2021   [arxiv](http://arxiv.org/abs/1602.02210)   [proc](https://projecteuclid.org/euclid.aos/1611889233)
     
 
 - **Minimax lower bounds for linear independence testing**  
-    _D. Isenberg\*, A. Ramdas\*, A. Singh, L. Wasserman_       IEEE ISIT, 2016   [arxiv](http://arxiv.org/abs/1601.06259)   [proc](http://ieeexplore.ieee.org/document/7541442/)
+    _D. Isenberg\*, A. Ramdas\*, A. Singh, L. Wasserman_       IEEE ISIT, 2016   [arxiv](http://arxiv.org/abs/1601.06259)   [proc](http://ieeexplore.ieee.org/document/7541442/)
     
 
 - **On the high-dimensional power of a linear-time two sample test under mean-shift alternatives**  
-    _S. Reddi\*, A. Ramdas\*, A. Singh, B. Poczos, L. Wasserman_       AISTATS, 2015   [proc](http://jmlr.org/proceedings/papers/v38/reddi15.html)   [arxiv](http://arxiv.org/abs/1411.6314)   [errata](http://www.stat.cmu.edu/~aramdas/papers/errata-aistats15.pdf)
+    _S. Reddi\*, A. Ramdas\*, A. Singh, B. Poczos, L. Wasserman_       AISTATS, 2015   [proc](http://jmlr.org/proceedings/papers/v38/reddi15.html)   [arxiv](http://arxiv.org/abs/1411.6314)   [errata](http://www.stat.cmu.edu/~aramdas/papers/errata-aistats15.pdf)
     
 
 - **On the decreasing power of kernel and distance based nonparametric hypothesis tests in high dimensions**  
-    _A. Ramdas\*, S. Reddi\*, B. Poczos, A. Singh, L. Wasserman_       AAAI, 2015   [proc](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9727)   [arxiv](http://arxiv.org/abs/1406.2083)   [supp](http://www.stat.cmu.edu/~aramdas/papers/AAAI-power-App.pdf)
+    _A. Ramdas\*, S. Reddi\*, B. Poczos, A. Singh, L. Wasserman_       AAAI, 2015   [proc](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9727)   [arxiv](http://arxiv.org/abs/1406.2083)   [supp](http://www.stat.cmu.edu/~aramdas/papers/AAAI-power-App.pdf)
     
 
 - **A higher order Kolmogorov Smirnov test**  
-    _V. Sadhanala, Y. Wang, A. Ramdas, R. Tibshirani_       AISTATS, 2019   [arxiv](https://arxiv.org/pdf/1903.10083.pdf)   [proc](http://proceedings.mlr.press/v89/sadhanala19a.html)
+    _V. Sadhanala, Y. Wang, A. Ramdas, R. Tibshirani_       AISTATS, 2019   [arxiv](https://arxiv.org/pdf/1903.10083.pdf)   [proc](http://proceedings.mlr.press/v89/sadhanala19a.html)
     
 
 - **On Wasserstein two sample testing and related families of nonparametric tests**  
-    _A. Ramdas\*, N. Garcia\*, M. Cuturi_       Entropy, 2017 (Special Issue)   [arxiv](http://arxiv.org/abs/1509.02237)   [proc](http://www.mdpi.com/1099-4300/19/2/47/pdf)   [SI](https://www.mdpi.com/journal/entropy/special_issues/statistical_significance)
+    _A. Ramdas\*, N. Garcia\*, M. Cuturi_       Entropy, 2017 (Special Issue)   [arxiv](http://arxiv.org/abs/1509.02237)   [proc](http://www.mdpi.com/1099-4300/19/2/47/pdf)   [SI](https://www.mdpi.com/journal/entropy/special_issues/statistical_significance)
     
 
 - **Generative models and model criticism via optimized Maximum Mean Discrepancy**  
-    _D. Sutherland, H. Tung, H. Strathmann, S. De, A. Ramdas, A. Smola, A. Gretton_       ICLR, 2017   [arxiv](https://arxiv.org/abs/1611.04488)   [proc](https://openreview.net/forum?id=HJWHIKqgl)   [poster](http://www.gatsby.ucl.ac.uk/~dougals/posters/iclr-opt-mmd.pdf)   [code](https://github.com/dougalsutherland/opt-mmd)
+    _D. Sutherland, H. Tung, H. Strathmann, S. De, A. Ramdas, A. Smola, A. Gretton_       ICLR, 2017   [arxiv](https://arxiv.org/abs/1611.04488)   [proc](https://openreview.net/forum?id=HJWHIKqgl)   [poster](http://www.gatsby.ucl.ac.uk/~dougals/posters/iclr-opt-mmd.pdf)   [code](https://github.com/dougalsutherland/opt-mmd)
     
 
 - **Fast two-sample testing with analytic representations of probability measures**  
-    _K. Chwialkowski, A. Ramdas, D. Sejdinovic, A. Gretton_       NeurIPS, 2015   [arxiv](http://arxiv.org/abs/1506.04725)   [github](https://github.com/kacperChwialkowski/analyticMeanEmbeddings)   [proc](https://papers.nips.cc/paper/5685-fast-two-sample-testing-with-analytic-representations-of-probability-measures)
+    _K. Chwialkowski, A. Ramdas, D. Sejdinovic, A. Gretton_       NeurIPS, 2015   [arxiv](http://arxiv.org/abs/1506.04725)   [github](https://github.com/kacperChwialkowski/analyticMeanEmbeddings)   [proc](https://papers.nips.cc/paper/5685-fast-two-sample-testing-with-analytic-representations-of-probability-measures)
     
 
 - **Nonparametric independence testing for small sample sizes**  
-    _A. Ramdas\*, L. Wehbe\*_       IJCAI, 2015   [arxiv](http://arxiv.org/abs/1406.1922)   [proc](http://ijcai.org/Abstract/15/531)   (oral talk)
+    _A. Ramdas\*, L. Wehbe\*_       IJCAI, 2015   [arxiv](http://arxiv.org/abs/1406.1922)   [proc](http://ijcai.org/Abstract/15/531)   (oral talk)
     
 
   
@@ -563,35 +562,35 @@ Indian Institute of Technology (IIT)
 ### Distribution-free uncertainty quantification (conformal, calibration) [(package)](https://github.com/ryantibs/conformal) [(package 2)](https://mapie.readthedocs.io/en/latest/) [(tutorial)](https://video.ias.edu/machinelearning/20200421-AadityaRamdas)
 
 - **Top-label calibration**  
-    _C. Gupta, A. Ramdas_       [arxiv](https://arxiv.org/abs/2107.08353)  
+    _C. Gupta, A. Ramdas_       [arxiv](https://arxiv.org/abs/2107.08353)  
     
 
 - **Distribution-free calibration guarantees for histogram binning without sample splitting**  
-    _C. Gupta, A. Ramdas_       ICML, 2021   [arxiv](https://arxiv.org/abs/2105.04656)   [proc](http://proceedings.mlr.press/v139/gupta21b.html)
+    _C. Gupta, A. Ramdas_       ICML, 2021   [arxiv](https://arxiv.org/abs/2105.04656)   [proc](http://proceedings.mlr.press/v139/gupta21b.html)
     
 
 - **Distribution-free uncertainty quantification for classification under label shift**  
-    _A. Podkopaev, A. Ramdas_       UAI, 2021   [arxiv](https://arxiv.org/abs/2103.03323)  
+    _A. Podkopaev, A. Ramdas_       UAI, 2021   [arxiv](https://arxiv.org/abs/2103.03323)  
     
 
 - **Distribution-free binary classification: prediction sets, confidence intervals and calibration**  
-    _C. Gupta, A. Podkopaev, A. Ramdas_       NeurIPS, 2020   [arxiv](https://arxiv.org/pdf/2006.10564.pdf)   [proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html)   [talk](https://www.youtube.com/watch?v=Bt0oSSepZK4&list=PLLip9bPe5e6UouzWs85WBXdqqg-pBQGw2&index=19)
+    _C. Gupta, A. Podkopaev, A. Ramdas_       NeurIPS, 2020   [arxiv](https://arxiv.org/pdf/2006.10564.pdf)   [proc](https://proceedings.neurips.cc/paper/2020/hash/26d88423fc6da243ffddf161ca712757-Abstract.html)   [talk](https://www.youtube.com/watch?v=Bt0oSSepZK4&list=PLLip9bPe5e6UouzWs85WBXdqqg-pBQGw2&index=19)
     
 
 - **Nested conformal prediction and quantile out-of-bag ensemble methods**  
-    _C. Gupta, A. Kuchibhotla, A. Ramdas_       Pattern Recognition, Special Issue on Conformal Prediction   [arxiv](https://arxiv.org/pdf/1910.10562.pdf)   [code](https://github.com/AIgen/QOOB)   [talk](https://www.youtube.com/watch?v=5qGy3OZB-yQ&list=PLLip9bPe5e6UouzWs85WBXdqqg-pBQGw2&index=18)
+    _C. Gupta, A. Kuchibhotla, A. Ramdas_       Pattern Recognition, Special Issue on Conformal Prediction   [arxiv](https://arxiv.org/pdf/1910.10562.pdf)   [code](https://github.com/AIgen/QOOB)   [talk](https://www.youtube.com/watch?v=5qGy3OZB-yQ&list=PLLip9bPe5e6UouzWs85WBXdqqg-pBQGw2&index=18)
     
 
 - **The limits of distribution-free conditional predictive inference**  
-    _R. Barber, E. Candes, A. Ramdas, R. Tibshirani_       Information and Inference, 2020   [arxiv](https://arxiv.org/abs/1903.04684)   [proc](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaaa017/5896927?redirectedFrom=fulltext)
+    _R. Barber, E. Candes, A. Ramdas, R. Tibshirani_       Information and Inference, 2020   [arxiv](https://arxiv.org/abs/1903.04684)   [proc](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iaaa017/5896927?redirectedFrom=fulltext)
     
 
 - **Conformal prediction under covariate shift**  
-    _R. Tibshirani, R. Barber, E. Candes, A. Ramdas_       NeurIPS, 2019   [arxiv](https://arxiv.org/pdf/1904.06019.pdf)   [proc](http://papers.neurips.cc/paper/8522-conformal-prediction-under-covariate-shift)   [poster](http://www.stat.cmu.edu/~aramdas/posters/conformal-NeurIPS19-poster.pdf)  
+    _R. Tibshirani, R. Barber, E. Candes, A. Ramdas_       NeurIPS, 2019   [arxiv](https://arxiv.org/pdf/1904.06019.pdf)   [proc](http://papers.neurips.cc/paper/8522-conformal-prediction-under-covariate-shift)   [poster](http://www.stat.cmu.edu/~aramdas/posters/conformal-NeurIPS19-poster.pdf)  
     
 
 - **Predictive inference with the jackknife+**  
-    _R. Barber, E. Candes, A. Ramdas, R. Tibshirani_       Annals of Stat., 2021   [arxiv](http://arxiv.org/abs/1905.02928)   [code](https://www.stat.uchicago.edu/~rina/jackknife.html)   [proc](https://projecteuclid.org/euclid.aos/1611889236)
+    _R. Barber, E. Candes, A. Ramdas, R. Tibshirani_       Annals of Stat., 2021   [arxiv](http://arxiv.org/abs/1905.02928)   [code](https://www.stat.uchicago.edu/~rina/jackknife.html)   [proc](https://projecteuclid.org/euclid.aos/1611889236)
     
 
   
@@ -599,39 +598,39 @@ Indian Institute of Technology (IIT)
 ### Convex optimization
 
 - **Path length bounds for gradient descent and flow**  
-    _C. Gupta, S. Balakrishnan, A. Ramdas_       JMLR, 2021   [arxiv](https://arxiv.org/abs/1908.01089)   [proc](https://jmlr.org/papers/v22/19-979.html)   [blog](https://blog.ml.cmu.edu/2019/10/25/path-length-bounds-for-gradient-descent/)
+    _C. Gupta, S. Balakrishnan, A. Ramdas_       JMLR, 2021   [arxiv](https://arxiv.org/abs/1908.01089)   [proc](https://jmlr.org/papers/v22/19-979.html)   [blog](https://blog.ml.cmu.edu/2019/10/25/path-length-bounds-for-gradient-descent/)
     
 
 - **Iterative methods for solving factorized linear systems**  
-    _A. Ma, D. Needell, A. Ramdas_       SIAM J on Matrix Anal. and App., 2017   [arxiv](https://arxiv.org/abs/1701.07453)   [proc](http://epubs.siam.org/doi/abs/10.1137/17M1115678)
+    _A. Ma, D. Needell, A. Ramdas_       SIAM J on Matrix Anal. and App., 2017   [arxiv](https://arxiv.org/abs/1701.07453)   [proc](http://epubs.siam.org/doi/abs/10.1137/17M1115678)
     
 
 - **Rows vs columns : randomized Kaczmarz or Gauss-Seidel for ridge regression**  
-    _A. Hefny\*, D. Needell\*, A. Ramdas\*_       SIAM J on Sci. Comp., 2017   [arxiv](http://arxiv.org/abs/1507.05844)   [proc](https://epubs.siam.org/doi/abs/10.1137/16M1077891)
+    _A. Hefny\*, D. Needell\*, A. Ramdas\*_       SIAM J on Sci. Comp., 2017   [arxiv](http://arxiv.org/abs/1507.05844)   [proc](https://epubs.siam.org/doi/abs/10.1137/16M1077891)
     
 
 - **Convergence properties of the randomized extended Gauss-Seidel and Kaczmarz methods**  
-    _A. Ma\*, D. Needell\*, A. Ramdas\*_       SIAM J on Matrix Anal. and App., 2015   [arxiv](http://arxiv.org/abs/1503.08235)   [proc](http://epubs.siam.org/doi/10.1137/15M1014425)   [code](https://github.com/maannamath/regs)
+    _A. Ma\*, D. Needell\*, A. Ramdas\*_       SIAM J on Matrix Anal. and App., 2015   [arxiv](http://arxiv.org/abs/1503.08235)   [proc](http://epubs.siam.org/doi/10.1137/15M1014425)   [code](https://github.com/maannamath/regs)
     
 
 - **Fast & flexible ADMM algorithms for trend filtering**  
-    _A. Ramdas\*, R. Tibshirani\*_       J of Comp. and Graph. Stat., 2015   [arxiv](http://arxiv.org/abs/1406.2082)   [proc](http://www.tandfonline.com/doi/abs/10.1080/10618600.2015.1054033)   [github ‘glmgen’](https://github.com/statsmaths/glmgen)   [50 min. talk](https://www.youtube.com/watch?v=6pZV8uxlcpA&t=1s)
+    _A. Ramdas\*, R. Tibshirani\*_       J of Comp. and Graph. Stat., 2015   [arxiv](http://arxiv.org/abs/1406.2082)   [proc](http://www.tandfonline.com/doi/abs/10.1080/10618600.2015.1054033)   [github ‘glmgen’](https://github.com/statsmaths/glmgen)   [50 min. talk](https://www.youtube.com/watch?v=6pZV8uxlcpA&t=1s)
     
 
 - **Towards a deeper geometric, analytic and algorithmic understanding of margins**  
-    _A. Ramdas, J. Pena_       Opt. Methods and Software, 2015   [arxiv](http://arxiv.org/abs/1406.5311)   [proc](http://www.tandfonline.com/doi/full/10.1080/10556788.2015.1099652)
+    _A. Ramdas, J. Pena_       Opt. Methods and Software, 2015   [arxiv](http://arxiv.org/abs/1406.5311)   [proc](http://www.tandfonline.com/doi/full/10.1080/10556788.2015.1099652)
     
 
 - **Margins, kernels and non-linear smoothed perceptrons**  
-    _A. Ramdas, J. Pena_       ICML, 2014   [arxiv](http://arxiv.org/abs/1505.04123)   [proc](http://jmlr.org/proceedings/papers/v32/ramdas14.html)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ICML14-poster.pdf)   [(oral talk)](http://techtalks.tv/talks/margins-kernels-and-non-linear-smoothed-perceptrons/61150/)
+    _A. Ramdas, J. Pena_       ICML, 2014   [arxiv](http://arxiv.org/abs/1505.04123)   [proc](http://jmlr.org/proceedings/papers/v32/ramdas14.html)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ICML14-poster.pdf)   [(oral talk)](http://techtalks.tv/talks/margins-kernels-and-non-linear-smoothed-perceptrons/61150/)
     
 
 - **Algorithmic connections between active learning and stochastic convex optimization**  
-    _A. Ramdas, A. Singh_       Alg. Learning Theory, 2013   [arxiv](http://arxiv.org/abs/1505.04214)   [proc](http://link.springer.com/chapter/10.1007%2F978-3-642-40935-6_24)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ALT13-poster.pdf)  
+    _A. Ramdas, A. Singh_       Alg. Learning Theory, 2013   [arxiv](http://arxiv.org/abs/1505.04214)   [proc](http://link.springer.com/chapter/10.1007%2F978-3-642-40935-6_24)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ALT13-poster.pdf)  
     
 
 - **Optimal rates for stochastic convex optimization under Tsybakov's noise condition**  
-    _A. Ramdas, A. Singh_       ICML, 2013   [proc](http://jmlr.org/proceedings/papers/v28/ramdas13.html)   [arxiv](http://arxiv.org/abs/1207.3012)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ICML13-poster.pdf)   [(oral talk)](http://techtalks.tv/talks/optimal-rates-for-stochastic-convex-optimization-under-tsybakov-noise-condition/58325/)
+    _A. Ramdas, A. Singh_       ICML, 2013   [proc](http://jmlr.org/proceedings/papers/v28/ramdas13.html)   [arxiv](http://arxiv.org/abs/1207.3012)   [poster](http://www.stat.cmu.edu/~aramdas/posters/ICML13-poster.pdf)   [(oral talk)](http://techtalks.tv/talks/optimal-rates-for-stochastic-convex-optimization-under-tsybakov-noise-condition/58325/)
     
 
   
@@ -639,15 +638,15 @@ Indian Institute of Technology (IIT)
 ### Scientific collaborations
 
 - **Brainprint: identifying individuals from Magnetoencephalography**  
-    _S. Wu, A. Ramdas, L. Wehbe_       (submitted, Nature Communications)   [bioRxiv](https://biorxiv.org/cgi/content/short/2020.06.18.159913v1)
+    _S. Wu, A. Ramdas, L. Wehbe_       (submitted, Nature Communications)   [bioRxiv](https://biorxiv.org/cgi/content/short/2020.06.18.159913v1)
     
 
 - **Regularized brain reading with shrinkage and smoothing**  
-    _L. Wehbe, A. Ramdas, R. Steorts, C. Shalizi_       Annals of App. Stat., 2015   [arxiv](http://arxiv.org/abs/1401.6595)   [proc](http://projecteuclid.org/euclid.aoas/1453994188)
+    _L. Wehbe, A. Ramdas, R. Steorts, C. Shalizi_       Annals of App. Stat., 2015   [arxiv](http://arxiv.org/abs/1401.6595)   [proc](http://projecteuclid.org/euclid.aoas/1453994188)
     
 
 - **Simultaneously uncovering the patterns of brain regions involved in different story reading subprocesses**  
-    _L. Wehbe, B. Murphy, P. Talukdar, A. Fyshe, A. Ramdas, T. Mitchell_       PLoS ONE, 2014   [website](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/plosone/)   [proc](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0112575)  
+    _L. Wehbe, B. Murphy, P. Talukdar, A. Fyshe, A. Ramdas, T. Mitchell_       PLoS ONE, 2014   [website](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/plosone/)   [proc](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0112575)  
     
 
   
@@ -655,35 +654,35 @@ Indian Institute of Technology (IIT)
 ### One-off projects
 
 - **Analyzing student strategies in blended courses using clickstream data**  
-    _N. Akpinar, A. Ramdas, U. Acar_       Educational Data Mining, 2020   [arxiv](https://arxiv.org/pdf/2006.00421.pdf)   [talk](https://www.youtube.com/watch?v=2WgIhY6MKOY&feature=youtu.be)  
+    _N. Akpinar, A. Ramdas, U. Acar_       Educational Data Mining, 2020   [arxiv](https://arxiv.org/pdf/2006.00421.pdf)   [talk](https://www.youtube.com/watch?v=2WgIhY6MKOY&feature=youtu.be)  
     
 
 - **Function-specific mixing times and concentration away from equilibrium**  
-    _M. Rabinovich, A. Ramdas, M. Wainwright, M. Jordan_       Bayesian Analysis, 2019   [arxiv](http://arxiv.org/abs/1605.02077)   [proc](https://projecteuclid.org/euclid.ba/1560391236)   [poster](http://www.stat.cmu.edu/~aramdas/posters/mixing-poster.pdf)  
+    _M. Rabinovich, A. Ramdas, M. Wainwright, M. Jordan_       Bayesian Analysis, 2019   [arxiv](http://arxiv.org/abs/1605.02077)   [proc](https://projecteuclid.org/euclid.ba/1560391236)   [poster](http://www.stat.cmu.edu/~aramdas/posters/mixing-poster.pdf)  
     
 
 - **Decoding from pooled data (II): sharp information-theoretic bounds**  
-    _A. El-Alaoui, A. Ramdas, F. Krzakala, L. Zdeborova, M. Jordan_       SIAM J on Math. of Data Science, 2019   [arxiv](https://arxiv.org/abs/1611.09981)   [proc](https://epubs.siam.org/doi/10.1137/18M1183339)
+    _A. El-Alaoui, A. Ramdas, F. Krzakala, L. Zdeborova, M. Jordan_       SIAM J on Math. of Data Science, 2019   [arxiv](https://arxiv.org/abs/1611.09981)   [proc](https://epubs.siam.org/doi/10.1137/18M1183339)
     
 
 - **Decoding from pooled data (I): phase transitions of message passing**  
-    _A. El-Alaoui, A. Ramdas, F. Krzakala, L. Zdeborova, M. Jordan_       IEEE Trans. on Info. Theory, 2018   [arxiv](https://arxiv.org/abs/1702.02279)   [proc](https://ieeexplore.ieee.org/document/8410892/)
+    _A. El-Alaoui, A. Ramdas, F. Krzakala, L. Zdeborova, M. Jordan_       IEEE Trans. on Info. Theory, 2018   [arxiv](https://arxiv.org/abs/1702.02279)   [proc](https://ieeexplore.ieee.org/document/8410892/)
     
 
 - **On the power of online thinning in reducing discrepancy**  
-    _R. Dwivedi, O. N. Feldheim, Ori Gurel-Gurevich, A. Ramdas_       Prob. Theory and Related Fields, 2018   [arxiv](https://arxiv.org/abs/1608.02895)   [poster](http://www.stat.cmu.edu/~aramdas/posters/MCQMC17-poster.pdf)   [proc](https://link.springer.com/article/10.1007/s00440-018-0860-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)
+    _R. Dwivedi, O. N. Feldheim, Ori Gurel-Gurevich, A. Ramdas_       Prob. Theory and Related Fields, 2018   [arxiv](https://arxiv.org/abs/1608.02895)   [poster](http://www.stat.cmu.edu/~aramdas/posters/MCQMC17-poster.pdf)   [proc](https://link.springer.com/article/10.1007/s00440-018-0860-y?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst)
     
 
 - **On kernel methods for covariates that are rankings**  
-    _H. Mania, A. Ramdas, M. Wainwright, M. Jordan, B. Recht_       Electronic J of Stat., 2018   [arxiv](http://arxiv.org/abs/1603.08035)   [proc](https://doi.org/10.1214/18-EJS1437)
+    _H. Mania, A. Ramdas, M. Wainwright, M. Jordan, B. Recht_       Electronic J of Stat., 2018   [arxiv](http://arxiv.org/abs/1603.08035)   [proc](https://doi.org/10.1214/18-EJS1437)
     
 
 - **Asymptotic behavior of Lq-based Laplacian regularization in semi-supervised learning**  
-    _A. El-Alaoui, X. Cheng, A. Ramdas, M. Wainwright, M. Jordan_       COLT, 2016   [arxiv](http://arxiv.org/abs/1603.00564)   [proc](http://jmlr.csail.mit.edu/proceedings/papers/v49/elalaoui16.html)
+    _A. El-Alaoui, X. Cheng, A. Ramdas, M. Wainwright, M. Jordan_       COLT, 2016   [arxiv](http://arxiv.org/abs/1603.00564)   [proc](http://jmlr.csail.mit.edu/proceedings/papers/v49/elalaoui16.html)
     
 
 - **An analysis of active learning with uniform feature noise**  
-    _A. Ramdas, A. Singh, L. Wasserman, B. Poczos_       AISTATS, 2014   [arxiv](http://arxiv.org/abs/1505.04215)   [proc](http://jmlr.org/proceedings/papers/v33/ramdas14.html)   [poster](http://www.stat.cmu.edu/~aramdas/posters/AISTATS14-poster.pdf)   [(oral talk)](https://www.youtube.com/watch?v=pUVNJ2bxJgY)  
+    _A. Ramdas, A. Singh, L. Wasserman, B. Poczos_       AISTATS, 2014   [arxiv](http://arxiv.org/abs/1505.04215)   [proc](http://jmlr.org/proceedings/papers/v33/ramdas14.html)   [poster](http://www.stat.cmu.edu/~aramdas/posters/AISTATS14-poster.pdf)   [(oral talk)](https://www.youtube.com/watch?v=pUVNJ2bxJgY)  
     
 
   
@@ -691,11 +690,11 @@ Indian Institute of Technology (IIT)
 ### Miscellaneous
 
 - **Discussion: Covariate-assisted ranking and screening for large-scale two-sample inference**  
-    _A. Ramdas_       JRSSB, 2019   [proc](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12304)
+    _A. Ramdas_       JRSSB, 2019   [proc](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12304)
     
 
 - **Algorithms for graph similarity and subgraph matching**  
-    _D. Koutra, A. Parikh, A. Ramdas, J. Xiang_       Tech Report   [pdf](http://www.stat.cmu.edu/~aramdas/reports/DBreport.pdf)
+    _D. Koutra, A. Parikh, A. Ramdas, J. Xiang_       Tech Report   [pdf](http://www.stat.cmu.edu/~aramdas/reports/DBreport.pdf)
 
 
 
@@ -705,41 +704,5 @@ Indian Institute of Technology (IIT)
   - googlescholar:  https://scholar.google.com/citations?user=ZvFaPxUAAAAJ
   - aminer: https://www.aminer.cn/profile/aaditya-k-ramdas/5d415c1b7390bff0db70cdc0
 
-
-# Notes
-
-# Profile
-
-![Aaditya Ramdas](http://www.stat.cmu.edu/sites/default/files/faculty_pictures/ramdas.png)
-
-# Biography[English]
-
-# Biography[中文]
-
-# Interests[English]
-
-# Interests[中文]
-
-# Education[English]
-
-# Education[中文]
-
-# Awards[English]
-
-# Awards[中文]
-
-# Talks[English]
-
-# Talks[中文]
-
-# Work experience[English]
-
-# Work experience[中文]
-
-# Publication[English]
-
-# Publication[中文]
-
-# Information Reference
 
 # Notes
