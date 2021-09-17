@@ -214,6 +214,6 @@ I am a teacher who wants to learn all the unknowns and a researcher who is fond 
 - homepage: https://statistics.fas.harvard.edu/people/jun-s-liu
 - personal website: http://sites.fas.harvard.edu/~junliu/
 - Mathematics Genealogy Project: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=40891
-- wikipedia: https://en.wikipedia.org/wiki/Donald_Rubin
+- wikipedia: https://en.wikipedia.org/wiki/Jun_S._Liu
 
 # Notes
