@@ -103,7 +103,7 @@ My research interests are in partial differential equations, mathematical analys
 # Education[English]
 
 - 2012, Department of Mathematics, University of Texas at Austin, Ph.D.
-- 2006, Department of Mathematical Sciences, Carnegie Mellon University, M.S. & B.A.
+- 2006, Department of Mathematical Sciences, Carnegie Mellon University, M.S. & B.S.
 
 # Education[中文]
 

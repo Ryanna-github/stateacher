@@ -100,7 +100,7 @@ Inverse Problems theory with applications in geophysical and medical imaging, an
 
 # Education[English]
 
-- 1993, Ecole Polytechnique, B.A.
+- 1993, Ecole Polytechnique, B.S.
 - 1997, University of Paris VI, Ph.D.
 
 # Education[中文]

@@ -102,7 +102,7 @@ Random walks, Brownian motion and applications to lattice models in statistical 
 
 - 1979, Princeton University, Ph.D.
 - 1977, Princeton University, M.S.
-- 1976, University of Virginia, B.A.
+- 1976, University of Virginia, B.S.
 
 # Education[中文]
 

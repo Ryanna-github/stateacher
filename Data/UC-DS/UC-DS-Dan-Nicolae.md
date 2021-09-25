@@ -102,7 +102,7 @@ My major research interests are in the areas of statistical genetics and mathema
 
 # Education[English]
 
-- 1995, University of Bucharest, B.A.
+- 1995, University of Bucharest, B.S.
 - 1999, Department of Statistics, University of Chicago, Ph.D.
 
 # Education[中文]

@@ -106,9 +106,9 @@ Before the University of Chicago, I was an NSF postdoctoral fellow in the **[Dep
 
 # Education[English]
 
-**2007-2012 Saint Petersburg State University, Department of Pure Mathematics, Bachelor**
+2007-2012, Saint Petersburg State University, Department of Pure Mathematics, B.S.
 
-**2012-2017 Massachusetts Institute of Technology, Department of Mathematics, Ph.D**
+2012-2017, Massachusetts Institute of Technology, Department of Mathematics, Ph.D
 
 # Education[中文]
 

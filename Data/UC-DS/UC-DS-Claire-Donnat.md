@@ -123,7 +123,7 @@ In this context, **from the methods perspective**, the research directions that 
 
 # Education[English]
 
-- 2015, Ecole Polytechnique, Applied Mathematics and Data Science, B.A
+- 2015, Ecole Polytechnique, Applied Mathematics and Data Science, B.S.
 - 2020, Stanford University, Ph.D.
 
 # Education[中文]

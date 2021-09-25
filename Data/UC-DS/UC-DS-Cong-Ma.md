@@ -108,7 +108,7 @@ I'm broadly interested in the mathematics of data science, with a focus on the i
 
 # Education[English]
 
-- 2015, Tsinghua University, Electrical Engineering, B.A.
+- 2015, Tsinghua University, Electrical Engineering, B.S.
 - 2020, Princeton University, Ph.D.
 
 # Education[中文]

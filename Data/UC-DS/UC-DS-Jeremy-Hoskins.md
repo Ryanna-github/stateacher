@@ -108,7 +108,7 @@ I am interested in problems at the interface between physics, computation, and m
 
 - 2012-2017, University of Michigan, Ph.D.
 - 2011-2012, University of British Columbia, M.S.
-- 2007-2011, University of British Columbia, B.A.
+- 2007-2011, University of British Columbia, B.S.
 
 # Education[中文]
 
