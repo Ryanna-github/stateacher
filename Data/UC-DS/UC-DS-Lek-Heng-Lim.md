@@ -61,10 +61,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: Topological Control for Time Aware Machine Intelligence
   - 
     with: 
-    project: Young Faculty Award Program: Statistical Inference on Grassmannians
+    project: Statistical Inference on Grassmannians
   - 
     with: 
-    project: Collaborative Research: Geometric Harmonic Analysis in Learning and Inference 
+    project: Geometric Harmonic Analysis in Learning and Inference 
   - 
     with: 
     project: Computational and Applied Mathematics in Statistical Science
