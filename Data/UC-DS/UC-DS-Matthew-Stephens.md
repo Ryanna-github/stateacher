@@ -4,7 +4,7 @@ bio-current:
   name-en: Matthew Stephens
   email: 
     - stephens@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
-  sex: # male
+  sex: male
   birth-date: # yyyy 到年即可
   university: University of Chicago 
   school: Dept, of Statistics [https://stat.uchicago.edu/] # 格式：学院名称[学院官网链接]
