@@ -77,7 +77,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
   school: Department of Statistics
   email: 
   date-start: 2017
-  date-end:2020 
+  date-end: 2020 
   advisor: 
     - David Blei [http://www.cs.columbia.edu/~blei/]
     - Peter Orbanz [http://stat.columbia.edu/~porbanz/]
