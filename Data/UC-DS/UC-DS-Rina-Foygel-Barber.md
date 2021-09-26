@@ -78,7 +78,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
   school: Department of Statistics
   email: 
   date-start: 2012
-  date-end:2013 
+  date-end: 2013 
   advisor: Emmanuel Candès[http://www-stat.stanford.edu/~candes/]
 ---
 
