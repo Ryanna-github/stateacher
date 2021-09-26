@@ -58,7 +58,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
 collaboration: # 合作研究，关注学者和其他哪些学科的人合作，具体研究哪些主题
   - 
     with: # 合作者
-    project: Time-Aware Machine Learning Program: Topological Control for Time Aware Machine Intelligence
+    project: Topological Control for Time Aware Machine Intelligence
   - 
     with: 
     project: Young Faculty Award Program: Statistical Inference on Grassmannians
