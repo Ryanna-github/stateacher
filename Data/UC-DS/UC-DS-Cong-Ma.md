@@ -9,15 +9,15 @@ bio-current:
   university: University of Chicago 
   school: Dept, of Statistics [https://stat.uchicago.edu/] # 格式：学院名称[学院官网链接]
   major: 
+  title-raw: Assistant Professor
+  title: Assistant Professor
+  interests: # 分点罗列，依次以 ‘-’ 开头
     - mathematics of data science
     - interplay between statistics and optimization
     - reinforcement learning
     - high-dimensional statistics
     - signal processing
     - convex and nonconvex optimization
-  title-raw: Assistant Professor
-  title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://stat.uchicago.edu/people/profile/cong-ma/
     - https://congma1028.github.io/index.html
