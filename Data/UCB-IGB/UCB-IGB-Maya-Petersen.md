@@ -5,7 +5,7 @@ bio-current:
   email: mayaliv@berkeley.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female
   birth-date: # yyyy 到年即可
-  university: 
+  university: UC Berkelry
   school: public health [https://publichealth.berkeley.edu/] # 格式：学院名称 [学院官网链接]
   major: 
   title-raw: Associate Professor Epidemiology and Biostatistics # 主页原始字符串
