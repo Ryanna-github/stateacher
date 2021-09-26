@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Stephen M. Stigler
+  name-en: Stephen M. Stigler
   email: 
     - stigler@uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

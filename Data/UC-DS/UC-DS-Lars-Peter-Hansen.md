@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Lars Peter Hansen
+  name-en: Lars Peter Hansen
   email: 
     - lhansen@uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

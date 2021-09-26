@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Brent Doiron
+  name-en: Brent Doiron
   email: 
     - bdoiron@uchicago.edu
   sex: male

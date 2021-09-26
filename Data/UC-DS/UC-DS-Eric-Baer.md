@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Eric Baer
+  name-en: Eric Baer
   email: 
     - ebaer@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

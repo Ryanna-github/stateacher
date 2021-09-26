@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Peter McCullagh
+  name-en: Peter McCullagh
   email: 
     - pmcc@galton.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

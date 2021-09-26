@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Cong Ma
+  name-en: Cong Ma
   email: 
     - congm@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male/

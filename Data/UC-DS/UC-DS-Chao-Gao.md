@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Chao Gao
+  name-en: Chao Gao
   email: 
     - chaogao@statistics.uchicago.edu
   sex: male

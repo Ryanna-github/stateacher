@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Alisa Knizel
+  name-en: Alisa Knizel
   email: 
     - aknizel@statistics.uchicago.edu
   sex: female

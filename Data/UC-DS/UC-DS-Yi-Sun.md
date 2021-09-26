@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Yi Sun
+  name-en: Yi Sun
   email: 
     - yisun@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

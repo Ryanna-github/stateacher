@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Guillaume Bal
+  name-en: Guillaume Bal
   email: 
     - guillaumebal@uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

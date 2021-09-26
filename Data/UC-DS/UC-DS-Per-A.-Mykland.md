@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Per A. Mykland
+  name-en: Per A. Mykland
   email: 
     - mykland@galton.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

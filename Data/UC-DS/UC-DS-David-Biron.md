@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David Biron
+  name-en: David Biron
   email: 
     - dbiron@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

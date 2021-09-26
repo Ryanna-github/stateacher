@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Risi Kondor
+  name-en: Risi Kondor
   email: 
     - risi@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

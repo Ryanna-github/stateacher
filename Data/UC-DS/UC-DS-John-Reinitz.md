@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: John Reinitz
+  name-en: John Reinitz
   email: 
     - reinitz@galton.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

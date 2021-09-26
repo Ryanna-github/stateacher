@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Rina Foygel Barber
+  name-en: Rina Foygel Barber
   email: 
     - rina@uchicago.edu # 如果有多个邮箱，请都填写上
   sex: female

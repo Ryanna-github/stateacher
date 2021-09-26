@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Gregory F. Lawler
+  name-en: Gregory F. Lawler
   email: 
     - lawler@math.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

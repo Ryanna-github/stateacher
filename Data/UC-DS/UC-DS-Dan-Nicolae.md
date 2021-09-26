@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Dan Nicolae
+  name-en: Dan Nicolae
   email: 
     - nicolae@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

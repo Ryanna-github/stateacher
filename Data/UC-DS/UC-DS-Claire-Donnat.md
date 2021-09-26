@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Claire Donnat
+  name-en: Claire Donnat
   email: 
     - cdonnat@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: female

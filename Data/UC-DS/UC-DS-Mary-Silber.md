@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Mary Silber
+  name-en: Mary Silber
   email: 
     - msilber@uchicago.edu # 如果有多个邮箱，请都填写上
   sex: female

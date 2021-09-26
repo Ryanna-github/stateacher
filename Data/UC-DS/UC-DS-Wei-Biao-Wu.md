@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Wei-Biao Wu
+  name-en: Wei-Biao Wu
   email: 
     - wbwu@galton.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: male

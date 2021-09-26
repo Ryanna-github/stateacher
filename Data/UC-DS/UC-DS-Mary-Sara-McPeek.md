@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Mary Sara McPeek
+  name-en: Mary Sara McPeek
   email: 
     - mcpeek@statistics.uchicago.edu # 如果有多个邮箱，请都填写上
   sex: female
