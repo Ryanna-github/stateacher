@@ -17,8 +17,7 @@ bio-current:
     - methods to detect association with copy number variation
     - methods for genetic analysis in isolated populations
     - relationship inference
-    - quasi-likelihood methods, problems of incomplete data, and
-applications of random matrix theory in statistical genetics
+    - quasi-likelihood methods, problems of incomplete data, and applications of random matrix theory in statistical genetics
   homepage: 
     - https://stat.uchicago.edu/people/profile/mary-sara-mcpeek/ # 如果有多个主页，请都填写上
     - https://www.stat.uchicago.edu/~mcpeek/
