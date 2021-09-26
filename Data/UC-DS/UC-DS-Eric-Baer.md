@@ -10,7 +10,7 @@ bio-current:
   school: Dept, of Statistics [https://stat.uchicago.edu/] # 格式：学院名称[学院官网链接]
   major: 
   title-raw: Assistant Senior Instructional Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title: Assistant Professor
   interests: 
     - calculus of variations
     - partial differential equations
