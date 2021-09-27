@@ -4,14 +4,15 @@
 ---
 
 ```{r, echo=FALSE, warning=FALSE}
-args <- commandArgs(T)
-folder <- args[1]
+# args <- commandArgs(T)
+# folder <- args[1]
 # folder <- "CMU-DS"
+# print(folder)
 
 library(yaml)
 library(formattable)
 
-setwd(paste0("C:/Users/RY/git/stateacher/Data/", folder, '/'))
+# setwd(paste0("C:/Users/RY/git/stateacher/Data/", folder, '/'))
 f <- list.files(pattern = paste0('.*md$'))
 f_yaml_length <- unlist(lapply(f, function(x) length(unlist(yaml.load_file(x)))))
 
