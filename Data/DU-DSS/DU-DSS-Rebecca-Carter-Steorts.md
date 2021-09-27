@@ -72,11 +72,6 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
   - "Savage" Research Group
-      Brenda Betancourt (Postdoctoral Fellow)
-      Bai Li (MS student, Statistical Science)
-      Reuben McCreanor (MS student, Statistical Science and Economics)
-      Angie Shen (Undergraduate student, Statistical Science)
-      Corey Vernot (Undergraduate student, Statistical Science)
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Duke University 
   school: Department of Statistical Science 
