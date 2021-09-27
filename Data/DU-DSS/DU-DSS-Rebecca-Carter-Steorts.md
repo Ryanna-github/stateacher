@@ -71,7 +71,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
-  - "Savage" Research Group
+  - Savage Research Group
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Duke University 
   school: Department of Statistical Science 
