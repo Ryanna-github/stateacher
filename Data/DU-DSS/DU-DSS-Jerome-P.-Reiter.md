@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jerome P. Reiter
+  name-en: Jerome P. Reiter
   email: 
     - jreiter@duke.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

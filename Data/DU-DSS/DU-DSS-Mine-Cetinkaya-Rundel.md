@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Mine Cetinkaya-Rundel
+  name-en: Mine Cetinkaya-Rundel
   email: 
     - mc301@duke.edu # 如果有多个邮箱，请都填写上
     - cetinkaya.mine@gmail.com

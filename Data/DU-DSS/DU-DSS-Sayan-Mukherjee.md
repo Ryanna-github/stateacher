@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Sayan Mukherjee
+  name-en: Sayan Mukherjee
   email: 
     - sayan.mukherjee@duke.edu # 如果有多个邮箱，请都填写上
   sex: male

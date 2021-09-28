@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jerome Sacks
+  name-en: Jerome Sacks
   email: 
     - JSacks@niss.org # 如果有多个邮箱，请都填写上
   sex: male # male/female

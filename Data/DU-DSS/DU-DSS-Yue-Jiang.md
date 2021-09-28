@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Yue Jiang
+  name-en: Yue Jiang
   email: 
     - yue.jiang@duke.edu # 如果有多个邮箱，请都填写上
   sex: male

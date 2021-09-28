@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Robert L. Wolpert
+  name-en: Robert L. Wolpert
   email: 
     - rlw@duke.edu # 如果有多个邮箱，请都填写上
   sex: male

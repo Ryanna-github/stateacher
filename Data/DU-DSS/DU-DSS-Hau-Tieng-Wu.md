@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 吳浩榳
-  name_en: Hau-Tieng Wu
+  name-en: Hau-Tieng Wu
   email: # 如果有多个邮箱，请都填写上
     - hau.tieng.wu@duke.edu 
   sex: male # male/female

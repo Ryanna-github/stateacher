@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Amy H Herring
+  name-en: Amy H Herring
   email: 
     - amy.herring@duke.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

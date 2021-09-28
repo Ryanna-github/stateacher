@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David L. Banks
+  name-en: David L. Banks
   email: 
     - david.banks@duke.edu # 如果有多个邮箱，请都填写上
     - banks@stat.duke.edu

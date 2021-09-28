@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David B. Dunson
+  name-en: David B. Dunson
   email: 
     - dunson@duke.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Merlise Clyde
+  name-en: Merlise Clyde
   email: 
     - clyde@duke.edu # 如果有多个邮箱，请都填写上
   sex: female # male/female

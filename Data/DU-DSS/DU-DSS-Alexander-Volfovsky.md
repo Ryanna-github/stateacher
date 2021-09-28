@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Alexander Volfovsky
+  name-en: Alexander Volfovsky
   email: 
     - alexander.volfovsky@duke.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

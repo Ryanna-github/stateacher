@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Peter David Hoff
+  name-en: Peter David Hoff
   email: 
     - peter.hoff@duke.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

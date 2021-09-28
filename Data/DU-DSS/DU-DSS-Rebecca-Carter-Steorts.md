@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Rebecca Carter Steorts
+  name-en: Rebecca Carter Steorts
   email: 
     - rebecca.steorts@duke.edu
     - MYNICKNAME@stat.duke.edu  # 如果有多个邮箱，请都填写上

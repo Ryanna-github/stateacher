@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Eric Laber
+  name-en: Eric Laber
   email: 
     - eric.laber@duke.edu # 如果有多个邮箱，请都填写上
   sex: male # male/female

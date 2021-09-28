@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Donald Burdick
+  name-en: Donald Burdick
   email:  # 如果有多个邮箱，请都填写上
   sex: male # male/female
   birth-date: # yyyy 到年即可

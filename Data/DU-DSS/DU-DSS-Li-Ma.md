@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Li Ma
+  name-en: Li Ma
   email:  # 如果有多个邮箱，请都填写上
     - li.ma@duke.edu
   sex: male # male/female

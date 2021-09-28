@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Surya Tapas Tokdar
+  name-en: Surya Tapas Tokdar
   email: 
     - tokdar@stat.duke.edu # 如果有多个邮箱，请都填写上
     - st118@stat.duke.edu
