@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Amir Dembo
+  name-en: Amir Dembo
   email: adembo@stanford.edu  # 如果有多个邮箱，请都填写上
   sex: male
   birth-date: # yyyy 到年即可
