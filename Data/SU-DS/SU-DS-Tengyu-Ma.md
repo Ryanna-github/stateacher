@@ -20,7 +20,7 @@ bio-current:
     - http://ai.stanford.edu/~tengyuma/
     - https://dblp.uni-trier.de/pers/hd/m/Ma:Tengyu
   github: 
-  googlescholar:  https://scholar.google.com/citations?user=i38QlUwAAAAJ&hl=en 
+  googlescholar: https://scholar.google.com/citations?user=i38QlUwAAAAJ&hl=en 
   aminer: https://www.aminer.cn/profile/tengyu-ma/53f46708dabfaec09f242380
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
@@ -40,8 +40,8 @@ edu-master: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Tsinghua University
+  school: 
   major: Computer Science
-  major: 
   date-start: 2008
   date-end: 2012
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
