@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Emmanuel J. Cands
+  name_en: Emmanuel J. Candès
   email: candes@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可
