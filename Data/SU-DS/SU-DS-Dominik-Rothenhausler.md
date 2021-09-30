@@ -17,7 +17,7 @@ bio-current:
     - graphical models
     - heterogeneous data
   homepage: 
-    - https://statistics.stanford.edu/people/dominik-rothenhausler
+    - https://statistics.stanford.edu/people/dominik-rothenh%C3%A4usler
     - https://sites.google.com/view/rothenhaeusler/home
   github: 
   googlescholar: https://scholar.google.com/citations?user=8vdua9wAAAAJ&hl=en 
