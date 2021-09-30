@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Art B. Owen
+  name-en: Art B. Owen
   email: owenEagle@stanfordPenguin.edu
   sex: male
   birth-date: # yyyy 到年即可

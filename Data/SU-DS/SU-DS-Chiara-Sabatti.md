@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Chiara Sabatti
+  name-en: Chiara Sabatti
   email: sabatti@stanford.edu
   sex: female
   birth-date: # yyyy 到年即可

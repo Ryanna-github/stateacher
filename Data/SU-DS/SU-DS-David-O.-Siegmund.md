@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David O. Siegmund
+  name-en: David O. Siegmund
   email: donoho@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

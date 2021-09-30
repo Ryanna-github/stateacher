@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Jonathan Taylor
+  name-en: Jonathan Taylor
   email: jonathan.taylor@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

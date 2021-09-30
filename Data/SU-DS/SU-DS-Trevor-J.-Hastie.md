@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Trevor J. Hastie
+  name-en: Trevor J. Hastie
   email: 
     - hastie.web.stanford.edu
     - hastie@stanford.edu

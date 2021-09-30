@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Susan Holmes
+  name-en: Susan Holmes
   email: 
     -  # 如果有多个邮箱，请都填写上
   sex: female

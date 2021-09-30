@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Joseph P. Romano
+  name-en: Joseph P. Romano
   email: romano@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

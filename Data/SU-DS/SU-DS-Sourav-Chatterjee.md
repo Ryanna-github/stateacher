@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Sourav Chatterjee
+  name-en: Sourav Chatterjee
   email: souravc@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

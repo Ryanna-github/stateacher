@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Guenther Walther
+  name-en: Guenther Walther
   email: gwalther@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

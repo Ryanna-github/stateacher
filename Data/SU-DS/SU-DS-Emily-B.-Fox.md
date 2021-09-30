@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Emily B. Fox
+  name-en: Emily B. Fox
   email: ebfox@stanford.edu
   sex: female
   birth-date: # yyyy 到年即可

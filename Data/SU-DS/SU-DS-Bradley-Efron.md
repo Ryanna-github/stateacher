@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Bradley Efron
+  name-en: Bradley Efron
   email: brad@stat.stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

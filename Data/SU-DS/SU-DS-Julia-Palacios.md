@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Julia Palacios
+  name-en: Julia Palacios
   email: juliapr@stanford.edu
   sex: # male/female
   birth-date: # yyyy 到年即可

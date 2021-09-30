@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Tze Leung Lai
+  name-en: Tze Leung Lai
   email: lait@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

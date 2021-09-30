@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: John Duchi
+  name-en: John Duchi
   email: jduchi@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

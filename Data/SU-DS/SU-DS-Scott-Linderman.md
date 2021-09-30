@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Scott Linderman
+  name-en: Scott Linderman
   email: 
     - swl1@stanford.edu
     - scott.linderman@stanford.edu

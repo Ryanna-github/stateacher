@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Robert Tibshirani
+  name-en: Robert Tibshirani
   email: 494932tibs@stat.stanford.edu3849
   sex: male
   birth-date: # yyyy 到年即可

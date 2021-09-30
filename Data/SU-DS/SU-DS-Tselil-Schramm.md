@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Tselil Schramm
+  name-en: Tselil Schramm
   email: schramm@stanford.edu
   sex: female
   birth-date: # yyyy 到年即可

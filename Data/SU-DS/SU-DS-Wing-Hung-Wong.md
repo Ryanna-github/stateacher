@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 王永雄
-  name_en: Wing Hung Wong
+  name-en: Wing Hung Wong
   email: whwong@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

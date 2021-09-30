@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David Donoho
+  name-en: David Donoho
   email: donoho@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

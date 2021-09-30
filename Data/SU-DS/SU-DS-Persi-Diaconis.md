@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Persi Diaconis
+  name-en: Persi Diaconis
   email: diaconis@math.stanford.edu
   sex: # male/female
   birth-date: # yyyy 到年即可

@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Andrea Montanari
+  name-en: Andrea Montanari
   email: montanari@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

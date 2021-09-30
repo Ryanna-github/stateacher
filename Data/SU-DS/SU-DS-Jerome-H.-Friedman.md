@@ -1,7 +1,7 @@
 ---
 bio-current: 
   name-cn: 
-  name_en: Jerome H. Friedman
+  name-en: Jerome H. Friedman
   email: jhf@stat.stanford.edu
   sex: male
   birth-date: # yyyy 到年即可

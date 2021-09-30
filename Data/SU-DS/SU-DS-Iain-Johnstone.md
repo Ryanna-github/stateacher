@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Iain Johnstone
+  name-en: Iain Johnstone
   email: imj@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可
