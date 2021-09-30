@@ -2,8 +2,7 @@
 bio-current:
   name-cn: 
   name-en: Susan Holmes
-  email: 
-    -  # 如果有多个邮箱，请都填写上
+  email: susan@statford.edu
   sex: female
   birth-date: # yyyy 到年即可
   university: Stanford University 

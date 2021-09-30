@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name-en: Persi Diaconis
   email: diaconis@math.stanford.edu
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
   university: Stanford University 
   school: School of humanities & science [https://humsci.stanford.edu/]
