@@ -31,7 +31,7 @@ edu-phd:  # 读博经历
   date-start: 
   date-end: 1974
   advisor: # 格式：导师名 [邮箱/网址]
-  degree:hd
+  degree: phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: Harvard University
   school: Mathematical Statistics
