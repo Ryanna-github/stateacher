@@ -47,8 +47,7 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-start: 
   date-end: 
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
-  publication: 
-  https://statweb.stanford.edu/~susan/book-modern-statistics-for-modern-biology.html
+  publication: https://statweb.stanford.edu/~susan/book-modern-statistics-for-modern-biology.html
   research: 
     - https://statweb.stanford.edu/~susan/oldpapers.html
     - https://profiles.stanford.edu/susan-holmes?tab=publications
