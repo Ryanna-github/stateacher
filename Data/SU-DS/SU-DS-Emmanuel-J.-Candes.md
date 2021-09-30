@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Emmanuel J. Candès
+  name_en: Emmanuel J. Candes
   email: candes@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可
@@ -128,14 +128,14 @@ A copy of my CV is available here(https://cap.stanford.edu/profiles/viewCV?facul
 
 # Publication[English]
 
-- S. LiM. SesiaY. Romano\*,**E. Candès**\*,C. Sabatti Searching for consistent associations with a multi-environment knockoff filter. 2021.
-I. Gibbs\*,**E. Candès**\*, Adaptive conformal inference under distribution shift. 2021. (github:https://github.com/ISGibbs/AdaptiveConformal)
-- S. Bates\*,**E. Candès**\*L. LeiY. RomanoM. Sesia Testing for outliers with conformal p-values. arXiv preprint. 2021. (github:https://github.com/msesia/conditional-conformal-pvalues)
-- **E. Candès**,L. LeiZ. Ren Conformalized survival analysis. 2021.(github:https://github.com/zhimeir/cfsurvival)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/ConformalSurvivalAnalysis.pdf)(Website&code:https://zhimeir.github.io/cfsurvival/index.html)
-- D. Medarametla\*,**E. Candès**\* Distribution-free conditional median inference. 2021.(github:https://github.com/dhruvm2/conditional-median-inference)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/MedianInference.pdf)
-- Z. RenY. Wei\*,**E. Candès**\* Derandomizing knockoffs. 2020.(github:https://github.com/zhimeir/derandomKnock)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/derandomizingKnockoffs.pdf)(Webiste&code:https://zhimeir.github.io/derandomKnock/index.html)
-- A. WeinsteinW. J. SuM. BogdanR. F. Barber\*,**E. J. Candès**\* A power analysis for knockoffs with the lasso coefficient-difference statistic. 2020.
-- L. Lei\*,**E. J. Candès** Conformal inference of counterfactuals and individual treatment effects. 2020. (github:https://github.com/lihualei71/cfcausalPaper/)(Website&code:https://zhimeir.github.io/derandomKnock/index.html)
+- S. LiM. SesiaY. Romano\*,**E. Candes**\*,C. Sabatti Searching for consistent associations with a multi-environment knockoff filter. 2021.
+I. Gibbs\*,**E. Candes**\*, Adaptive conformal inference under distribution shift. 2021. (github:https://github.com/ISGibbs/AdaptiveConformal)
+- S. Bates\*,**E. Candes**\*L. LeiY. RomanoM. Sesia Testing for outliers with conformal p-values. arXiv preprint. 2021. (github:https://github.com/msesia/conditional-conformal-pvalues)
+- **E. Candes**,L. LeiZ. Ren Conformalized survival analysis. 2021.(github:https://github.com/zhimeir/cfsurvival)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/ConformalSurvivalAnalysis.pdf)(Website&code:https://zhimeir.github.io/cfsurvival/index.html)
+- D. Medarametla\*,**E. Candes**\* Distribution-free conditional median inference. 2021.(github:https://github.com/dhruvm2/conditional-median-inference)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/MedianInference.pdf)
+- Z. RenY. Wei\*,**E. Candes**\* Derandomizing knockoffs. 2020.(github:https://github.com/zhimeir/derandomKnock)(PDF:https://statweb.stanford.edu/~candes/publications/downloads/derandomizingKnockoffs.pdf)(Webiste&code:https://zhimeir.github.io/derandomKnock/index.html)
+- A. WeinsteinW. J. SuM. BogdanR. F. Barber\*,**E. J. Candes**\* A power analysis for knockoffs with the lasso coefficient-difference statistic. 2020.
+- L. Lei\*,**E. J. Candes** Conformal inference of counterfactuals and individual treatment effects. 2020. (github:https://github.com/lihualei71/cfcausalPaper/)(Website&code:https://zhimeir.github.io/derandomKnock/index.html)
 
 # Publication[中文]
 

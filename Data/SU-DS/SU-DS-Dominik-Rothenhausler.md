@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Dominik Rothenhäusler
+  name_en: Dominik Rothenhausler
   email: rdominik@stanford.edu
   sex: male
   birth-date: # yyyy 到年即可
@@ -17,7 +17,7 @@ bio-current:
     - graphical models
     - heterogeneous data
   homepage: 
-    - https://statistics.stanford.edu/people/dominik-rothenh%C3%A4usler
+    - https://statistics.stanford.edu/people/dominik-rothenhausler
     - https://sites.google.com/view/rothenhaeusler/home
   github: 
   googlescholar: https://scholar.google.com/citations?user=8vdua9wAAAAJ&hl=en 
