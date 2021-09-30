@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name-en: Julia Palacios
   email: juliapr@stanford.edu
-  sex: # male/female
+  sex: female
   birth-date: # yyyy 到年即可
   university: Stanford University 
   school: School of humanities & science [https://humsci.stanford.edu/]
