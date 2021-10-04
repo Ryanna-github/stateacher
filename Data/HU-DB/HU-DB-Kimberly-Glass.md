@@ -11,7 +11,8 @@ bio-current:
   major: Biostatistics
   title-raw: Assistant Professor # 主页原始字符串
   title: Associate Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - None # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.hsph.harvard.edu/kimberly-glass/
     - https://connects.catalyst.harvard.edu/Profiles/display/Person/88900

@@ -11,13 +11,14 @@ bio-current:
   major: Biostatistics
   title-raw: Assistant Professor # 主页原始字符串
   title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - None # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - http://www.hsph.harvard.edu/rajarshi-mukherjee 
     - https://scholar.harvard.edu/rajarshi # 如果有多个主页，请都填写上
   github: 
   googlescholar: https://scholar.google.com/citations?hl=zh-CN&user=hiOfejkAAAAJ
-  aminer: # 从这里查找 https://www.aminer.org/search/person
+  aminer: None # 从这里查找 https://www.aminer.org/search/person
   status: 在职
   last-update: 2017-10-dd # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历

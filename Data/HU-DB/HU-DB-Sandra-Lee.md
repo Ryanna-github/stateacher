@@ -4,20 +4,21 @@ bio-current:
   name-en: Sandra Lee
   email: 
     - sjlee@jimmy.harvard.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: Unknown
   birth-date: # yyyy 到年即可
   university: Harvard University 
   school: Dept, of Biostatistics [https://www.hsph.harvard.edu/biostatistics] # 格式：学院名称[学院官网链接]
   major: Biostatistics
   title-raw: Assistant Professor # 主页原始字符串
   title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - None # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://www.hsph.harvard.edu/sandra-lee/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  aminer: None # 从这里查找 https://www.aminer.org/search/person
+  status: Unknown # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 

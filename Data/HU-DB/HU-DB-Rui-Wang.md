@@ -11,12 +11,16 @@ bio-current:
   major: Biostatistics
   title-raw: Associate Professor # 主页原始字符串
   title: Associate Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - design
+    - monitoring
+    - analysis of parallel 
+    - stepped-wedge cluster randomized trials # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://www.hsph.harvard.edu/rui-wang/ # 如果有多个主页，请都填写上
   github: 
   googlescholar: https://scholar.google.com/citations?hl=zh-CN&user=R9nDQdwAAAAJ 
-  aminer: # 从这里查找 https://www.aminer.org/search/person
+  aminer: Unknown # 从这里查找 https://www.aminer.org/search/person
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历

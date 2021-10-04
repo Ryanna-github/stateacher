@@ -11,7 +11,8 @@ bio-current:
   major: 	Biostatistics
   title-raw: Associate Professor # 主页原始字符串
   title: Associate Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - None # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://www.hsph.harvard.edu/brian-healy/ 
     - https://connects.catalyst.harvard.edu/Profiles/display/Person/10003

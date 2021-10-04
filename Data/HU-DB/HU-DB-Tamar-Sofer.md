@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Tamar Sofer
+  name-en: Tamar Sofer
   email: 
     - tsofer@bwh.harvard.edu # 如果有多个邮箱，请都填写上
   sex: female

@@ -19,7 +19,7 @@ bio-current:
     - https://www.haberlab.org/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  https://scholar.google.com/citations?hl=zh-CN&user=L6QLwDQAAAAJ
-  aminer: # 从这里查找 https://www.aminer.org/search/person
+  aminer: None # 从这里查找 https://www.aminer.org/search/person
   status: 在职
   last-update: 2021-04-20 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历

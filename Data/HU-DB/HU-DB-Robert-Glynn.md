@@ -16,7 +16,7 @@ bio-current:
     - https://www.hsph.harvard.edu/robert-glynn/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
+  aminer: Unknown # 从这里查找 https://www.aminer.org/search/person
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
