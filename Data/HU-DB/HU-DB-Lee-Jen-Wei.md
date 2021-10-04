@@ -11,7 +11,8 @@ bio-current:
   major: Biostatistics
   title-raw: Professor # 主页原始字符串
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - None # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://www.hsph.harvard.edu/l-wei/ # 如果有多个主页，请都填写上
   github: 
