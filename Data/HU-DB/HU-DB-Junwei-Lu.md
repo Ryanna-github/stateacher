@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 陆俊伟
-  name_en: Junwei Lu
+  name-en: Junwei Lu
   email: 
     - junweilu@hsph.harvard.edu # 如果有多个邮箱，请都填写上
   sex: male
