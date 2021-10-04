@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Marcello Pagano
+  name-en: Marcello Pagano
   email: 
     - pagano@hsph.harvard.edu # 如果有多个邮箱，请都填写上
   sex: male
