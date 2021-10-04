@@ -27,7 +27,7 @@ bio-current:
   github: 
   googlescholar: https://scholar.google.com/citations?hl=zh-CN&user=NXPvUDoAAAAJ 
   aminer: https://www.aminer.cn/profile/hedt-gauthier-bethany/562bb35745cedb3398b09abb
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Harvard University
