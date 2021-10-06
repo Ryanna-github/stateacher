@@ -9,7 +9,7 @@ bio-current:
   university: Duke University 
   school: 
     - Department of Statistical Science [https://stat.duke.edu/]  # 格式：学院名称[学院官网链接]
-    - Nicholas School of the Environment
+    - Nicholas School of the Environment [https://nicholas.duke.edu/]
   major: Statistical Science
   title-raw: Professor Emeritus of Statistical Science # 主页原始字符串
   title: Professor
@@ -29,7 +29,7 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=VjQrBlsAAAAJ&hl=en 
   aminer: https://www.aminer.cn/profile/robert-l-wolpert/53f46edadabfaee4dc86fbe0 # 从这里查找 https://www.aminer.org/search/person
   status: 在职
-  last-update: 2021-09-25 # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Princeton University
   school: Department of Mathematics  

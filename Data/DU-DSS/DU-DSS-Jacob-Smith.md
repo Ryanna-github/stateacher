@@ -12,13 +12,15 @@ bio-current:
   title-raw: Assistant Research Professor of Statistical Science # 主页原始字符串
   title: Assistant Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Regression Analysis # 不确定具体的研究方向，这些兴趣是从这位学者的发表文章内容估计得出的
+    - Politics 
   homepage: 
     - https://scholars.duke.edu/person/jacob.f.smith # 如果有多个主页，请都填写上
   github: 
   googlescholar: https://scholar.google.com/citations?user=PAgb8ugAAAAJ&hl=zh-CN&oi=sra
   aminer: # 从这里查找 https://www.aminer.org/search/person
   status: 在职 # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of North Carolina - Chapel Hill 
   school: Political Science

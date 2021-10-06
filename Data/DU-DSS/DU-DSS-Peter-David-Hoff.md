@@ -12,6 +12,11 @@ bio-current:
   title-raw: Professor of Statistical Science # 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Bayesian Inference
+    - Social Network
+    - Markov Chain Monte Carlo
+    - Relational Data
+    - Latent Variable Model
   homepage: 
     - https://scholars.duke.edu/person/pdhoff # 如果有多个主页，请都填写上
     - https://pdhoff.github.io/
@@ -21,7 +26,7 @@ bio-current:
   googlescholar:  
   aminer: https://www.aminer.cn/profile/peter-d-hoff/53f4623fdabfaeee22a4456a # 从这里查找 https://www.aminer.org/search/person
   status: 在职 # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Wisconsin  
   school: Statistics 
@@ -34,7 +39,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   university: University of Wisconsin 
   school: Statistics 
   date-start: 
-  date-end: 1994
+  date-end: 1994 #Duke主页显示1994和个人主页上显示1995不一致，不确定哪个正确
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Indiana University 
@@ -141,4 +146,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Information Reference
 - homepage： https://scholars.duke.edu/person/pdhoff
 - personal site: https://pdhoff.github.io/
+- aminer: https://www.aminer.cn/profile/peter-d-hoff/53f4623fdabfaeee22a4456a
 # Notes

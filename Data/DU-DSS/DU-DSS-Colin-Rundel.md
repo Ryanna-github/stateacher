@@ -12,13 +12,14 @@ bio-current:
   title-raw: Assistant Professor of the Practice of Statistical Science # 主页原始字符串
   title: Assistant Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Data Science # 无法确定这位学者的研究兴趣
   homepage: 
     - https://scholars.duke.edu/person/colin.rundel # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/profile/rundel-colin-w/560e4dab45ce1e59612c710b # 从这里查找 https://www.aminer.org/search/person
   status: 在职 # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of California, Los Angeles 
   school: Statistics
@@ -129,5 +130,6 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
-   - homepage: https://scholars.duke.edu/person/colin.rundel
+- homepage: https://scholars.duke.edu/person/colin.rundel
+- aminer: https://www.aminer.cn/profile/rundel-colin-w/560e4dab45ce1e59612c710b
 # Notes

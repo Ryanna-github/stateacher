@@ -8,8 +8,8 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Duke University 
   school: 
-    - Department of Statistical Science[http://stat.duke.edu/]
-    - Department of Electrical and Computer Engineering[http://ece.duke.edu/]
+    - Department of Statistical Science [http://stat.duke.edu/]
+    - Department of Electrical and Computer Engineering [http://ece.duke.edu/]
   major: 
     - Statistical Science
     - Electrical and Computer Engineering
@@ -30,10 +30,10 @@ bio-current:
   googlescholar: https://scholar.google.com/citations?user=kxyFeAIAAAAJ&hl=en  
   aminer: https://www.aminer.cn/profile/galen-reeves/53f4541fdabfaefedbb484e9 # 从这里查找 https://www.aminer.org/search/person
   status: 在职 # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of California - Berkeley
-  school: Information and communication, circuits
+  school: Electrical Engineering and Computer Sciences
   email: 
   date-start: 
   date-end: 2011
@@ -86,11 +86,11 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
   title: Associate Professor
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
-  university: 
-  school: 
+  university: Stanford University
+  school: Statistics
   email: 
-  date-start: 
-  date-end: 
+  date-start: 2011
+  date-end: 2013
   advisor: 
 ---
 
@@ -120,7 +120,7 @@ Galen Reeves joined the faculty at Duke University in Fall 2013, and is currentl
 # Education[中文]
 
 # Awards[English]
-
+- NSF CAREER award, 2017
 # Awards[中文]
 
 # Talks[English]

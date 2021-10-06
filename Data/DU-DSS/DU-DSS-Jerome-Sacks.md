@@ -12,6 +12,8 @@ bio-current:
   title-raw: Professor Emeritus of Statistical Science # 主页原始字符串
   title: Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Computer Experiment
+    - Gaussian Process Models
   homepage: 
     - https://stat.duke.edu/jerome-sacks # 如果有多个主页，请都填写上
   github: 
@@ -19,8 +21,8 @@ bio-current:
   aminer: # 从这里查找 https://www.aminer.org/search/person
     - https://www.aminer.cn/profile/jerome-sacks/54486589dabfae87b7e192e9
     - https://www.aminer.cn/profile/j-sacks/53f43489dabfaedd74d8ef02
-  status: # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  status: 退休 # 不太确定
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Cornell University
   school: Statistics
@@ -117,4 +119,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Information Reference
 - homepage: https://stat.duke.edu/jerome-sacks
+- aminer: https://www.aminer.cn/profile/jerome-sacks/54486589dabfae87b7e192e9
 # Notes

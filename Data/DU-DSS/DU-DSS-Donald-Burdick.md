@@ -11,13 +11,15 @@ bio-current:
   title-raw: Associate Professor Emeritus of Statistical Science # 主页原始字符串
   title: Associate Professor # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Computer Simulation
+    - Experimental Design #来源于aminer,无法保证正确性
   homepage: 
     - https://stat.duke.edu/donald-burdick # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/profile/donald-s-burdick/53f46018dabfaee4dc8350d7 # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
-  last-update: 2021-09-26 # yyyy-mm-dd 最近一次信息更新日期
+  status: 退休 # 不太确定
+  last-update: 2021-10-06 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: Princeton University
   school: 
@@ -33,7 +35,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
   date-end: 
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
+  university: Duke University
   school: 
   major: 
   date-start: 
@@ -113,4 +115,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Information Reference
 - Mathematics Genealogy Project: https://www.mathgenealogy.org/id.php?id=35254
 - homepage: https://stat.duke.edu/donald-burdick
+- amier：https://www.aminer.cn/profile/donald-s-burdick/53f46018dabfaee4dc8350d7
 # Notes
