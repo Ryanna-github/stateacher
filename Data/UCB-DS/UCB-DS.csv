@@ -1,0 +1,223 @@
+﻿name,title,personemail,homepage,profile,status,introduction,research expertise and interests,research area
+David Aldous,"Professor, Emeritus and Professor of the Graduate School","  aldous@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/david-aldous,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/david3.jpg?h=30014525&itok=K3D3goM6,,"David Aldous is Professor in the Statistics Dept at U.C. Berkeley, since 1979. He received his Ph.D. from Cambridge University in 1977. He is the author of ""Probability Approximations via the Poisson Clumping Heuristic"" and (with Jim Fill) of a notorious unfinished online work ""Reversible Markov Chains and Random Walks on Graphs"". His research in mathematical probability has covered weak convergence, exchangeability, Markov chain mixing times, continuum random trees, stochastic coalescence and spatial random networks. A central theme has been the study of large finite random structures, obtaining asymptotic behavior as the size tends to infinity via consideration of some suitable infinite random structure. He has recently become interested in articulating critically what mathematical probability says about the real world.
+He is a Fellow of the Royal Society, and a foreign associate of the National Academy of Sciences.
+He does research in mathematical probability(link is external). A central theme(link is external) is the study of large finite random structures, obtaining asymptotic behavior as the size tends to infinity via consideration of some suitable infinite random structure. Much current work involves random network models.
+","analysis of algorithms, applied probability, complex networks, entropy, mathematical probability, phylogenetic trees, random networks, spatial networks, popularization of probability",Probability
+Peter Bartlett,Professor,"
+    
+              bartlett@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/peter-bartlett,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/Peter-Bartlett2.jpg?h=cdfd68d0&itok=hp_wnsMa,,"My research interests are in the areas of machine learning, statistical learning theory, and reinforcement learning. I work on the theoreticalanalysis of computationally efficient methods for large or otherwise complex prediction problems. One example is structured prediction problems, where there is considerable complexity to the space of possible predictions. Such methods are important in a variety of application areas, including natural language processing, computer vision, and bioinformatics. A second area of interest is the analysis of prediction methods in a deterministic, game-theoretic setting. As well as being of interest in areas such as computer security, where an adversarial environment is a reasonable model, this analysis also provides insight into the design and understanding of prediction methods in a probabilistic setting. A third area of interest is the design of methods for large scale sequential decision problems, such as control of Markov decision processes. Again, computational efficiency is a crucial requirement. This is a common feature in all of these areas: the interplay between the constraint of computational efficiency and the statistical properties of a method.
+","machine learning, statistical learning theory, adaptive control",Artificial Intelligence/Machine Learning
+Peter Bickel,"Professor Emeritus, and Professor of the Graduate School","
+    
+              bickel@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/peter-bickel,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/peter-j-bickel-33e113f0-bbec-43be-a0a3-73c9dc319cc-resize-750.jpeg?h=1b7b1bf0&itok=ePGJ3ZB0,,"My main theoretical interest is in understanding why we are able to do statistics as well as we do on very high dimensional datasets without knowing much, even though least favorable (malicious God) formulations suggest we should not be able to do anything. Currently this has led me to focus on estimation of covariance matrices and their eigenstructures in high dimensions. Parallel applied interests are in:
+
+ Computational biology, specifically at the moment regulatory networks in the cell. To my surprise some of the methods flowing out of my primary interest are relevant to this one.
+ Atmospheric sciences ... in part as a ready source of questions based on very high dimensional data.
+
+","statistics, machine learning, semiparametric models, asymptotic theory, hidden Markov models, applications to molecular biology",Applications in Biology and Medicine
+Andrew Bray,Teaching Professor,"
+    
+              andrewbray@berkeley.edu
+          ",https://statistics.berkeley.edu/people/andrew-bray,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/bray-andrew.jpg?h=82293e27&itok=eyjynmto,,"
+    Research Areas
+          
+              Applications in Biology and Medicine
+          Causal Inference and Graphical Models
+          Applications in the Social Sciences
+              
+      ","causal inference in experiments and observational studies, with applications to biomedical and social sciences; contaminated data including missing data, measurement error, and selection bias",Causal Inference and Graphical Models
+Jennifer Chayes,"Professor and Associate Provost and Dean, Division of Computing, Data Science, and Society","
+    
+              pengdingpku@berkeley.edu
+          ",https://statistics.berkeley.edu/people/jennifer-chayes,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/j_chayes_hi_res.jpeg?h=f2592931&itok=J-C_UQhK,,"My research and teaching activities concern the development and application of statistical and computational methods to address problems in biomedical and genomic research. The statistical inference questions are truly multivariate and involve the joint analysis of multiple, diverse, and high-dimensional datasets. High-throughput assays such as microarrays and next-generation sequencers allow biologists to monitor expression levels for entire genomes. A challenging task is to relate these genome-wide genotypes to biological and clinical covariates (e.g., age, sex, environmental exposure) and outcomes (e.g., cell type/state, affectedness/unaffectedness, survival time, response to treatment) as well as to the wealth of biological annotation metadata available on the web (e.g. Gene Ontology(link is external), KEGG pathways(link is external), PubMed literature(link is external)).
+Motivated by these biological challenges, my methodological research interests fall in the following two areas: loss-based estimation with cross-validation (parametric and non-parametric density estimation and regression, variable selection) and resampling-based multiple hypothesis testing. I am also interested in statistical computing and I am a core developer of the Bioconductor Project(link is external), an open-source and open-development software project for the analysis of biomedical and genomic data.
+","statistics, applied statistics, data science, statistical computing, computational biology and genomics",Applications in Biology and Medicine
+Peng Ding,Associate Professor,"
+    
+              sandrine@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/peng-ding,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/pengding.jpg?h=29e7d5b2&itok=PQpt6eJn,,"I am a probabilist and statistician working in the general area of stochastic processes and their applications. In the past, I have collaborated with Persi Diaconis and others on random matrices and various other aspects of probability on algebraic structures. I have numerous publications with Martin Barlow, Ed Perkins, Klaus Fleischmann, Tom Kurtz, Xiaowen Zhou, and Peter Donnelly on Dawson-Watanabe superprocesses and other measure-valued processes that arise in population biology, as well as with Jim Pitman on various coalescent models that appear in biology, chemistry and astrophysics. In the past, I have worked with Terry Speed, Mary Sara McPeek, Xiaowen Zhou, and others on phylogenetic invariants and interference regarding recombination.
+
+I share an ongoing interest in biodemography with David Steinsaltz and Ken Wachter that has resulted in papers on fitness landscapes, mutation-selection balance, stochastic PDE models of bacteria and yeast aging, and applications of quasistationarity to mortality modeling.
+
+I continue research on probability and real trees, particularly applications of ideas from metric geometry such as the Gromov-Hausdorff metric, some of it in collaboration with Tye Lidman, Jim Pitman, and Anita Winter. I am investigating tree statistics and most recent common ancestors in diploid populations with Erick Matsen. Monty Slatkin and I are researching allele frequency spectra for time-varying population sizes.
+
+I am in the middle of an extensive project involving Tandy Warnow, Don Ringe, Luay Nakhleh, and Francois Barbancon on several aspects of phylogenetic inference - particularly applications of computational phylogenetic methods in historical linguistics.
+
+I currently have students working on stepping stone models and coalescent sticky flows, the population genetics of hybrid zones, random matrices associated with Coxeter groups, random matrices arising from random trees and random networks, infinite-dimensional dynamical systems applied to mutation-selection balance, and connections between matrix-valued orthogonal polynomials and queuing theory.","large random combinatorial structures, random matrices, superprocesses & other measure-valued processes, probability on algebraic structures -particularly local fields, applications of stochastic processes to biodemography, mathematical finance, population genetics, phylogenetics & historical linguistics",Statistical Computing
+Sandrine Dudoit,Professor and Chair,"
+    
+              evans@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/sandrine-dudoit-0,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/duduit.jpg?h=5636fac4&itok=aClyBwNj,,"Avi Feller is an assistant professor in the Goldman School of Public Policy and the Department of Statistics at UC Berkeley. His methodological research centers on learning more from social policy evaluations, especially randomized experiments. His applied research focuses on working with governments on using data to design, implement, and evaluate policies. Prior to his doctoral studies, Feller served as Special Assistant to the Director at the White House Office of Management and Budget(link is external) and worked at the Center on Budget and Policy Priorities(link is external). Feller received a Ph.D. in Statistics from Harvard University, an M.Sc. in Applied Statistics as a Rhodes Scholar at the University of Oxford, and a B.A. in Political Science and Applied Mathematics from Yale University.
+","applied statistics, theoretical statistics, Bayesian statistics, machine learning, statistics in social sciences",Applications in Biology and Medicine
+Steven Evans,Professor,"
+    
+              afeller@berkeley.edu
+          ",https://statistics.berkeley.edu/people/steven-evans,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/steve%20evans.png?h=8ef68926&itok=PTmWqPZw,,"
+    Research Areas
+          
+              Applications in the Physical and Environmental Sciences
+          High Dimensional Data Analysis
+              
+      ",theoretical and applied statistics,Causal Inference and Graphical Models
+Avi Feller,Assistant Professor,"
+    
+              wfithian@berkeley.edu
+          ",https://statistics.berkeley.edu/people/avi-feller,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/headshot2.jpg?h=dd9cc957&itok=o7nZdWiT,,"Shirshendu Ganguly is interested in a wide range of problems in probability theory, statistical physics and related areas including Geometry of Polymers and other aspects of Disordered Environments, Phase Transitions in models of Self Organized Criticality, Random Matrices, Study of Sparse Combinatorial Structures, Markov chains and Random walks. 
+","models of percolation, phase transitions in statistical mechanics, mixing time of Markov chains, random walk on graphs, counting problems in non-linear sparse settings",Applications in the Physical and Environmental Sciences
+Will Fithian,Assistant Professor,"
+    
+              sganguly@berkeley.edu
+          ",https://statistics.berkeley.edu/people/will-fithian,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/will300x300.jpg?h=75a474ae&itok=GzWMYTsr,,"Adityanand Guntuboyina's research interests include nonparametric and high-dimensional statistics, shape constrained statistical estimation, empirical processes and statistical information theory. Here(link is external) is a list of his publications(link is external).
+","nonparametric and high-dimensional statistics, shape constrained statistical estimation, empirical processes, statistical information theory",Probability
+Shirshendu Ganguly,Associate Professor ,"
+    
+              agun@berkeley.edu
+          ",https://statistics.berkeley.edu/people/shirshendu-ganguly,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/photo-3_0_1.jpg?h=68c707e5&itok=l6crKnIm,,"
+    Research Areas
+          
+              Probability
+              
+      ","statistical mechanics, studied rigorously via modern techniques from mathematical probability",High Dimensional Data Analysis
+Adityanand Guntuboyina,Associate Professor,"
+    
+              alanmh@berkeley.edu
+          ",https://statistics.berkeley.edu/people/adityanand-guntuboyina,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/pasted-graphic-2.jpg?h=fce8e912&itok=tyzYHqG7,,"My research areas are in Computational Biology and Applied Statistics. Particularly, I am interested in solving practical problems in emerging bio data-intensive systems, and in understanding and developing theoretical principles of the practical methods. My current focuses are: 1) develop statistical methods that provide a consistent formulation between the statistical modeling and the biological nature of data, 2) understand and solve the problem of unreliable estimates in analyzing high dimensional structured data, and 3) tackle the challenges posed by the high level of noise and the lack of reproducibility in the datasets from different resources.
+","data analysis for dynamical systems and differential equations, machine learning and data mining, functional data analysis",Probability
+Alan Hammond,Associate Professor,"
+    
+              ghooker@berkeley.edu
+          ",https://statistics.berkeley.edu/people/alan-hammond-0,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/alanmh.jpg?h=e82fd9db&itok=G-jeOlX6,,"As a biostatistician, my research focuses on the application of novel statistical techniques to the design, analysis and interpretation of data arising from public health and clinical disease studies. I have a particular interest in epidemiological and intervention studies for infectious diseases. Particular applications include trials to reduce dengue fever worldwide and intervention trials to reduce HIV transmission in Africa  Recent work has also focused on Ebola vaccine studies and the epidemiology of COVID-19.  From a statistical point of view I am interested in survival analysis-- particularly current status data and other statistical methods for epidemiology, causal inference in intervention studies, cluster randomized trials, and longitudinal data analysis including trajectories. I am also involved in the use of statistics in human rights applications including the assessment of civilian casualties in times of conflict, and police killings of civilians in the US.
+
+Since arriving at the University of California, Berkeley in 1981, I have held various academic and administrative positions, including serving as Vice Provost from 1994 to 2000. I am currently a Professor of the Graduate School in Biostatistics and Statistics, while simultaneously holding a position as Chair of Biostatistics and Epidemiology at The London School of Hygiene and Tropical Medicine. Previously I served as an Assistant Professor of Statistics at Princeton University, and have held visiting appointments at the University of Edinburgh, Oxford University, the Karolinska Institutet, and the University of Kyoto. In 2007, I was a Fellow at the Rockefeller Foundation Bellagio Study Center in Italy.
+
+I am an elected member of the National Academy of Medicine. I am also a Fellow of the American Association for the Advancement of Science, the American Statistical Association, the Institute of Mathematical Statistics, the International Statistical Institute, and the Royal Statistical Society.  In 2012, I received the Marvin Zelen Leadership Award in Statistical Science from Harvard University, and am also the 2005 winner of the Snedecor Award from COPSS, as well as a winner of the Distinguished Teaching Award from the University of California, Berkeley's School of Public Health in 2004. In 2000, I was honored by the Director's Award from the Federal Emergency Management Agency for providing ""extraordinary leadership and vision in implementing strategies that enhance the disaster resistance of the University of California, Berkeley, and universities throughout America."" In addition, the 2005 Alfred E. Alquist Award was given to UC Berkeley's SAFER program that I launched and led for many years.
+
+I was educated at the University of Edinburgh, where I received a first class Honours degree in Applied Mathematics in 1973, and a doctorate in Mathematics in 1976. Following my graduate program, I was appointed to a Harkness Fellowship from 1976 to 1978, which I held at the University of California, Berkeley and at Stanford University.","high dimensional and integrative genomic data analysis, network modeling, hierarchical multi-label classification, translational bioinformatics",Statistical Computing
+Giles Hooker,Professor,"
+    
+              hhuang@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/giles-hooker,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/head5.jpg?h=4d7bd834&itok=GqvN5H4x,,"Jiantao Jiao is an assistant professor in Electrical Engineering and Computer Science.  His research has been focusing on the theory and system of robust learning, (inverse) reinforcement learning, the interplay between economics, statistics, and computation, and distributed (permissionless) systems.
+","infectious diseases (specifically HIV), chronic disease epidemiology, environmental epidemiology, survival analysis, human rights statistics",Applications in Biology and Medicine
+Haiyan Huang,Professor,"
+    
+              jewell@berkeley.edu
+          ",https://statistics.berkeley.edu/people/haiyan-huang,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/hhuang.png?h=2608151f&itok=0cLElQHi,,"I have interests that span the spectrum from theory to algorithms to applications. I'm most interested in problems that arise when working with non-traditional data types; examples I've worked with include document corpora, graphs, protein structures, phylogenies and multi-media signals. Working with these kinds of data types often leads one to work on problems of an unusually large scale, where classical methods can be infeasible on computational grounds. I've thus been interested in new computational methods for large-scale problems; specifically I've worked on the development of novel estimators using tools from constrained optimization theory and convex analysis. I'm also interested in the interface between probability theory and nonparametric statistics, particularly in the setting known as ""nonparametric Bayes"", where the prior distribution is a general stochastic process. Here ideas familiar in modern probability theory, such as the Chinese restaurant process and stick-breaking distributions, yield novel statistical models and novel inference procedures. These methods have numerous applications in areas such as statistical genetics, image processing and natural language processing. I'm quite interested in pursuing these applications, particularly in collaboration with biologists and computer scientists.
+","artificial intelligence, control and intelligent systems and robotics, communications and networking",Applications in Biology and Medicine
+Nicholas P. Jewell,Professor Emeritus and Professor of the Graduate School,"
+    
+              jiantao@eecs.berkeley.edu
+          ",https://statistics.berkeley.edu/people/nicholas-p-jewell,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/npjewellh100001.jpg?h=830eec93&itok=_N49Imgh,,"My research interests are in probability theory. I have done research on sums of independent random variables, laws of the iterated logarithm, approximations of tail probabilities, operator limit theorems for sums of independent random vectors, expectations of functions of sums of fixed and random numbers of random variables, as well as arbitrary self-normalized sums.
+
+statistics, mathematics, probability theory, combinatorics independent random variables, iterated logarithm, tail probabilities, functions of sums","computer science, artificial intelligence, computational biology, statistics, machine learning, electrical engineering, applied statistics, optimization",High Dimensional Data Analysis
+Jiantao Jiao ,Assistant Professor ,"
+    
+              jordan@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/jiantao-jiao,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/jiantao_1.png?h=be2a9a93&itok=Yuw1GbYV,,"I am currently a professor of computational biology at UC Berkeley (since 2008) and a professor of biology at University of Copenhagen (since 2004).  I graduated with a PhD in Integrative Biology from UC Berkeley in 1998, did two years of postdoc at Harvard University and held my first faculty position at Cornell University from 2000 – 2004 in the now defunct department of Biometrics. My research focuses on developing statistical and computational methods for analyses of genomic data.  My methods, distributed in popular packages such as IM, ANGSD, and PAML, have been used in numerous scientific studies. 
+
+Most of my work concentrates on making inferences regarding function and evolution from molecular and genetic data. Some of the projects that I am currently involved in are in the areas of human population genetics, comparative evolutionary genomics, coalescent theory, and statistical methods in molecular ecology. Examples include analyses of large ancient DNA data sets to understand human history and origins, development of methods using ancestral recombination graphs for inferring patterns of demography, recombination, and mutation, and development of methods for identifying causal mutations and interactions among mutations.  Much of the research involves leveraging ideas from computational statistics to elucidate biology using large genomic data sets.
+ 
+
+ ","statistics, mathematics, probability theory, combinatorics independent random variables, iterated logarithm, tail probabilities, functions of sums",Applications in Biology and Medicine
+Michael Jordan,Professor,"
+    
+              klass@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/michael-jordan,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/jordan_front_facing_bettman_1562_1_0_0_0_0.jpg?h=c1b63b0e&itok=4_3eTs8i,,"One of my current interests is in the area of cyber-infrastructure for education. I am studying problems surrounding the design of electronic documents which provide ways for authors and readers to interact with and dynamically view a data analysis process/statistics research activity. I am also interested in problems in more traditional areas of statistics that are related to high-dimensional modeling and model selection.
+","data science, statistics, machine learning",Probability
+Michael Klass,"Professor, Emeritus and Professor of the Graduate School","
+    
+              songmei@berkeley.edu
+          ",https://statistics.berkeley.edu/people/michael-klass,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/Klass.jpeg?h=1888ec2d&itok=I-bDsD1e,,"Fernando Pérez's research focuses on creating tools for modern computational research and data science across domain disciplines, with an emphasis on high-level languages, interactive and literate computing, and reproducible research. Through tools like IPython and Project Jupyter, he builds foundational blocks that enable scientists to tackle all stages of computational research (from exploration through publication) with a coherent approach, thus improving scientific productivity, collaboration and reproducibility.
+","evolution, molecular evolution, population genetics, human variation, human genetics, phylogenetics, applied statistics, genetics, evolutionary processes, evolutionary biology",High Dimensional Data Analysis
+Song Mei,Assistant Professor,"
+    
+              nielsen@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/song-mei,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/songmei_new.jpg?h=6f2bab55&itok=SxNxuRJ9,,"Sam Pimentel is an assistant professor in the Department of Statistics.  His research centers on methodology for causal inference in observational studies. He develops new ways to form matched comparison groups in large observational datasets using approaches from discrete optimization. These tools allow transparent and interpretable inferences about the effects of interventions, and provide opportunities to study the impact of potential unobserved confounding variables. He is also interested in applying these methods in health services research, public policy, and the social sciences.
+","statistics, empirical process, high-dimensional modeling, technology in education",Applications in Biology and Medicine
+Rasmus Nielsen,Professor,"
+    
+              nolan@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/rasmus-nielsen,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/photo_cropped.jpg?h=11e55211&itok=MpoHzkTG,,"I have been interested in interfaces between the traditional theory of stochastic processes and other areas of mathematics, especially combinatorics. I have studied various random combinatorial objects, such as permutations, partitions, and trees, and how the asymptotic behaviour of such structures over a large number of elements can be described in probabilistic terms, most often involving Brownian motion and related processes. This has led to the study of various measure-valued and partition-valued Markov processes whose behaviour may be understood in terms of combinatorial constructions involving random trees. I am at present engaged in developing various ideas related to random partitions, random trees, irreversible processes of coalescence, and their time reversals which provide models for random splitting or fragmentation.
+
+I view this line of research largely as pure mathematics, but mathematics of a concrete kind which is often motivated and influenced by applications. Stochastic models with a natural probabilistic structure typically turn up in different disguises in diverse fields. The study of their mathematical structure allows ideas and results developed in one context to be transferred to another.","data science, Educational Data Science, scientific computing",Statistical Computing
+Deborah Nolan,"Professor, Emeritus and Professor of the Graduate School","
+    
+              Fernando.Perez@berkeley.edu
+          ",https://statistics.berkeley.edu/people/deborah-nolan,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/nolangw2_0.png?h=5b310bbd&itok=qvPFveZ3,,"My interests are in statistical problems arising in the field of molecular biology and genetics and in particular high-throughput genomic experiments. I am currently working on methodologies for analyzing gene expression and alternative splicing using microarrays and ultra high-throughput sequencing. Methodologically, I am interested in high-dimensional and multivariate techniques that are relevant in this context.
+","causal inference, health services & policy analysis, biostatistics, discrete optimization",Statistical Computing
+Fernando Pérez, Associate Professor,"
+    
+              spi@berkeley.edu
+          ",https://statistics.berkeley.edu/people/fernando-perez,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/fperez_headshot_lg.jpg?h=f02d4c2d&itok=YpI0YF3n,,"My research interests are in theoretical computer science, algorithms, randomized computation, Markov Chains, phase transitions, statistical physics, and combinatorial optimization. Most of my work involves applying probabilistic ideas in some way, usually to design or analyze algorithms.
+","fragmentation, statistics, mathematics, Brownian motion, distribution theory, path transformations, stochastic processes, local time, excursions, random trees, random partitions, processes of coalescence",Applications in Biology and Medicine
+Sam Pimentel,Assistant Professor ,"
+    
+              pitman@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/sam-pimentel,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/head_shot_msquare.jpg?h=474806c9&itok=lE-6s3-5,,"I am a professor in EECS and Statistics. I received BS degrees in mathematics and physics from MIT, and a PhD in physics from Stanford University.  My research centers around computational and mathematical biology. I am generally interested in developing computational tools and statistical methods to facilitate the research of the broad biomedical community, while also getting deeply involved in data analysis and interpretation.  I am also interested in machine learning, combinatorial optimization, algorithms, and Monte Carlo methods.
+","computational biology, bioinformatics, statistics, data analysis, sequencing, cancer genomics",Probability
+Jim Pitman," Professor, Emeritus and Professor of the Graduate School","
+    
+              epurdom@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/jim-pitman,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/james-pitman.jpg?h=ce9928f0&itok=xlAkOdZi,,"My research centers on inference problems, primarily in physical and social sciences. I am especially interested in confidence procedures tailored for specific goals and in quantifying the uncertainty in inferences that rely on numerical models of complex systems. I've done research on the internal structure of Sun and Earth(link is external), climate modeling, clinical trials, earthquake prediction, the Big Bang, the geomagnetic field, election integrity(link is external), gender bias in academia(link is external), geriatric hearing loss, the U.S. census, the effectiveness of Internet content filters(link is external), endangered species(link is external), spectrum estimation, urban foraging, and information retrieval. I am also interested in nutrition, food equity, and sustainability and am studying whether foraging wild foods in urban environments(link is external) could contribute meaningfully to nutrition, especially in ""food deserts."" I am interested in numerical optimization, and have published some software(link is external).
+I've consulted in product liability litigation, truth in advertising, equal protection under the law, jury selection, election security and contested elections, trade secret litigation, employment discrimination litigation, import restrictions, insurance litigation, natural resource legislation, environmental litigation, patent litigation, sampling in litigation, wage and hour class actions, product liability class actions, consumer class actions, the U.S. census, clinical trials, signal processing, geochemistry, IC mask quality control, targeted marketing, water treatment, sampling the web, risk assessment, and whistleblower cases. 
+I also created SticiGui(link is external), an online introductory Statistics ""text"" that includes interactive data analysis and demonstrations, machine-graded online assignments and exams (a different version for every student), and a text with dynamic examples and exercises, applets illustrating key concepts, and an extensive glossary. SticiGui was the basis of the first online course (in any subject) taught at UC Berkeley. With Ani Adhikari, I also co-taught an introductory statistics MOOC in 2013. Over 52,600 students enrolled in the course, of whom more than 10,600 finished and nearly 8,200 received a certificate of completion.
+ 
+","algorithms, applied probability, statistics, random walks, Markov chains, computational applications of randomness, Markov chain Monte Carlo, statistical physics, combinatorial optimization",Applications in Biology and Medicine
+Elizabeth Purdom,Associate Professor,"
+    
+              sinclair@cs.berkeley.edu
+          ",https://statistics.berkeley.edu/people/elizabeth-purdom,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/dsc_0122_small.jpg?h=86163206&itok=GrutTR-u,,"
+    Research Areas
+          
+              Artificial Intelligence/Machine Learning
+              
+      ","computational biology, statistical genetics, applied probability",Statistical Computing
+Alistair Sinclair,Professor,"
+    
+              yss@berkeley.edu
+          ",https://statistics.berkeley.edu/people/alistair-sinclair,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/sinclair.jpg?h=3209c849&itok=MEHnYjin,,"I am a mathematician with a wide range of interests ranging from combinatorics and algebraic geometry to optimization and computational biology. I have always been fascinated with numerical experiments and data analysis, and this led me quite naturally into the emerging field of algebraic statistics. Here, I have worked on phylogenetics, Markov bases, symbolic computation of Bayesian integrals, likelihood inference, and the geometry of conditional independence models for discrete and Gaussian random variables.
+
+I received doctoral degrees in Mathematics in 1987 from the University of Washington, Seattle, and the Technical University Darmstadt, Germany. After my postdoctoral years in Minneapolis and Linz, Austria, I taught at Cornell University, before joining UC Berkeley in 1995, where I am now a Professor of Mathematics, Statistics and Computer Science. My honors include a National Young Investigator Fellowship, a Sloan Fellowship, a David and Lucile Packard Fellowship, a Clay Senior Scholarship, an Alexander von Humboldt Senior Research Prize, the SIAM von Neumann Lecturership, and a Sarlo Distinguished Mentoring Award. Recently, I served as Vice President of the American Mathematical Society. As a leading experimentalist among mathematicians, I have also authored ten books and over 200 research articles in the areas of combinatorics, algebraic geometry, symbolic computation, and their applications. I have mentored 50 doctoral students and numerous postdocs, and my current research focuses on algebraic statistics and computational algebraic geometry.","uncertainty quantification and inference, inverse problems, nonparametrics, risk assessment, earthquake prediction, election auditing, geomagnetism, cosmology, litigation, food/nutrition",Applications in Biology and Medicine
+Yun S. Song,Professor,"
+    
+              stark@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/yun-s-song,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/Yun_Song_square_grey.jpeg?h=d1a7b71d&itok=s374PFrJ,,"The goal of my research group is to develop statistical methods to estimate/learn causal and non-causal parameters of interest, based on potentially complex and high dimensional data from randomized clinical trials or observational longitudinal studies, or from cross-sectional (e.g., case-control sampling) studies. The model assumptions under which these methods are valid should be clearly formulated, so that they can be subject to scrutiny. The estimates should be accompanied by confidence regions for the true parameter values or other types of confidence measures (e.g., variability/reproducibility of clusters as measured by the bootstrap). The longitudinal data structures may involve high dimensional measurements such as whole genome profiles at various points in time; censoring and missingness of data due to a subject not responding well to treatment (or not feeling well); and changes of treatment at various points in time, based on variables related to the outcome of interest. Our methods are designed to rely on as few assumptions as possible on nuisance parameters so that they provide maximally objective statistical inference and testing procedures. To develop and refine these methods, we work with simulated and real data in collaboration with biologists, medical researchers, epidemiologists, and others.
+","artificial intelligence, machine learning",Statistical Computing
+Philip B. Stark,Professor,"
+    
+              jsteinhardt@berkeley.edu
+          ",https://statistics.berkeley.edu/people/philip-b-stark,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/pbshead-11-5.jpg?h=00aaf88d&itok=N-78PYw4,,"Ken Wachter has held a joint appointment in Demography and Statistics at Berkeley since 1979. He received his B.A. from Harvard in 1968 and his Ph.D. in Statistics from Cambridge in 1974, completing a thesis on random matrix eigenvalues under the supervision of David Kendall and John Kingman.     
+	
+	After time at Bell Laboratories, at St. Catherine's College, Oxford, and teaching at Harvard, he came to Berkeley originally as a Miller Fellow. His books include Statistical Studies of Historical Social Structure (1978), Height, Health, and History (1990), and the collection Between Zeus and the Salmon (1997). ``A Mutation-Selection Model for General Genotypes with Recombination'', written with Steve Evans and David Steinsaltz,  has just been published (2013) as a Memoir of the American Mathematical Society.    
+	
+	A member of the National Academy of Sciences since 1999, he serves on the Editorial Board of PNAS handling social sciences. His wife is a CAL alumna and his poodle Ambrose an enthusiastic CAL fan.","mathematics, combinatorics, computational algebraic geometry",Artificial Intelligence/Machine Learning
+Jacob Steinhardt,Assistant Professor ,"
+    
+              bernd@math.berkeley.edu
+          ",https://statistics.berkeley.edu/people/jacob-steinhardt,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/jacob_headshot.jpg?h=55afc8c2&itok=Z17iJsbP,,"In broad terms, I am interested in problems at the interface between computation and statistics. Part of my research focuses on algorithms and Markov random fields, a class of probabilistic model based on graphs used to capture dependencies in multivariate data (e.g., image models, data compression, computational biology). In general, exact solutions to inference problems in such models are computationally intractable, so that there is a great deal of interest in approximate methods for statistical inference. I am also interested in studying the effect of decentralization and communication constraints in statistical inference problems. A final area of interest is methodology and theory for high-dimensional inference problems, in which the model dimension is of the same order (or larger than) the sample size.
+","statistics, computational biology and genomics, censored data and survival analysis, medical research, inference in longitudinal studies",Statistical Computing
+Bernd Sturmfels,Professor,"
+    
+              laan@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/bernd-sturmfels,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/bernd2012.jpg?h=dbb930f9&itok=rudlFIGu,,"I am The Class of 1936 Second Chair in the College of Letters and Science, and Chancellor's Distinguished Professor, Departments of Statistics and of Electrical Engineering & Computer Sciences, University of California at Berkeley.
+
+My current research focuses on practice, algorithm, and theory of statistical machine learning and causal inference. My group is engaged in interdisciplinary research with scientists from genomics, neuroscience, and precision medicine. In order to augment empirical evidence for decision-making, we are investigating methods/algorithms (and associated statistical inference problems) such as dictionary learning, non-negative matrix factorization (NMF), EM and deep learning (CNNs and LSTMs), and heterogeneous effect estimation in randomized experiments (X-learner). Their recent algorithms include staNMF for unsupervised learning, iterative Random Forests (iRF) and signed iRF (s-iRF) for discovering predictive and stable high-order interactions in supervised learning, contextual decomposition (CD) and aggregated contextual decomposition (ACD) for interpretation of Deep Neural Networks (DNNs).
+
+My past work covered research areas in empirical process theory, information theory (MDL), MCMC methods, signal processing, machine learning, high dimensional data inference (e.g. sparse modeling (boosting and lasso), and spectral clustering). 
+
+I am a member of the U.S. National Academy of Sciences and a fellow of the American Academy of Arts and Sciences. I was a Guggenheim Fellow in 2006, and the Tukey Memorial Lecturer of the Bernoulli Society in 2012. I was President of IMS (Institute of Mathematical Statistics) in 2013-2014 and the Rietz Lecturer of IMS in 2016. I received the E. L. Scott Award from COPSS (Committee of Presidents of Statistical Societies) in 2018, and was the Breiman Lecturer at NeurIPS 2019.","Mathematical demography, statistical models for the evolution of aging, systematic constraints and random influences that shape the structure of human populations, computer simulation methods.",Applications in Biology and Medicine
+Mark van der Laan,Professor,"
+    
+              wachter@demog.berkeley.edu
+          ",https://statistics.berkeley.edu/people/mark-van-der-laan,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/vanderlaan.jpg?h=64064066&itok=ieXv_QMu,,,"statistical machine learning, statistics, Optimization and algorithms, artificial intelligence",Applications in the Social Sciences
+Ken Wachter,"Professor, Emeritus and Professor of the Graduate School","
+    
+              wainwrig@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/ken-wachter,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/kwworafi_0.jpg?h=f6c297a8&itok=dbZvJKxa,,,"statistical inference for high dimensional data and interdisciplinary research in neuroscience, remote sensing, and text summarization",High Dimensional Data Analysis
+Martin Wainwright,Professor,"
+    
+              binyu@stat.berkeley.edu
+          ",https://statistics.berkeley.edu/people/martin-wainwright,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/wainwright.jpg?h=cf56082b&itok=q6G-E97Q,,,,Applications in Biology and Medicine
+Bin Yu,Professor,,https://statistics.berkeley.edu/people/bin-yu-0,https://statistics.berkeley.edu/sites/default/files/styles/crop_person/public/faculty/binyu-photo13-crop-min.jpg?h=91dd6622&itok=_pM506Jd,,,,
