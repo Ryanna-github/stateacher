@@ -4,41 +4,42 @@ bio-current:
   name_en: McLean Jeffrey
   email: 
     - mclean@unc.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
-  university: University of North Carolina��Chapel Hill 
+  university: University of North Carolina-Chapel Hill 
   school: Dept, of Statistics and Operations Research [] # 格式：学院名称[学院官网链接]
   major: 
   title-raw: Teaching Associate Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  title: Assistant Professor
+  interests: 
+    - Statistics Education
   homepage: 
     - https://stor.unc.edu/faculty-member/mclean-jeffrey/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
+  university: Syracuse University
   school: 
   email: 
-  date-start: 
-  date-end: 
+  date-start: 2008
+  date-end: 2015
   advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  degree: Ph.D. in Mathematics Education
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
+  university: University of Connecticut
   school: 
-  date-start: 
-  date-end: 
+  date-start: 2005
+  date-end: 2008
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
+  university: Rochester Institute of Technology
   school: 
-  major: 
-  date-start: 
-  date-end: 
+  major: Applied Mathematics
+  date-start: 2001
+  date-end: 2005
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
   research: 
@@ -86,11 +87,11 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Biography[中文]
 
 # Interests[English]
-
+Statistics Education
 # Interests[中文]
 
 # Education[English]
-
+B.S., Applied Mathematics, Rochester Institute of Technology, 2005; M.S., Mathematics, University of Connecticut, 2008; Ph.D., Mathematics Education, Syracuse University, 2015
 # Education[中文]
 
 # Awards[English]
@@ -110,5 +111,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
-
+https://stor.unc.edu/faculty-member/mclean-jeffrey/
 # Notes

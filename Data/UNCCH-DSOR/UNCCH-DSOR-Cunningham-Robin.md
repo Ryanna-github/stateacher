@@ -4,20 +4,21 @@ bio-current:
   name_en: Cunningham Robin
   email: 
     - rjcunnin@email.unc.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
-  university: University of North Carolina��Chapel Hill 
+  university: University of North Carolina-Chapel Hill 
   school: Dept, of Statistics and Operations Research [] # 格式：学院名称[学院官网链接]
   major: 
   title-raw: Teaching Associate Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  title: Associate Professor
+  interests: 
+    - Statistics Education
   homepage: 
     - https://stor.unc.edu/faculty-member/cunningham-robin/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  aminer: https://www.aminer.org/profile/robin-cunningham/53f437eddabfaedd74daeab7
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
@@ -25,11 +26,11 @@ edu-phd:  # 读博经历
   email: 
   date-start: 
   date-end: 
-  advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  advisor: Ann Arbor
+  degree: Ph.D. in Mathematics
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
+  university: University of North Carolina at Chapel Hill
+  school: Applied Mathematics
   date-start: 
   date-end: 
   advisor:
@@ -46,7 +47,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   project: 
   blog: 
   arxiv: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/robin-cunningham-56741416
   weibo:
   twitter:
   wikipedia:
@@ -110,5 +111,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
-
+https://stor.unc.edu/faculty-member/cunningham-robin/
 # Notes

@@ -4,41 +4,44 @@ bio-current:
   name_en: Ji Chuanshu
   email: 
     - cji@email.unc.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
-  university: University of North Carolina��Chapel Hill 
+  university: University of North Carolina-Chapel Hill 
   school: Dept, of Statistics and Operations Research [] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Associate Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title-raw: Associate Professor
+  title: Associate Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
+    - Financial Econometrics
+    - Computational, Materials Science
+    - Monte Carlo Methods
   homepage: 
     - https://stor.unc.edu/faculty-member/ji-chuanshu/ # 如果有多个主页，请都填写上
   github: 
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  aminer: https://www.aminer.org/profile/chuanshu-ji/53f43525dabfaeb1a7be924e
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
   school: 
   email: 
-  date-start: 
-  date-end: 
-  advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  date-start: 1986
+  date-end: 1988
+  advisor: Steven P. Lalley
+  degree: phd
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
-  school: 
-  date-start: 
-  date-end: 
+  university: Columbia Univeristy
+  school: Statistics
+  date-start: 1981
+  date-end: 1982
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: 
-  school: 
-  major: 
-  date-start: 
-  date-end: 
+  university: Tsinghua Univ.
+  school: Mathematics
+  major: Mathematics
+  date-start: 1977
+  date-end: 1981
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
   research: 
@@ -46,7 +49,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   project: 
   blog: 
   arxiv: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/chuanshu-ji-72305b1b
   weibo:
   twitter:
   wikipedia:
@@ -82,7 +85,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 ![Ji Chuanshu](https://casdev4.oasis.unc.edu/statistics/wp-content/uploads/sites/3/2021/05/ji_chuanshu.jpg)
 
 # Biography[English]
-
+My research focuses on ancial economics, probability approximations in asset pricing, interest rate derivatives for term structure models, risk management, calibration of stochastic volatility models, and market microstructure models with transaction costs and asymmetric information. Additionally, I study market liquidity and high- frequency trading, inference and prediction for stochastic cusp catastrophe model, statistical arbitrage and algorithmic trading.
 # Biography[中文]
 
 # Interests[English]
@@ -90,7 +93,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Interests[中文]
 
 # Education[English]
-
+Tsinghua Univ., Beijing, Mathematics, B.S., 1981; Columbia Univeristy, Statistics, M.A., 1982; M.Ph. 1986; Ph.D. 1988, Advisor: Steven P. Lalley
 # Education[中文]
 
 # Awards[English]
@@ -110,5 +113,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
-
+https://casdev.unc.edu/stor/faculty-member/ji-chuanshu/
 # Notes

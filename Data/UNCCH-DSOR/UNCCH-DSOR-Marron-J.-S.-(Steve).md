@@ -4,20 +4,20 @@ bio-current:
   name_en: Marron J. S. (Steve)
   email: 
     - marron@unc.edu # 如果有多个邮箱，请都填写上
-  sex: # male/female
+  sex: male
   birth-date: # yyyy 到年即可
-  university: University of North Carolina��Chapel Hill 
+  university: University of North Carolina-Chapel Hill 
   school: Dept, of Statistics and Operations Research [] # 格式：学院名称[学院官网链接]
   major: 
   title-raw: Distinguished Professor# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://stor.unc.edu/faculty-member/marron-james/ # 如果有多个主页，请都填写上
   github: 
-  googlescholar:  
+  googlescholar: https://scholar.google.com/citations?user=Ft9MrIoAAAAJ&hl=en
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
@@ -90,11 +90,22 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Interests[中文]
 
 # Education[English]
+AA – Orange Coast College – 1974
 
+BS – U.C.Davis – 1977
+
+PhD – U.C.L.A. – 1982
 # Education[中文]
 
 # Awards[English]
-
+- Fellow: Institute of Mathematical Statistics
+- Fellow: American Statistical Association
+- Elected Member: International Statistical Institute
+- #15 on ISI List of Most Highly Cited Mathematicians (1991-2001)
+- Amos Hawley Distinguished Professor, UNC-CH
+- S. N. Roy Memorial Lecturer, University of Calcutta
+- Ralph Bradley Lecturer, University of Georgia
+- Saw Swee Hock Distinguished Visiting Professor, National University of Singapore (2015)
 # Awards[中文]
 
 # Talks[English]
@@ -102,7 +113,12 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Talks[中文]
 
 # Work experience[English]
-
+- UNC-CH Department of Statistics (1982-2003)
+- Cornell University, Mary Upson Professor of Engineering (2001-2002)
+- UNC-CH Department of Statistics and Operations Research (2003-)
+- UNC-CH Department of Computer Science Adjunct Professor (2003-)
+- UNC-CH Lineberger Cancer Center, Member (2004-)
+- UNC-CH Department of Biostatistics (2007-)
 # Work experience[中文]
 
 # Publication[English]
@@ -110,5 +126,5 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Publication[中文]
 
 # Information Reference
-
+https://scholar.google.com/citations?user=Ft9MrIoAAAAJ&hl=en
 # Notes
