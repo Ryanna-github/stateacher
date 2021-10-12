@@ -12,7 +12,7 @@ bio-current:
   title-raw: Professor # 主页原始字符串
   title: Professor 
   interests: 
-    - Network modeling with applications in statistics, 
+    - Network modeling with applications in statistics 
     - computer science
     - neuroscience
     - statistical physics
@@ -34,7 +34,7 @@ bio-current:
   status: 在职
   last-update: 2021-09-27
 edu-phd:  # 读博经历
-  university: University of California, Berkeley.
+  university: University of California, Berkeley
   school: Statistics
   email: 
   date-start: 2003
@@ -42,13 +42,13 @@ edu-phd:  # 读博经历
   advisor: David Aldous[https://www.stat.berkeley.edu/~aldous/]
   degree: Ph.D. in Statistics
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: Indian Statistical Institute, Calcutta, India.
+  university: Indian Statistical Institute, Calcutta, India
   school: Statistics
   date-start: 2001
   date-end: 2003
   advisor:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
-  university: Presidency College, Calcutta, India.
+  university: Presidency College, Calcutta, India
   school: Statistics
   major: Science in Statistics
   date-start: 1997

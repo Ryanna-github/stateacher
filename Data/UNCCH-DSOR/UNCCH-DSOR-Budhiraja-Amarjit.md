@@ -39,7 +39,7 @@ edu-phd:  # 读博经历
   degree: Ph.D. Statistics.
 edu-master: # 硕士经历，没有或找不到，可不填
   university: Indian Statistical Institute
-  school: M.S. Statistics (Specialization: Analysis and Probability)
+  school: M.S. Statistics (Specialization Analysis and Probability)
   date-start: 1988
   date-end: 1990
   advisor:
@@ -52,8 +52,7 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
   research: 
-  software: Development of PFLib: An Object Oriented MATLAB Toolbox for various Particle Filtering Algorithms.
-Available under a GNU GPL license.
+  software: Development of PFLib An Object Oriented MATLAB Toolbox for various Particle Filtering Algorithms.Available under a GNU GPL license.
   project: 
   blog: 
   arxiv: 
@@ -109,7 +108,7 @@ My main interests are in Probability and Stochastic Processes. Some of the topic
 
 - Indian Statistical Institute New Delhi, India
 
-  M.S. Statistics (Specialization: Analysis and Probability). May 1990
+  M.S. Statistics (Specialization Analysis and Probability). May 1990
 
 - Delhi University New Delhi, India
 
