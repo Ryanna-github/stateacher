@@ -113,6 +113,10 @@ Rscript -e "rmarkdown::render('summary.Rmd', output_file = '../Data/CMU-DS/CMU-s
 ```
 注意该命令有两处参数需要修改
 
+## 提交方法
+
+- PR 命名应为对应学院缩写
+- PR 通过且无内容填写的 warning 信息即完成
 
 ## 联系方式 & 更多
 
