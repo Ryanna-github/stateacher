@@ -18,7 +18,8 @@ bio-current:
   homepage: 
     - https://sites.google.com/site/kkatostat/home 
   github: 
-  googlescholar: https://sites.google.com/site/kkatostat/home
+  googlescholar: 
+    - https://sites.google.com/site/kkatostat/home #这个老师很多信息在Google上，我还不会翻墙找。。
   aminer: # 无
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期

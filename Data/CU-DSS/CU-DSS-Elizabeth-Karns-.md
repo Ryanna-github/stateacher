@@ -11,7 +11,7 @@ bio-current:
     - Department of Statistics and Data Science[https://stat.cornell.edu/]
     - ILR school[https://www.ilr.cornell.edu/]
   major: 
-  title-raw: Senior Lecture# 主页原始字符串
+  title-raw: Senior Lecture
   title: # Associate Professor/Assistant Professor/Professor
   interests: 
     - Harassment prevention
@@ -23,20 +23,21 @@ bio-current:
   homepage: 
     - https://www.ilr.cornell.edu/people/m-karns
   github: 
-  googleschola
-  aminer: https://www.aminer.cn/profile/elizabeth-karns/53f43b49dabfaee02acfab66
+  googlescholar:
+  aminer: 
+    - https://www.aminer.cn/profile/elizabeth-karns/53f43b49dabfaee02acfab66
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
-  university: 
-  school: 
+  university: Quinnipiac University 
+  school: School of Law
   email: 
   date-start: 
   date-end: 
   advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  degree:  phd
 edu-master: # 硕士经历，没有或找不到，可不填
-  university: 
+  university: Reed College
   school: 
   date-start: 
   date-end: 
@@ -49,12 +50,14 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-end: 
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
+    - https://www.researchgate.net/scientific-contributions/M-Elizabeth-Karns-2043652286
   research: 
   software: 
   project: 
   blog: 
   arxiv: 
   linkedin: 
+    - https://www.linkedin.com/in/m-elizabeth-karns/
   weibo:
   twitter:
   wikipedia:
@@ -105,7 +108,12 @@ Liz Karns is an epidemiologist and lawyer. Her research interests involve worker
 * Statistical Theory, Methods, Analysis
 
 # Interests[中文]
-
+* Harassment prevention
+* Law and policiesOccupational 
+* Safety and Health
+* Problem solving
+* Rights of working people
+* Statistical Theory, Methods, Analysis
 # Education[English]
 
 # Education[中文]
@@ -145,7 +153,9 @@ Liz Karns is an epidemiologist and lawyer. Her research interests involve worker
 # Work experience[中文]
 
 # Publication[English]
-
+- **Does Physician Performance Explain Interspecialty Differences in Malpractice Claim Rates?**, Article, Aug 1994, Mark Taragin, Frank A Sonnenberg,**M E Karns**, Jeffrey Carson
+- **Physician Demographics and the Risk of Medical Malpractice**, Article, Aug 1993, Mark Taragin, Adam P. Wilezek, **M. Elizabeth Karns**, Jeffrey L Carson
+- **Physician demographics and the risk of medical malpractice**, Article, Nov 1992, Mark Taragin,Adam P. Wilczek, M.Elizabeth Karns, Jeffrey Carson
 # Publication[中文]
 
 # Information Reference

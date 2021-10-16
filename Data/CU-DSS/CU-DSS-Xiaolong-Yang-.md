@@ -10,7 +10,7 @@ bio-current:
   school: 
     - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major: 
-  title-raw: Senior Lecture and Senior Associate Director # 主页原始字符串
+  title-raw: Senior Lecture and Senior Associate Director
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
@@ -42,11 +42,13 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-end: 
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
+    - https://www.researchgate.net/profile/Xiaolong-Yang-11
   research: 
   software: 
   project: 
   blog: 
   arxiv: 
+    - https://arxiv.org/search/math?searchtype=author&query=Yang%2C+X
   linkedin: 
     - https://www.linkedin.com/in/xiaolong-yang-a97bb01b/
   weibo:
@@ -84,7 +86,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 ![**Xiaolong Yang** ](https://stat.cornell.edu/sites/default/files/styles/square_portrait/public/xiaolong-yang_crop.jpg?itok=ZF_W6atF)
 
 # Biography[English]
-
+Sr. Associate Director, MPS Program, Department of Statistics and Data Science, Cornell University
 # Biography[中文]
 
 # Interests[English]

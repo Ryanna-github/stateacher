@@ -7,22 +7,23 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: 
+    - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major: Mathematics and Statistics
   title-raw: lecture
   title: # Associate Professor/Assistant Professor/Professor
   interests: 
-  - Current and aspiring data scientists and analysts
-  - Business decision makers
-  - Consultants
-  - Executives
-  - Anyone seeking to gain deeper exposure to data science
-
+    - Current and aspiring data scientists and analysts
+    - Business decision makers
+    - Consultants
+    - Executives
+    - Anyone seeking to gain deeper exposure to data science
   homepage: 
-    -  https://www.linkedin.com/in/jeremyentner
+    - https://www.linkedin.com/in/jeremyentner
   github: 
   googlescholar:  
-  aminer: https://www.aminer.cn/profile/jeremy-entner/6152ecdf6750f8727fa2bb2d
+  aminer: 
+    - https://www.aminer.cn/profile/jeremy-entner/6152ecdf6750f8727fa2bb2d
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -60,7 +61,8 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   project: 
   blog: 
   arxiv: 
-  linkedin: https://www.linkedin.com/in/jeremyentner
+  linkedin: 
+    - https://www.linkedin.com/in/jeremyentner
   weibo:
   twitter:
   wikipedia:

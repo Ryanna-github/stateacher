@@ -14,7 +14,7 @@ bio-current:
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
-    -  # 如果有多个主页，请都填写上
+    -  https://stat.cornell.edu/people/faculty/melissa-smith
   github: 
   googlescholar:  
   aminer: 

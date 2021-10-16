@@ -7,7 +7,8 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: 
+    - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major:  Statistics And Data Science
   title-raw: Professor
   title: Professor
@@ -18,8 +19,10 @@ bio-current:
   homepage: 
     - https://bunea.stat.cornell.edu/ 
   github: 
-  googlescholar: https://scholar.google.com/citations?user=vQrFgocAAAAJ
-  aminer: https://www.aminer.cn/profile/florentina-bunea/53f46297dabfaeb22f52d437
+  googlescholar: 
+    - https://scholar.google.com/citations?user=vQrFgocAAAAJ
+  aminer: 
+    - https://www.aminer.cn/profile/florentina-bunea/53f46297dabfaeb22f52d437
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -48,8 +51,10 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   software: 
   project: 
   blog: 
-  arxiv: https://arxiv.org/search/stat?searchtype=author&query=Bunea%2C+F
-  linkedin: https://www.linkedin.com/in/florentina-bunea-19382440
+  arxiv:
+    - https://arxiv.org/search/stat?searchtype=author&query=Bunea%2C+F
+  linkedin: 
+    - https://www.linkedin.com/in/florentina-bunea-19382440
   weibo:
   twitter:
   wikipedia:
@@ -67,10 +72,14 @@ group:
   - Machine Learning Group in the Computing and Information
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Cornell University 
-  school:  Department of Statistics and Data Science
-  major: Statistics And Data Science
-  email: fb238@cornell.edu
-  homepage: https://bunea.stat.cornell.edu/
+  school:  
+    - Department of Statistics and Data Science
+  major: 
+    - Statistics And Data Science
+  email: 
+    - fb238@cornell.edu
+  homepage: 
+    - https://bunea.stat.cornell.edu/
   date-start: 2011
   title: Professor
   type: 

@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name_en: Michael Nussbaum 
   email: 
-    -  hall@math.cornell.edu
+    - hall@math.cornell.edu
     - mn66@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可

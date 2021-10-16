@@ -7,9 +7,10 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school:  Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school:  
+    - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major: 
-  title-raw: ADJUNCT PROFESSOR# 主页原始字符串
+  title-raw: Adjunct Professor
   title: # Associate Professor/Assistant Professor/Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
@@ -41,11 +42,13 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-end: 
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
+    - https://www.researchgate.net/profile/Dominique-Fourdrinier
   research: 
   software: 
   project: 
   blog: 
   arxiv: 
+    - https://arxiv.org/search/stat?searchtype=author&query=Fourdrinier%2C+D
   linkedin: 
   weibo:
   twitter:

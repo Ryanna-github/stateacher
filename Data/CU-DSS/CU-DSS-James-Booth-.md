@@ -7,11 +7,9 @@ bio-current:
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: Department of Statistics and Data Science[https://stat.cornell.edu/]
-  major: 
-    -  Statistical Methods II
-    -  Biological Statistics I
-    - Data ScienceS
+  school: 
+    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+  major: Data Science
   title-raw: Professor
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
@@ -19,7 +17,8 @@ bio-current:
     -  http://faculty.bscb.cornell.edu/~booth/
   github: 
   googlescholar:  
-  aminer: https://www.aminer.cn/profile/james-booth/560288b645cedb3395fcb915
+  aminer: 
+    - https://www.aminer.cn/profile/james-booth/560288b645cedb3395fcb915
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -47,7 +46,8 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-start: 
   date-end: 1981
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
-  publication: http://faculty.bscb.cornell.edu/~booth/cv-mar2021.pdf
+  publication: 
+    - http://faculty.bscb.cornell.edu/~booth/cv-mar2021.pdf
   research: 
   software: 
   project: 

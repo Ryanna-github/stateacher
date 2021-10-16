@@ -10,7 +10,7 @@ bio-current:
   school:
     - Economics and Statistical Science[https://economics.cornell.edu/]
   major: 
-  title-raw: Professor # 主页原始字符串
+  title-raw: Professor
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
@@ -29,7 +29,7 @@ edu-phd:  # 读博经历
   date-start: 
   date-end: 1976
   advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  degree:  phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: rinceton University
   school: 

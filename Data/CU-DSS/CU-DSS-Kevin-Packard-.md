@@ -55,7 +55,8 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   project: 
   blog: 
   arxiv: 
-  linkedin: https://www.linkedin.com/in/kevinpackard
+  linkedin: 
+    - https://www.linkedin.com/in/kevinpackard
   weibo:
   twitter:
   wikipedia:

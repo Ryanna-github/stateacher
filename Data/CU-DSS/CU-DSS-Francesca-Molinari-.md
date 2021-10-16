@@ -7,7 +7,8 @@ bio-current:
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: 
+    - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major: Economics
   title-raw: Professor
   title: Professor
@@ -16,7 +17,8 @@ bio-current:
     -  https://molinari.economics.cornell.edu/
   github: 
   googlescholar:  
-  aminer: https://www.aminer.cn/profile/francesca-molinari/53f46201dabfaedf436349a6
+  aminer: 
+    - https://www.aminer.cn/profile/francesca-molinari/53f46201dabfaedf436349a6
   status: # 选项如下：在读/在职/离职/退休/亡故
   last-update: 2019-x-x
 edu-phd:  # 读博经历
@@ -40,8 +42,10 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   date-start: 1993
   date-end: 1997
 page-other: 
-  publication: https://molinari.economics.cornell.edu/publications.html
-  research: https://molinari.economics.cornell.edu/research.html
+  publication: 
+    - https://molinari.economics.cornell.edu/publications.html
+  research:
+    - https://molinari.economics.cornell.edu/research.html
   software: 
   project: 
   blog: 

@@ -4,7 +4,7 @@ bio-current:
   name_en: John Abowd 
   email: 
     - John.abowd@cornell.edu
-    -  john.maron.abowd@census.gov
+    - john.maron.abowd@census.gov
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
@@ -16,7 +16,7 @@ bio-current:
   title: Professor
   interests: # 分点罗列，依次以 ‘-’ 开头
   homepage: 
-    - https://blogs.cornell.edu/abowd/ # 如果有多个主页，请都填写上
+    - https://blogs.cornell.edu/abowd/  
   github: 
   googlescholar:  
   aminer: https://www.aminer.cn/profile/john-m-abowd/54090723dabfae450f459f57

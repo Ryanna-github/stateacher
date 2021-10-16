@@ -11,8 +11,8 @@ bio-current:
   school: 
     - Department of Statistics and Data Science[https://stat.cornell.edu/]
   major: 
-  title-raw: ASSOCIATE PROFESSOR# 主页原始字符串
-  title: # Associate Professor/Assistant Professor/Professor
+  title-raw: Associate Professor
+  title: Associate Professor
   interests: 
     - Applied Biophysics
     - Bayesian Analysis
@@ -39,7 +39,7 @@ bio-current:
   googlescholar:  
   aminer: 
    - https://www.aminer.cn/profile/david-s-matteson/53f4406edabfaee2a1d233de
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Chicago
@@ -48,7 +48,7 @@ edu-phd:  # 读博经历
   date-start: 
   date-end: 
   advisor: # 格式：导师名 [邮箱/网址]
-  degree: # phd
+  degree:  phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: 
   school: 
@@ -164,54 +164,29 @@ He is lead PI and Director of the NSF funded PRISM Institute for Trans-domain Sy
 
 # Publication[English]
 - Risk, B., **Matteson, D.S.** and Ruppert, D. (2015), “Likelihood Component Analysis.”
-
 - Tupper, L., **Matteson, D.S.**, and Anderson, C.L. (2015), “Band Depth Clustering for Nonstationary Time Series and Wind Speed Behavior.”
-
 - James, N.A. and **Matteson, D.S.** (2015), “Change Points via Probabilistically Pruned Objectives.”
-
 - Zhou, Z., and **Matteson, D.S.**(2015), “Predicting Melbourne Ambulance Demand Using Kernel Warping.”
-
 - Nicholson, W.B., **Matteson, D.S.** and Bien, J. (2015), “VARX-L: Structured Regularization for Large Vector Autoregressions with Exogenous Variables.”
-
 - James, N.A., Kejariwal, A. and **Matteson, D.S.** (2015), “Leveraging Cloud Data to Mitigate User Experience from Breaking Bad: The Twitter Approach.”
-
 - Nicholson, W.B., Bien, J. and **Matteson, D.S.** (2015), “HVAR: High Dimensional Forecasting via Interpretable Vector Autoregression.”
-
 - Kowal, D.R., **Matteson, D.S.** and Ruppert, D. (2015), “A Bayesian Multivariate Functional Dynamic Linear Model.”
-
-#Articles
 - **Matteson, D.S.** and Tsay, R.S. (2015), “Independent Component Analysis via Distance Covariance,” To Appear, Journal of the American Statistical Association.
-
 - Westgate, B.S., Woodard, D.B., **Matteson, D.S.** and Henderson, S.G. (2015), “Large-Network Travel Time Estimation for Ambulance Fleet Management,” To Appear, European Journal of Operational Research.
-
 - Zhou, Z., **Matteson, D.S.**, Woodard, D.B., Micheas, A.C. and Henderson, S.G. (2015), “A Spatio-Temporal Point Process Model for Ambulance Demand,” Journal of the American Statistical Association, Vol. 110, No. 509, 6-15.
-
 - Zhou, Z., and **Matteson, D.S.** (2015), “Predicting Ambulance Demand: A Spatio-Temporal Kernel Approach,” Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2297-2303.
-
 - James, N.A. and **Matteson, D.S.** (2015), “ecp: An R Package for Nonparametric Multiple Change Point Analysis of Multivariate Data,” Journal of Statistical Software, Vol. 62, No. 7: 1-25.
-
 - **Matteson, D.S.** and James, N.A. (2014), “A Nonparametric Approach for Multiple Change Point Analysis of Multivariate Data,” Journal of the American Statistical Association, Vol. 109, No. 505, 334-345.
-
 - Risk, B., **Matteson, D.S.**, Ruppert, D., Eloyan, A. and Cao, B. (2014), “An Evaluation of Independent Component Analyses with an Application to Resting State fMRI,” Biometrics, Vol. 70, No. 1: 224-236.
-
 - Erickson, W.A., von Schrader, S., Bruyre, S., VanLooy, S., and **Matteson, D.S.** (2014) “Disability-Inclusive Employer Practices and Hiring of Individuals with Disabilities,” Rehabilitation Research, Policy, and Education, Vol. 28, No. 4, 309-328.
-
 - **Matteson, D.S.**, James, N.A., Nicholson, W.B. and Segalini, L.C. (2013), “Locally Stationary Vector Processes and Adaptive Multivariate Modeling,” Acoustics, Speech and Signal Processing, IEEE, 8722-8726.
-
 - Westgate, B.S., Woodard, D.B., **Matteson, D.S.** and Henderson, S.G. (2013), “Travel Time Estimation for Ambulances using Bayesian Data Augmentation,” Annals of Applied Statistics, Vol. 7, No. 2, 1139-1161.
-
 - Holan, S.H., Yang, W.-H., **Matteson, D.S.** and Wikle, C.K. (2012), “An Approach for Identifying and Predicting Economic Recessions in Real-Time Using Time-Frequency Functional Models,” Applied Stochastic Models in Business and Industry, Vol. 28, No. 6, 485-499.
-
 - Holan, S.H., Yang, W.-H., **Matteson, D.S.** and Wikle, C.K. (2012), “Rejoinder, An Approach for Identifying and Predicting Economic Recessions in Real-Time Using Time-Frequency Functional Models,” Applied Stochastic Models in Business and Industry, Vol. 28, No. 6, 504-505.
-
 - **Matteson, D.S.** and Ruppert, D. (2011), “GARCH Models of Dynamic Volatility and Correlation,” Signal Processing Magazine, IEEE, Vol. 28, No. 5, 72-82.
-
 - Woodard, D.B., **Matteson, D.S.** and Henderson S.G. (2011), “Stationarity of Generalized Autoregressive Moving Average Models,” Electronic Journal of Statistics, Vol. 5, No. 0, 800-828.
-
 - **Matteson, D.S.**, McLean, M.W., Woodard, D.B. and Henderson, S.G. (2011), “Forecasting Emergency Medical Service Call Arrival Rates,” Annals of Applied Statistics, Vol. 5, No. 2B, 1379-1406.
-
 - **Matteson, D.S.** and Tsay, R.S. (2011), “Dynamic Orthogonal Components for Multivariate Time Series,” Journal of the American Statistical Association, Vol. 106, No. 496, 1450-1463.
-
 - **Matteson, D.S.** and Tsay, R.S. (2007), “High Dimensional Volatility Models,” JSM Proceedings, Business and Economics Statistics Section, Alexandria, VA: American Statistical Association, 1006-1013.
 
 # Publication[中文]

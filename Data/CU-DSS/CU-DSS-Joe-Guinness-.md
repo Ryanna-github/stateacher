@@ -16,7 +16,7 @@ bio-current:
   homepage: 
     - http://guinness.cals.cornell.edu/ 
   github: 
-    -  https://github.com/joeguinness/GpGp
+    - https://github.com/joeguinness/GpGp
   googlescholar:  
     - https://scholar.google.com/citations?user=b0ry478AAAAJ
   aminer:

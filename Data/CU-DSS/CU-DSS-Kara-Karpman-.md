@@ -4,6 +4,7 @@ bio-current:
   name_en: Kara Karpman 
   email: 
     - kjk233@cornell.edu
+    - kkarpman@middlebury.edu
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
@@ -63,13 +64,16 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
+    - Middlebury[http://www.middlebury.edu/#story645114]
   school: 
-  major: 
-  email: 
-  homepage: # 机构内学者主页
+    - Department of Mathematics[http://www.middlebury.edu/academics/math]
+  major: Statistics
+  email: kkarpman@middlebury.edu
+  homepage: 
+    - http://www.middlebury.edu/academics/math/faculty/node/648984
   date-start: 
-  title: 
-  type: 
+  title: Assistant Professor
+  type: Assistant Professor
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: 
   school: 

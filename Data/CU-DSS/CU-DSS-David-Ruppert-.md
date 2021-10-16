@@ -13,11 +13,18 @@ bio-current:
   title-raw: Professor
   title: Professor
   interests: 
+    - Data Mining
+    - Complex Systems, Network Science and Computation
+    - Health Systems
+    - Financial Engineering
+    - Statistics and Machine Learning
   homepage: 
     - https://people.orie.cornell.edu/davidr/
   github: 
-  googlescholar:  
+  googlescholar:
+    - https://scholar.google.com/citations?user=7fvHhzsAAAAJ
   aminer:
+    - https://www.aminer.cn/profile/david-ruppert/56017ed345cedb3395e657aa
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -48,6 +55,7 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   blog: 
   arxiv: 
   linkedin: 
+    - https://www.linkedin.com/in/dave-ruppert-0711454/
   weibo:
   twitter:
   wikipedia:
@@ -90,6 +98,11 @@ David Ruppert is Andrew Schultz Jr. Professor of Engineering, School of Operatio
 # Biography[中文]
 
 # Interests[English]
+- Data Mining
+- Complex Systems, Network Science and Computation
+- Health Systems
+- Financial Engineering
+- Statistics and Machine Learning
 
 # Interests[中文]
 
@@ -112,14 +125,14 @@ David Ruppert is Andrew Schultz Jr. Professor of Engineering, School of Operatio
 
 # Publication[English]
 - **Ruppert, David.** 2010. Statistics and Data Analysis for Financial Engineering. New York, NY:Springer.
-
 - Carroll, R., **David Ruppert**, L. Stefanski, C Crainicanu. 2006. Measurement Error in Nonlinear Models, A Modern Perspective, 2nd Edition. (2) : 488. Chapman and Hall/CRC.
-
 - **Ruppert, David.** 2004. Statistics and Finance: An Introduction. New York, NY: Springer.
-
 - **Ruppert, David**, D. Wand, R Carroll. 2003. Semiparametric Regression. (12) : 404.Cambridge University Press.
-
 - **Ruppert, David**, C. Shoemaker, Y. Wang, Y. Li, N Bliznyuk. 2012. "Uncertainty Analysis for Computationally Expensive Models with Multiple Outputs." Journal of Agricultural, Biological, and Environmental Statistics 17 (4): 623-640.
+- **Transformation and Weighting in Regression**, (1988), Chapman & Hall. (with R.J. Carroll)
+- **Measurement Error in Nonlinear Models**, (1995), Chapman & Hall. (with R.J. Carroll and L.A. Stefanski)
+- **Semiparametric Regression**  D (2003), Cambridge University Press. (with R.J. Carroll and M.P. Wand )
+- **Statistics and Finance: An Introduction**, (2004), Springer
 
 # Publication[中文]
 

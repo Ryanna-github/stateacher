@@ -20,8 +20,10 @@ bio-current:
     - https://statistics.berkeley.edu/people/giles-hooker 
     - https://research.cornell.edu/researchers/giles-hooker
   github: 
-  googlescholar:  https://scholar.google.com/citations?user=iZgkmFIAAAAJ
-  aminer: https://www.aminer.cn/profile/giles-hooker/53f43295dabfaedce550795f
+  googlescholar:  
+    - https://scholar.google.com/citations?user=iZgkmFIAAAAJ
+  aminer: 
+    - https://www.aminer.cn/profile/giles-hooker/53f43295dabfaedce550795f
   status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
@@ -44,16 +46,21 @@ edu-bachelor:  # 本科经历，没有或找不到，可不填
   major: 
   date-start: 
   date-end: 
-   - BSc 1999
-   - BA 1998
+    - BSc 1999
+    - BA 1998
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
-  publication: http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
-  research: http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
-  software: http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
+  publication:
+    - http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
+  research:
+    - http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
+  software: 
+    - http://faculty.bscb.cornell.edu/~hooker/gilesh/gilesh.pdf
   project: 
-  blog: http://blogs.cornell.edu/modelmeanings/
+  blog: 
+    - http://blogs.cornell.edu/modelmeanings/
   arxiv: 
-  linkedin: https://uk.linkedin.com/in/giles-hooker-b7703828
+  linkedin: 
+    - https://uk.linkedin.com/in/giles-hooker-b7703828
   weibo:
   twitter:
   wikipedia:
