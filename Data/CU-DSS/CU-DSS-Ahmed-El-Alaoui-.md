@@ -20,10 +20,10 @@ bio-current:
 - https://elalaoui.stat.cornell.edu/ 
   github: 
   googlescholar:  
-  aminer: # 从这里查找 https://www.aminer.org/search/person
+  aminer:
   status: 在职
-  last-update: # yyyy-mm-dd 最近一次信息更新日期
-edu-phd:  # 读博经历
+  last-update: 
+edu-phd:  
   university: UC Berkeley
   school: 
 - Department of Statistics[https://statistics.berkeley.edu/]
@@ -33,7 +33,7 @@ edu-phd:  # 读博经历
   advisor: 
 - Andrea Montanari[montanari@stanford.edu]
   degree: phd
-edu-master: # 硕士经历，没有或找不到，可不填
+edu-master: 
   university:  Ecole Normale Supérieure/Ecole des Ponts Paristech
   school:  
   date-start: 2012
@@ -80,11 +80,13 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: Stanford University
-  school: Department of Statistics[https://statistics.stanford.edu/]
+  school:
+  - Department of Statistics[https://statistics.stanford.edu/]
   email: 
   date-start: 2018
   date-end: 2020
-  advisor: Andrea Montanari[montanari@stanford.edu]
+  advisor:
+  - Andrea Montanari[montanari@stanford.edu]
 ---
 
 # Profile
