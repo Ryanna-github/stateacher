@@ -1,18 +1,19 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Yang Ning 
+  name-en: Yang Ning 
   email: 
     -  yn265@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: 
   title-raw: Assistant Professor
   title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests:
+    - developing statistical foundation for machine learning methods and causal inference
   homepage: 
     - http://yangning.stat.cornell.edu/ # 如果有多个主页，请都填写上
   github: 
@@ -24,17 +25,17 @@ bio-current:
 edu-phd:  # 读博经历
   university: Johns Hopkins University
   school: 
-    - Bloomberg School of Public Health[https://publichealth.jhu.edu/departments/biostatistics]
+    - Bloomberg School of Public Health [https://publichealth.jhu.edu/departments/biostatistics]
   email: 
   date-start: 2007
   date-end: 
   advisor: 
     - Hongkai Ji[hji@jhu.edu]
-    - Kung-Yee Liang[https://www.linkedin.com/in/kung-yee-liang-1607157/] 
+    - Kung-Yee Liang [https://www.linkedin.com/in/kung-yee-liang-1607157/] 
   degree: # phd
 edu-master: # 硕士经历，没有或找不到，可不填
   university: Fudan University(China)
-  school: School of Mathematical Science[https://math.fudan.edu.cn/]
+  school: School of Mathematical Science [https://math.fudan.edu.cn/]
   date-start: 
   date-end: 2012
   advisor:
@@ -79,7 +80,7 @@ job-post-doc-1: # 博士后研究员，字段填写参看示例文件，若无�
   email: 
   date-start: 2014
   date-end: 2016
-  advisor: Han Liu[hanliu@eecs.northwestern.edu]
+  advisor: Han Liu [hanliu@eecs.northwestern.edu]
 job-post-doc-2: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: University of Toronto and University of Waterloo
   school: 
@@ -87,8 +88,8 @@ job-post-doc-2: # 博士后研究员，字段填写参看示例文件，若无�
   date-start: 2012
   date-end: 2014
   advisor: 
-    - Nancy Reid[reid@utstat.toronto.edu]
-    - Grace Yi[yyi@uwaterloo.ca]
+    - Nancy Reid [reid@utstat.toronto.edu]
+    - Grace Yi [yyi@uwaterloo.ca]
 ---
 
 # Profile
@@ -103,6 +104,7 @@ Ning obtained a Bachelor's degree in Mathematics from Fudan University, China, a
 # Biography[中文]
 
 # Interests[English]
+- developing statistical foundation for machine learning methods and causal inference
 
 # Interests[中文]
 

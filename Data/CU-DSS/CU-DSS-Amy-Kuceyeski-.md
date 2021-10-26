@@ -1,14 +1,12 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Amy Kuceyeski 
-  email: 
-    - amk2012@med.cornell.edu
+  name-en: Amy Kuceyeski 
+  email: amk2012@med.cornell.edu
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school:
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: Mathematics in Radiology
   title-raw:  Associate Professor
   title: Associate Professor
@@ -27,7 +25,7 @@ bio-current:
 edu-phd:  # 读博经历
   university: Case Western Reserve University
   school: 
-    - Depatment of Mathematics[https://mathstats.case.edu/]
+    - Depatment of Mathematics [https://mathstats.case.edu/]
   email: 
   date-start: 
   date-end: 2009
@@ -42,7 +40,7 @@ edu-master: # 硕士经历，没有或找不到，可不填
 edu-bachelor:  # 本科BS
   university:  Mount Union College
   school:  
-    - Deaptment of Mathematics and Computer Science[https://www.mountunion.edu/dept-math-computer-science]
+    - Deaptment of Mathematics and Computer Science [https://www.mountunion.edu/dept-math-computer-science]
   major:  Mathematics
   date-start: 
   date-end: 2004
@@ -92,7 +90,6 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 
 # Biography[English]
 Amy Kuceyeski is an adjunct associate professor in the Department of Statistics and Data Science and an associate professor of mathematics in the Radiology Department and Brain and Mind Research Institute at Weill Cornell Medicine. She performs research in quantitative neuroimaging of neurological disorders, including multiple sclerosis, stroke, traumatic brain injury and disorders of consciousness.
-
 
 # Biography[中文]
 

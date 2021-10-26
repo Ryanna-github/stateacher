@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Michael Nussbaum 
+  name-en: Michael Nussbaum 
   email: 
     - hall@math.cornell.edu
     - mn66@cornell.edu
@@ -9,13 +9,16 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Mathematics[https://math.cornell.edu/]
+    - Mathematics [https://math.cornell.edu/]
   major: Mathematics
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - problems of hypothesis testing and discrimination between quantum states 
+    - the quantum Chernoff bound
+    - Gaussian approximation of nonparametric quantum statistical models.
   homepage: 
-    - https://math.cornell.edu/michael-nussbaum # 如果有多个主页，请都填写上
+    - https://math.cornell.edu/michael-nussbaum 
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person #没有结果
@@ -89,6 +92,9 @@ Michael Nussbaum is a professor of mathematics. His research program focuses on 
 # Biography[中文]
 
 # Interests[English]
+- problems of hypothesis testing and discrimination between quantum states 
+- the quantum Chernoff bound
+- Gaussian approximation of nonparametric quantum statistical models.
 
 # Interests[中文]
 

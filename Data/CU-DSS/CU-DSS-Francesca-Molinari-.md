@@ -1,25 +1,28 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Francesca Molinari 
-  email: 
-    -  fm72@cornell.edu
+  name-en: Francesca Molinari 
+  email: fm72@cornell.edu
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: Economics
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - Economics
+    - Data Science
+    - Statistic
+    - Applied Mathematics
   homepage: 
     -  https://molinari.economics.cornell.edu/
   github: 
   googlescholar:  
   aminer: 
     - https://www.aminer.cn/profile/francesca-molinari/53f46201dabfaedf436349a6
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: 2019-x-x
 edu-phd:  # 读博经历
   university: Northwestern University
@@ -92,7 +95,10 @@ Francesca Molinari is a professor in the economics department. Her research focu
 # Biography[中文]
 
 # Interests[English]
-
+- Economics
+- Data Science
+- Statistic
+- Applied Mathematics
 # Interests[中文]
 
 # Education[English]

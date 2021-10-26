@@ -1,19 +1,23 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Marten Wegkamp 
+  name-en: Marten Wegkamp #18
   email: 
     - marten.wegkamp@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
-    - Mathematics[https://math.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
+    - Mathematics [https://math.cornell.edu/]
   major: 
   title-raw: Professor  
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - mathematical statistics
+    - empirical process theory
+    - high dimensional statistics 
+    - statistical learning theory. 
   homepage: 
     - http://www.math.cornell.edu/~marten # 如果有多个主页，请都填写上
   github: 
@@ -93,7 +97,11 @@ Marten Wegkamp (PhD Mathematics, Leiden University, 1996) joined the Cornell fac
 # Biography[中文]
 
 # Interests[English]
-
+- mathematical statistics
+- empirical process theory
+- high dimensional statistics 
+- statistical learning theory
+ 
 # Interests[中文]
 
 # Education[English]

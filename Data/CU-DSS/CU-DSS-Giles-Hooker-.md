@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Giles Hooker 
+  name-en: Giles Hooker 
   email: 
     - gjh27@cornell.edu
     - ghooker@berkeley.edu
@@ -9,12 +9,17 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
-    - Department of Computational Biology[https://cb.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
+    - Department of Computational Biology [https://cb.cornell.edu/]
   major: 
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - Statistical Computing
+    - Applications in the Physical and Environmental Sciences
+    - Applications in Biology and Medicine
+    - Non-Parametric Inference
+    - Artificial Intelligence/Machine Learning
   homepage: 
     - http://faculty.bscb.cornell.edu/~hooker/
     - https://statistics.berkeley.edu/people/giles-hooker 

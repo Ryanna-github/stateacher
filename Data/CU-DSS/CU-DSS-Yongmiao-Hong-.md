@@ -1,18 +1,21 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Yongmiao Hong 
+  name-en: Yongmiao Hong
   email: 
     -  yh20@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Economics[https://economics.cornell.edu/]
+    - Department of Economics [https://economics.cornell.edu/]
   major: Economics
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - nonlinear time series analysis
+    - locally stationary time series analysis
+    - and generalized spectral analysis
   homepage: 
     - https://economics.cornell.edu/yongmiao-hong
   github: 
@@ -105,8 +108,11 @@ Professor Hong has also worked on evaluation of the Chinese economic policies. E
 # Biography[中文]
 
 # Interests[English]
-
+-  developing statistical foundation for machine learning methods and causal inference.
 # Interests[中文]
+- nonlinear time series analysis
+- locally stationary time series analysis
+- and generalized spectral analysis
 
 # Education[English]
 

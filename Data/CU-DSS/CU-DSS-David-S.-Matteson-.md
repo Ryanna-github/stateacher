@@ -1,15 +1,14 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David S.  Matteson 
+  name-en: David S. Matteson 
   email: 
     - matteson@cornell.edu
     - dm484@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: 
   title-raw: Associate Professor
   title: Associate Professor
@@ -82,11 +81,11 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: 
-  - ILR School[https://www.ilr.cornell.edu/]
-  - Computing and Information Science[https://cis.cornell.edu/]
-  - Center for Applied Mathematics[https://www.cam.cornell.edu/cam]
-  - Field of Operations Research[https://www.orie.cornell.edu/orie/people/gradfield.cfm]
-  - Program in Financial Engineering[https://www.orie.cornell.edu/research/financial_engineering.cfm]
+  - ILR School [https://www.ilr.cornell.edu/]
+  - Computing and Information Science [https://cis.cornell.edu/]
+  - Center for Applied Mathematics [https://www.cam.cornell.edu/cam]
+  - Field of Operations Research [https://www.orie.cornell.edu/orie/people/gradfield.cfm]
+  - Program in Financial Engineering [https://www.orie.cornell.edu/research/financial_engineering.cfm]
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
   school: 

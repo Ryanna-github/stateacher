@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Martin Wells 
+  name-en: Martin Wells 
   email: 
     -  mtw1@cornell.edu
     - martin.t.wells@cornell.edu
@@ -9,8 +9,8 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
-    - Department of Computational Biology[https://compbio.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
+    - Department of Computational Biology [https://compbio.cornell.edu/]
   major: 
   title-raw: Professor
   title: Professor

@@ -1,23 +1,21 @@
 ---
-bio-current:
+bio-current: 
   name-cn: 
-  name_en: Ahmed El Alaoui 
-  email: 
-- ae333@cornell.edu 
+  name-en: Ahmed El Alaoui 
+  email: ae333@cornell.edu 
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: 
-- Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major:  ####
   title-raw: Assistant Professor
   title: Assistant Professor
   interests: 
-- High-dimensional phenomena in statistics and probability theory 
-- Related algorithmic questions
-- Statistical physics
+    - High-dimensional phenomena in statistics and probability theory 
+    - Related algorithmic questions
+    - Statistical physics
   homepage: 
-- https://elalaoui.stat.cornell.edu/ 
+    - https://elalaoui.stat.cornell.edu/ 
   github: 
   googlescholar:  
   aminer:
@@ -26,12 +24,12 @@ bio-current:
 edu-phd:  
   university: UC Berkeley
   school: 
-- Department of Statistics[https://statistics.berkeley.edu/]
+    - Department of Statistics [https://statistics.berkeley.edu/]
   email: 
   date-start: 2013
   date-end: 2018
   advisor: 
-- Andrea Montanari[montanari@stanford.edu]
+    - Andrea Montanari [montanari@stanford.edu]
   degree: phd
 edu-master: 
   university:  Ecole Normale Supérieure/Ecole des Ponts Paristech
@@ -42,21 +40,21 @@ edu-master:
 edu-bachelor:  # 本科经历，没有或找不到，可不填
   university: Ecole Polytechnique
   school: 
-- Institut Ploytechnique[https://www.polytechnique.edu/en]
+    - Institut Ploytechnique [https://www.polytechnique.edu/en]
   major: Applied math
   date-start: 2009
   date-end: 2012
 page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   publication: 
-- https://arxiv.org/search/math?searchtype=author&query=Alaoui%2C+A+E #arxiv
+    - https://arxiv.org/search/math?searchtype=author&query=Alaoui%2C+A+E #arxiv
   research: 
   software: 
   project: 
   blog: 
   arxiv: 
-- https://arxiv.org/search/math?searchtype=author&query=Alaoui%2C+A+E
+    - https://arxiv.org/search/math?searchtype=author&query=Alaoui%2C+A+E
   linkedin: 
-- https://www.linkedin.com/in/elalaouiahmed/
+    - https://www.linkedin.com/in/elalaouiahmed/
   weibo:
   twitter:
   wikipedia:
@@ -81,12 +79,12 @@ job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: Stanford University
   school:
-  - Department of Statistics[https://statistics.stanford.edu/]
+  - Department of Statistics [https://statistics.stanford.edu/]
   email: 
   date-start: 2018
   date-end: 2020
   advisor:
-  - Andrea Montanari[montanari@stanford.edu]
+  - Andrea Montanari [montanari@stanford.edu]
 ---
 
 # Profile

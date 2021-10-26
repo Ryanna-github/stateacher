@@ -1,21 +1,21 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Florentina Bunea 
+  name-en: Florentina Bunea 
   email: 
     -  fb238@cornell.edu
   sex: female
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major:  Statistics And Data Science
   title-raw: Professor
   title: Professor
   interests:
-  - Foundations of data science; statistical machine learning theory.
-  - High dimensional statistical inference in parametric and non-parametric models:regression,covariance estimation, graphical models, model-based clustering (hard clustering and overlapping clustering), cluster-based models, latent variable models, topic models, networks,new perspectives in prediction problems, comparison of clustering schemes in Wassersteindistance.
-  - Applications to Immunology, Systems Biology, Genetics,Neuroscience and other areas
+    - Foundations of data science; statistical machine learning theory.
+    - High dimensional statistical inference in parametric and non-parametric models:regression,covariance estimation, graphical models, model-based clustering (hard clustering and over-lapping clustering), cluster-based models, latent variable models, topic models, networks,new perspectives in prediction problems, comparison of clustering schemes in Wassersteindistance.
+    - Applications to Immunology, Systems Biology, Genetics,Neuroscience and other areas
   homepage: 
     - https://bunea.stat.cornell.edu/ 
   github: 
@@ -67,9 +67,9 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     with: 
     project: 
 group: 
-  - Center for Applied Mathematics (CAM) 
-  - Machine Learning Group in CIS
-  - Machine Learning Group in the Computing and Information
+    - Center for Applied Mathematics (CAM) 
+    - Machine Learning Group in CIS
+    - Machine Learning Group in the Computing and Information
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: Cornell University 
   school:  

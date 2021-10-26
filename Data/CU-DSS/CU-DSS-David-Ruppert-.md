@@ -1,14 +1,12 @@
 ---
 bio-current:
   name-cn: 
-  name_en: David Ruppert 
-  email: 
-    - dr24@cornell.edu
+  name-en: David Ruppert 
+  email: dr24@cornell.edu
   sex:  male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school:
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: engineering
   title-raw: Professor
   title: Professor

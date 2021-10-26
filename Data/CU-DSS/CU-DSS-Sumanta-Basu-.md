@@ -1,15 +1,15 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Sumanta Basu 
+  name-en: Sumanta Basu 
   email: 
     -  sb2457@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
-    - Department of Computational Biology[https://compbio.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
+    - Department of Computational Biology [https://compbio.cornell.edu/]
   major: 
   title-raw: Associate Professor
   title: Associate Professor
@@ -21,12 +21,12 @@ bio-current:
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university:  University of Michigan 
   school:  
-    - Department of Statistics[http://lsa.umich.edu/stats/]
+    - Department of Statistics [http://lsa.umich.edu/stats/]
   email: 
   date-start: 
   date-end: 2014

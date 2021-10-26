@@ -1,25 +1,30 @@
 ---
 bio-current:
   name-cn: 
-  name_en: James Booth 
+  name-en: James Booth 
   email: 
     -  jim.booth@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: Data Science
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests:
+    - the bootstrap and Monte Carlo methods
+    - clustering, exact inference
+    - mixed models
+    - generalized linear models
+    - applications in bioinformatics.
   homepage: 
-    -  http://faculty.bscb.cornell.edu/~booth/
+    - http://faculty.bscb.cornell.edu/~booth/
   github: 
   googlescholar:  
   aminer: 
     - https://www.aminer.cn/profile/james-booth/560288b645cedb3395fcb915
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of Kentucky
@@ -94,7 +99,11 @@ I am currently a Professor in the Department of Statistics and Data Science at C
 # Biography[中文]
 
 # Interests[English]
-
+- the bootstrap and Monte Carlo methods
+- clustering, exact inference
+- mixed models
+- generalized linear models
+- applications in bioinformatics.
 # Interests[中文]
 
 # Education[English]

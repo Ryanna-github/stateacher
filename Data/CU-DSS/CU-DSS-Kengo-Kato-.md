@@ -1,20 +1,22 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Kengo Kato 
+  name-en: Kengo Kato #16
   email: 
     -  kk976@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school:
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: 
     - Statistical Theories for Analyzing Big Data 
     - High-dimensional Data
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests:
+    - high dimensional statistical 
+    - econometric models
   homepage: 
     - https://sites.google.com/site/kkatostat/home 
   github: 
@@ -109,6 +111,8 @@ When he is not working on tricky statistical problems, Kato says that his two ch
 # Biography[中文]
 
 # Interests[English]
+- high dimensional statistical 
+- econometric models
 
 # Interests[中文]
 

@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Kara Karpman 
+  name-en: Kara Karpman 
   email: 
     - kjk233@cornell.edu
     - kkarpman@middlebury.edu
@@ -9,11 +9,12 @@ bio-current:
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: 
   title-raw: Adjunct Assitant Professor
   title: Assistant Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - Applied Mathematics
   homepage: 
     - http://www.middlebury.edu/academics/math/faculty/node/648984
   github: 
@@ -64,9 +65,9 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
   university: 
-    - Middlebury[http://www.middlebury.edu/#story645114]
+    - Middlebury [http://www.middlebury.edu/#story645114]
   school: 
-    - Department of Mathematics[http://www.middlebury.edu/academics/math]
+    - Department of Mathematics [http://www.middlebury.edu/academics/math]
   major: Statistics
   email: kkarpman@middlebury.edu
   homepage: 
@@ -92,6 +93,7 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Biography[中文]
 
 # Interests[English]
+- Applied Mathematics
 
 # Interests[中文]
 

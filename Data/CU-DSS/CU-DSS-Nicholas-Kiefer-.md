@@ -1,18 +1,20 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Nicholas Kiefer 
+  name-en: Nicholas Kiefer 
   email: 
     -  nicholas.kiefer@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school:
-    - Economics and Statistical Science[https://economics.cornell.edu/]
+    - Economics and Statistical Science [https://economics.cornell.edu/]
   major: 
   title-raw: Professor
   title: Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - developing structural job search models 
+    - subsequently equilibrium search models
   homepage: 
     - http://http//www.arts.cornell.edu/econ/kiefer
     - https://kiefer.economics.cornell.edu/
@@ -92,6 +94,8 @@ Professor Kiefer is in the departments of economics and statistical sciences and
 # Biography[中文]
 
 # Interests[English]
+- developing structural job search models 
+- subsequently equilibrium search models
 
 # Interests[中文]
 

@@ -1,13 +1,13 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Joe Guinness 
+  name-en: Joe Guinness 
   email: 
     -  guinness@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school: Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: Statistics
   title-raw: Associate Professor
   title: Associate Professor

@@ -1,19 +1,23 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Thomas DiCiccio
+  name-en: Thomas DiCiccio #24
   email: 
     -  tjd9@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
   school: 
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
-    - Department of ILR[https://www.ilr.cornell.edu/]
+    - Department of Statistics and Data Science [https://stat.cornell.edu/]
+    - Department of ILR [https://www.ilr.cornell.edu/]
   major: statistical methodology 
   title-raw: Associate Professor
   title: Associate Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  interests: 
+    - higher-order methods for accurate statistical inference, as achieved through asymptotic, computer-intensive, and Bayesian methods
+    - linear models
+    - skew distributions
+    - and time series.
   homepage: 
     -  https://www.ilr.cornell.edu/people/thomas-diciccio
   github: 
@@ -91,6 +95,10 @@ Tom DiCiccio is an Associate Professor of Social Statistics in the Industrial an
 # Biography[中文]
 
 # Interests[English]
+- higher-order methods for accurate statistical inference, as achieved through asymptotic, computer-intensive, and Bayesian methods
+- linear models
+- skew distributions
+- and time series.
 
 # Interests[中文]
 

@@ -1,24 +1,32 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Dominique Fourdrinier 
-  email: 
-    -  df274@cornell.edu
+  name-en: Dominique Fourdrinier 
+  email: df274@cornell.edu
   sex: male
   birth-date: # yyyy 到年即可
   university: Cornell University 
-  school:  
-    - Department of Statistics and Data Science[https://stat.cornell.edu/]
+  school: Department of Statistics and Data Science [https://stat.cornell.edu/]
   major: 
   title-raw: Adjunct Professor
-  title: # Associate Professor/Assistant Professor/Professor
-  interests: # 分点罗列，依次以 ‘-’ 开头
+  title: Professor
+  interests: 
+    - Estimation
+    - Normal Distribution
+    - Robustness
+    - Statistical Inference
+    - Mathematical Statistics
+    - Hypothesis Testing
+    - Regression Analysis
+    - Maximum Likelihood
+    - Multivariate Statistics
+    - Bayesian Statistics
   homepage: 
-    -  # 如果有多个主页，请都填写上
+    - https://www.researchgate.net/profile/Dominique-Fourdrinier
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: # 选项如下：在读/在职/离职/退休/亡故
+  status: 在职
   last-update: # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: 
@@ -89,7 +97,16 @@ job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可�
 # Biography[中文]
 
 # Interests[English]
-
+- Estimation
+- Normal Distribution
+- Robustness
+- Statistical Inference
+- Mathematical Statistics
+- Hypothesis Testing
+- Regression Analysis
+- Maximum Likelihood
+- Multivariate Statistics
+- Bayesian Statistics
 # Interests[中文]
 
 # Education[English]
