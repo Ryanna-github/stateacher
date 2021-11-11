@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name-en: Alfred Hero
   email: 
-    - hero@umich.edu # 如果有多个邮箱，请都填写上
+    - hero@umich.edu # 如果有多个邮箱，请都填写
   sex: male
   birth-date: # yyyy 到年即可
   university: University of Michigan—Ann Arbor 
