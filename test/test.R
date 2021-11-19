@@ -60,4 +60,4 @@ yaml_test <- function(f){
   }
 }
 
-yaml_test(f[[5]])
+yaml_test(f)
