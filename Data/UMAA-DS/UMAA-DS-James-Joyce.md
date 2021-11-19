@@ -3,7 +3,7 @@ bio-current:
   name-cn: 
   name-en: James Joyce
   email: 
-    - 	jjoyce@umich.edu # 如果有多个邮箱，请都填写上
+   - jjoyce@umich.edu # 如果有多个邮箱，请都填写上
   sex: # male/female
   birth-date: # yyyy 到年即可
   university: University of Michigan—Ann Arbor 
